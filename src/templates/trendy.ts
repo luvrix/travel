@@ -1,0 +1,187 @@
+import type { TemplateConfig } from './types'
+
+export const trendyTemplate: TemplateConfig = {
+  id: 'trendy',
+  name: '音乐',
+  icon: '🔥',
+  description: '网易云音乐风格，暗红配黑金，沉浸氛围',
+
+  colors: {
+    pinFill: '#E03A3A',
+    attractionFill: '#8A2BE2',
+    attractionStroke: '#5F10DD',
+    comboFill: 'rgba(224,58,58,0.04)',
+    comboStroke: 'rgba(224,58,58,0.10)',
+    comboShadow: 'rgba(138,43,226,0.06)',
+    cityLabelFill: 'rgba(255,255,255,0.90)',
+    attractionLabelFill: 'rgba(255,255,255,0.50)',
+    transportIconColor: '#FFA500',
+    edgeStroke: '#E03A3A',
+    canvasBackground: '#0A0A0A',
+  },
+
+  fonts: {
+    city: { size: 24, weight: '700', color: 'rgba(255,255,255,0.90)', family: "-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'PingFang SC', 'Helvetica Neue', sans-serif" },
+    attraction: { size: 18, weight: '400', color: 'rgba(255,255,255,0.50)', family: "-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'PingFang SC', 'Helvetica Neue', sans-serif" },
+    transport: { size: 13, weight: '600', color: '#FFA500', family: "-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', sans-serif" },
+  },
+
+  gradient: {
+    stops: [
+      { offset: 0, color: '#0A0A0A' },
+      { offset: 0.25, color: '#110A0E' },
+      { offset: 0.55, color: '#0E0810' },
+      { offset: 1, color: '#0A0A0A' },
+    ],
+  },
+  gradientDirection: 'vertical',
+
+  header: {
+    titleFont: { size: 48, weight: '800', color: 'rgba(255,255,255,0.90)', family: "-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'PingFang SC', 'Helvetica Neue', sans-serif" },
+    subtitleFont: { size: 14, weight: '400', color: '#808080', family: "-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'PingFang SC', sans-serif" },
+    divider: { color: 'rgba(224,58,58,0.12)', style: 'solid' },
+    align: 'left',
+  },
+
+  titleLayout: {
+    x: 0.06,
+    y: 0.065,
+    align: 'left',
+    color: 'rgba(255,255,255,0.92)',
+    fontSize: 48,
+    fontWeight: '800',
+    fontFamily: "-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'PingFang SC', 'Helvetica Neue', sans-serif",
+    letterSpacing: 1,
+    textShadow: '0 0 50px rgba(224,58,58,0.25), 0 0 100px rgba(138,43,226,0.10)',
+  },
+
+  subtitleLayout: {
+    x: 0.06,
+    y: 0.10,
+    align: 'left',
+    color: '#808080',
+    fontSize: 14,
+    fontWeight: '400',
+    fontFamily: "-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'PingFang SC', sans-serif",
+    letterSpacing: 0.5,
+  },
+
+  decorations: [
+    {
+      type: 'badge',
+      x: 0.06,
+      y: 0.032,
+      text: 'MUSIC',
+      fontSize: 10,
+      fontWeight: '700',
+      color: '#FFFFFF',
+      borderColor: 'transparent',
+      borderWidth: 0,
+      borderRadius: 4,
+      padding: '2px 8px',
+      backgroundColor: '#E03A3A',
+      letterSpacing: 1,
+    },
+    {
+      type: 'badge',
+      x: 0.94,
+      y: 0.032,
+      text: 'FLOW',
+      fontSize: 10,
+      fontWeight: '700',
+      color: '#8A2BE2',
+      backgroundColor: 'rgba(138,43,226,0.08)',
+      borderRadius: 4,
+      padding: '2px 8px',
+      letterSpacing: 1,
+    },
+    {
+      type: 'line',
+      x: 0.5,
+      y: 0.125,
+      width: 600,
+      thickness: 1,
+      color: 'rgba(224,58,58,0.06)',
+    },
+    {
+      type: 'line',
+      x: 0.06,
+      y: 0.125,
+      width: 30,
+      thickness: 2,
+      color: '#E03A3A',
+    },
+    {
+      type: 'line',
+      x: 0.94,
+      y: 0.125,
+      width: 30,
+      thickness: 2,
+      color: '#8A2BE2',
+    },
+    {
+      type: 'watermark',
+      x: 0.5,
+      y: 0.55,
+      rotation: -4,
+      text: 'FLOW',
+      fontSize: 160,
+      color: 'rgba(224,58,58,0.02)',
+      fontWeight: '900',
+      letterSpacing: 40,
+    },
+    {
+      type: 'label',
+      x: 0.06,
+      y: 0.965,
+      text: 'MUSIC · ROUTE',
+      fontSize: 9,
+      fontWeight: '600',
+      color: 'rgba(255,255,255,0.08)',
+      backgroundColor: 'transparent',
+      borderRadius: 0,
+      letterSpacing: 2,
+    },
+  ],
+
+  frame: {
+    borderColor: 'rgba(224,58,58,0.12)',
+    innerLineColor: 'rgba(138,43,226,0.05)',
+    margin: 16,
+    borderWidth: 1,
+    borderRadius: 0,
+    innerLine: { margin: 8, borderWidth: 0.5, borderRadius: 0 },
+  },
+
+  footer: {
+    text: 'ROUTE MAP',
+    color: 'rgba(255,255,255,0.06)',
+    letterSpacing: 3,
+  },
+
+  background: {
+    type: 'cinematic',
+    topColor: 'rgba(10,10,10,0.65)',
+    topStop: 0.10,
+    bottomColor: 'rgba(10,10,10,0.80)',
+    bottomStop: 0.80,
+    colorWashOpacity: 0.12,
+  },
+
+  photo: { type: 'hero', source: 'destination' },
+  photoStyle: { borderRadius: 0, border: '1px solid rgba(224,58,58,0.10)', shadow: '0 4px 24px rgba(224,58,58,0.08), 0 0 40px rgba(138,43,226,0.04)', filter: 'contrast(1.05) saturate(1.1)', zIndex: -5 },
+
+  layout: {
+    header: { x: 0, y: 0, width: 1, height: 0.10 },
+    routeMap: { x: 0, y: 0, width: 1, height: 1 },
+    footer: { x: 0, y: 0.95, width: 1, height: 0.05 },
+    photos: { x: 0, y: 0, width: 1, height: 1 },
+  },
+
+  cityPin: { shape: 'square-rounded', size: 48, showPhoto: true, showLabel: true, labelPosition: 'right' },
+  attractionNode: { shape: 'diamond', size: 8, showLabel: true, labelPosition: 'right' },
+  edge: { lineType: 'curve', trailStyle: 'dot-trail', showTransportBadge: true, glowEffect: true, colorMode: 'day-tinted' },
+  comboCard: { style: 'glass', borderRadius: 4 },
+  daySticker: { style: 'badge', position: 'above-first-node' },
+  headerHeight: 160,
+}

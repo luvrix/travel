@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+.time-input::-webkit-calendar-picker-indicator {
+  display: none;
+}
+.time-input::-webkit-date-and-time-value {
+  text-align: left;
+}
