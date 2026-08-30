@@ -10,12 +10,6 @@ export const cartoonTemplate: TemplateConfig = {
     pinFill: '#FF2C55',
     attractionFill: '#FFB6C1',
     attractionStroke: '#FFFFFF',
-    comboFill: 'rgba(255,44,85,0.04)',
-    comboStroke: 'rgba(255,44,85,0.10)',
-    comboShadow: 'rgba(255,182,193,0.10)',
-    cityLabelFill: '#000000',
-    attractionLabelFill: '#808080',
-    transportIconColor: '#FF2C55',
     edgeStroke: '#D8A7B1',
     canvasBackground: '#FFF5F5',
   },
@@ -23,7 +17,6 @@ export const cartoonTemplate: TemplateConfig = {
   fonts: {
     city: { size: 26, weight: '700', color: '#000000', family: "'PingFang SC', 'Noto Sans SC', sans-serif" },
     attraction: { size: 20, weight: '500', color: '#808080', family: "'PingFang SC', 'Noto Sans SC', sans-serif" },
-    transport: { size: 16, weight: '500', color: '#FF2C55', family: "'PingFang SC', sans-serif" },
   },
 
   gradient: {
@@ -132,20 +125,12 @@ export const cartoonTemplate: TemplateConfig = {
 
   background: { type: 'clean' },
 
-  photo: { type: 'hero', source: 'destination' },
   photoStyle: { borderRadius: 16, border: '3px solid rgba(255,255,255,0.8)', shadow: '0 4px 20px rgba(255,44,85,0.10)', filter: 'saturate(1.1)', zIndex: -5 },
 
-  layout: {
-    header: { x: 0, y: 0, width: 1, height: 0.12 },
-    routeMap: { x: 0, y: 0, width: 1, height: 1 },
-    footer: { x: 0, y: 0.95, width: 1, height: 0.05 },
-    photos: { x: 0, y: 0, width: 1, height: 1 },
-  },
 
-  cityPin: { shape: 'circle-photo', size: 56, showPhoto: true, showLabel: true, labelPosition: 'below' },
+  cityPin: { shape: 'pin-drop', size: 50, showLabel: true, labelPosition: 'below' },
   attractionNode: { shape: 'dot', size: 10, showLabel: true, labelPosition: 'right' },
   edge: { lineType: 'curve', trailStyle: 'dot-trail', showTransportBadge: true, glowEffect: false, colorMode: 'day-tinted' },
-  comboCard: { style: 'glass', borderRadius: 20 },
   daySticker: { style: 'pill', position: 'above-first-node' },
   headerHeight: 145,
 }

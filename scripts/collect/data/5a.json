@@ -1,0 +1,3359 @@
+[
+  {
+    "name": "皖南古村落—西递·宏村",
+    "lat": 29.905556,
+    "lng": 117.991111,
+    "city": "黄山",
+    "pinyin": "wannangucunluo—xidi·hongcun",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "八里河景区",
+    "lat": 32.561495,
+    "lng": 116.307117,
+    "city": "阜阳",
+    "pinyin": "balihejingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "长江采石矶文化生态旅游区",
+    "lat": 31.7,
+    "lng": 118.44,
+    "city": "马鞍山",
+    "pinyin": "changjiangcaishijiwenhuashengtailvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "方特旅游区",
+    "lat": 31.379544,
+    "lng": 118.372609,
+    "city": "芜湖",
+    "pinyin": "fangtelvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "古徽州文化旅游区",
+    "lat": 29.865596,
+    "lng": 118.430323,
+    "city": "黄山",
+    "pinyin": "guhuizhouwenhualvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "黄山风景区",
+    "lat": 30.166667,
+    "lng": 118.183333,
+    "city": "黄山",
+    "pinyin": "huangshanfengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "绩溪龙川景区",
+    "lat": 30.38948,
+    "lng": 119.059058,
+    "city": "宣城",
+    "pinyin": "jixilongchuanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "九华山风景区",
+    "lat": 30.482222,
+    "lng": 117.804444,
+    "city": "池州",
+    "pinyin": "jiuhuashanfengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "琅琊山景区",
+    "lat": 32.266667,
+    "lng": 118.266667,
+    "city": "滁州",
+    "pinyin": "langyashanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "天柱山风景区",
+    "lat": 30.741667,
+    "lng": 116.450278,
+    "city": "安庆",
+    "pinyin": "tianzhushanfengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "三河古镇景区",
+    "lat": 31.51828,
+    "lng": 117.2387,
+    "city": "合肥",
+    "pinyin": "sanheguzhenjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "天堂寨旅游景区",
+    "lat": 31.125278,
+    "lng": 115.773056,
+    "city": "六安",
+    "pinyin": "tiantangzhailvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "万佛湖景区",
+    "lat": 31.303889,
+    "lng": 114.760278,
+    "city": "六安",
+    "pinyin": "wanfohujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "八达岭长城（八达岭-慕田峪长城）",
+    "lat": 40.354167,
+    "lng": 116.006944,
+    "city": "北京",
+    "pinyin": "badalingchangcheng（badaling-mutianyuchangcheng）",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "慕田峪长城旅游景区（八达岭-慕田峪长城）",
+    "lat": 40.434515,
+    "lng": 116.560575,
+    "city": "北京",
+    "pinyin": "mutianyuchangchenglvyoujingqu（badaling-mutianyuchangcheng）",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "北京（通州）大运河文化旅游景区",
+    "lat": 39.869599,
+    "lng": 116.740689,
+    "city": "北京",
+    "pinyin": "beijing（tongzhou）dayunhewenhualvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "故宫博物院",
+    "lat": 39.915556,
+    "lng": 116.390833,
+    "city": "北京",
+    "pinyin": "gugongbowuyuan",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "明十三陵景区",
+    "lat": 40.303333,
+    "lng": 116.231944,
+    "city": "北京",
+    "pinyin": "mingshisanlingjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "圆明园景区",
+    "lat": 40.007222,
+    "lng": 116.2925,
+    "city": "北京",
+    "pinyin": "yuanmingyuanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "奥林匹克公园",
+    "lat": 40.0,
+    "lng": 116.38683,
+    "city": "北京",
+    "pinyin": "aolinpikegongyuan",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "恭王府景区",
+    "lat": 39.936639,
+    "lng": 116.379861,
+    "city": "北京",
+    "pinyin": "gongwangfujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "颐和园",
+    "lat": 39.9975,
+    "lng": 116.2689,
+    "city": "北京",
+    "pinyin": "yiheyuan",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "天坛公园",
+    "lat": 39.882222,
+    "lng": 116.406389,
+    "city": "北京",
+    "pinyin": "tiantangongyuan",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "阿依河景区",
+    "lat": 29.155562,
+    "lng": 108.114037,
+    "city": "重庆",
+    "pinyin": "ayihejingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "白帝城·瞿塘峡景区",
+    "lat": 31.04349,
+    "lng": 109.570541,
+    "city": "重庆",
+    "pinyin": "baidicheng·qutangxiajingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "重庆小三峡-小小三峡",
+    "lat": 31.232448,
+    "lng": 109.872777,
+    "city": "重庆",
+    "pinyin": "chongqingxiaosanxia-xiaoxiaosanxia",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "重庆大足石刻景区",
+    "lat": 29.7,
+    "lng": 105.7,
+    "city": "重庆",
+    "pinyin": "chongqingdazushikejingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "黑山谷景区",
+    "lat": 28.888442,
+    "lng": 106.999321,
+    "city": "重庆",
+    "pinyin": "heishangujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "江津四面山景区",
+    "lat": 28.6535,
+    "lng": 106.405,
+    "city": "重庆",
+    "pinyin": "jiangjinsimianshanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "金佛山-神龙峡景区",
+    "lat": 29.066667,
+    "lng": 107.3,
+    "city": "重庆",
+    "pinyin": "jinfoshan-shenlongxiajingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "武陵山大裂谷景区",
+    "lat": 27.9025,
+    "lng": 108.742778,
+    "city": "重庆",
+    "pinyin": "wulingshandaliegujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "武隆喀斯特旅游区（天生三桥、仙女山、芙蓉洞)",
+    "lat": 29.3,
+    "lng": 108.0,
+    "city": "重庆",
+    "pinyin": "wulongkasitelvyouqu（tianshengsanqiao、xiannvshan、furongdong)",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "酉阳桃花源景区",
+    "lat": 28.843553,
+    "lng": 108.757704,
+    "city": "重庆",
+    "pinyin": "youyangtaohuayuanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "云阳龙缸景区",
+    "lat": 30.673498,
+    "lng": 109.011511,
+    "city": "重庆",
+    "pinyin": "yunyanglonggangjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "濯水景区",
+    "lat": 29.30612,
+    "lng": 108.76975,
+    "city": "重庆",
+    "pinyin": "zhuoshuijingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "白水洋·鸳鸯溪旅游景区",
+    "lat": 27.096558,
+    "lng": 119.067999,
+    "city": "宁德",
+    "pinyin": "baishuiyang·yuanyangxilvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "土楼南靖（土楼（永定·南靖）旅游景区）",
+    "lat": 24.6587,
+    "lng": 116.975,
+    "city": "漳州",
+    "pinyin": "tulounanjing（tulou（yongding·nanjing）lvyoujingqu）",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "土楼永定（土楼（永定·南靖）旅游景区）",
+    "lat": 24.6587,
+    "lng": 116.975,
+    "city": "龙岩",
+    "pinyin": "tulouyongding（tulou（yongding·nanjing）lvyoujingqu）",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "冠豸山景区",
+    "lat": 25.713889,
+    "lng": 116.785556,
+    "city": "龙岩",
+    "pinyin": "guanzhishanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "鼓浪屿风景名胜区",
+    "lat": 24.447222,
+    "lng": 118.061111,
+    "city": "厦门",
+    "pinyin": "gulangyufengjingmingshengqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "古田旅游区",
+    "lat": 25.225,
+    "lng": 116.818,
+    "city": "龙岩",
+    "pinyin": "gutianlvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "湄洲岛妈祖文化旅游区",
+    "lat": 25.093669,
+    "lng": 119.143019,
+    "city": "莆田",
+    "pinyin": "meizhoudaomazuwenhualvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "清源山景区",
+    "lat": 24.954722,
+    "lng": 118.608467,
+    "city": "泉州",
+    "pinyin": "qingyuanshanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "福鼎太姥山旅游区",
+    "lat": 27.1,
+    "lng": 120.2,
+    "city": "宁德",
+    "pinyin": "fudingtailaoshanlvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "三坊七巷景区",
+    "lat": 26.08566,
+    "lng": 119.29204,
+    "city": "福州",
+    "pinyin": "sanfangqixiangjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "泰宁风景旅游区",
+    "lat": 26.868056,
+    "lng": 117.072222,
+    "city": "三明",
+    "pinyin": "tainingfengjinglvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "武夷山风景名胜区",
+    "lat": 27.716667,
+    "lng": 117.683333,
+    "city": "南平",
+    "pinyin": "wuyishanfengjingmingshengqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "厦门园林植物园景区",
+    "lat": 24.455,
+    "lng": 118.091667,
+    "city": "厦门",
+    "pinyin": "xiamenyuanlinzhiwuyuanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "炳灵寺世界文化遗产旅游区",
+    "lat": 35.80551,
+    "lng": 103.044378,
+    "city": "临夏回族自治州",
+    "pinyin": "binglingsishijiewenhuayichanlvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "官鹅沟景区",
+    "lat": 33.991045,
+    "lng": 104.385212,
+    "city": "陇南",
+    "pinyin": "guanegoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "嘉峪关文物景区",
+    "lat": 39.801389,
+    "lng": 98.215833,
+    "city": "嘉峪关",
+    "pinyin": "jiayuguanwenwujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "崆峒山风景名胜区",
+    "lat": 35.5767,
+    "lng": 106.5192,
+    "city": "平凉",
+    "pinyin": "kongtongshanfengjingmingshengqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "麦积山景区",
+    "lat": 34.305,
+    "lng": 106.0433,
+    "city": "天水",
+    "pinyin": "maijishanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "鸣沙山月牙泉景区",
+    "lat": 40.084553,
+    "lng": 94.675111,
+    "city": "酒泉",
+    "pinyin": "mingshashanyueyaquanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "冶力关旅游区",
+    "lat": 34.964398,
+    "lng": 103.660491,
+    "city": "甘南藏族自治州",
+    "pinyin": "yeliguanlvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "七彩丹霞景区",
+    "lat": 38.91555,
+    "lng": 100.1332,
+    "city": "张掖",
+    "pinyin": "qicaidanxiajingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "白云山风景区",
+    "lat": 23.180091,
+    "lng": 113.29817,
+    "city": "广州",
+    "pinyin": "baiyunshanfengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "长隆旅游度假区",
+    "lat": 23.003069,
+    "lng": 113.321218,
+    "city": "广州",
+    "pinyin": "changlonglvyoudujiaqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "长鹿旅游休博园",
+    "lat": 22.881476,
+    "lng": 113.284821,
+    "city": "佛山",
+    "pinyin": "changlulvyouxiuboyuan",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "丹霞山景区",
+    "lat": 25.031944,
+    "lng": 113.746111,
+    "city": "韶关",
+    "pinyin": "danxiashanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "海陵岛大角湾海上丝路旅游区",
+    "lat": 21.6159,
+    "lng": 111.9129,
+    "city": "阳江",
+    "pinyin": "hailingdaodajiaowanhaishangsilulvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "惠州西湖旅游景区",
+    "lat": 23.094444,
+    "lng": 114.397222,
+    "city": "惠州",
+    "pinyin": "huizhouxihulvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "开平碉楼文化旅游区",
+    "lat": 22.285556,
+    "lng": 112.565833,
+    "city": "江门",
+    "pinyin": "kaipingdiaolouwenhualvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "连州地下河旅游景区",
+    "lat": 25.003886,
+    "lng": 112.318904,
+    "city": "清远",
+    "pinyin": "lianzhoudixiahelvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "观澜湖休闲旅游区",
+    "lat": 22.740126,
+    "lng": 114.071178,
+    "city": "深圳",
+    "pinyin": "guanlanhuxiuxianlvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "罗浮山景区",
+    "lat": 23.283611,
+    "lng": 114.016389,
+    "city": "惠州",
+    "pinyin": "luofushanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "西樵山景区",
+    "lat": 22.927222,
+    "lng": 112.972778,
+    "city": "佛山",
+    "pinyin": "xiqiaoshanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "深圳华侨城旅游度假区",
+    "lat": 22.53684,
+    "lng": 113.97868,
+    "city": "深圳",
+    "pinyin": "shenzhenhuaqiaochenglvyoudujiaqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "孙中山故里旅游区",
+    "lat": 22.445211,
+    "lng": 113.522931,
+    "city": "中山",
+    "pinyin": "sunzhongshangulilvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "万绿湖风景区",
+    "lat": 23.726389,
+    "lng": 114.6475,
+    "city": "河源",
+    "pinyin": "wanlvhufengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "星湖旅游景区",
+    "lat": 23.07492,
+    "lng": 112.46816,
+    "city": "肇庆",
+    "pinyin": "xinghulvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "雁南飞茶田景区",
+    "lat": 24.383919,
+    "lng": 116.362312,
+    "city": "梅州",
+    "pinyin": "yannanfeichatianjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "百色起义纪念园景区",
+    "lat": 23.905375,
+    "lng": 106.637112,
+    "city": "百色",
+    "pinyin": "baiseqiyijinianyuanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "程阳八寨景区",
+    "lat": 25.905141,
+    "lng": 109.644814,
+    "city": "柳州",
+    "pinyin": "chengyangbazhaijingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "德天跨国瀑布景区",
+    "lat": 22.855833,
+    "lng": 106.722778,
+    "city": "崇左",
+    "pinyin": "detiankuaguopubujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "象山（两江四湖·象山景区）",
+    "lat": 25.269722,
+    "lng": 110.291389,
+    "city": "桂林",
+    "pinyin": "xiangshan（liangjiangsihu·xiangshanjingqu）",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "黄姚古镇景区",
+    "lat": 24.25094,
+    "lng": 111.19623,
+    "city": "贺州",
+    "pinyin": "huangyaoguzhenjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "花山岩画景区",
+    "lat": 22.206276,
+    "lng": 107.040935,
+    "city": "崇左",
+    "pinyin": "huashanyanhuajingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "独秀峰－王城景区",
+    "lat": 25.286111,
+    "lng": 110.295,
+    "city": "桂林",
+    "pinyin": "duxiufeng－wangchengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "漓江景区",
+    "lat": 25.560972,
+    "lng": 110.464611,
+    "city": "桂林",
+    "pinyin": "lijiangjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "青秀山旅游区",
+    "lat": 22.783333,
+    "lng": 108.383333,
+    "city": "南宁",
+    "pinyin": "qingxiushanlvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "两江四湖（两江四湖·象山景区）",
+    "lat": 25.269722,
+    "lng": 110.291389,
+    "city": "桂林",
+    "pinyin": "liangjiangsihu（liangjiangsihu·xiangshanjingqu）",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "涠洲岛南湾鳄鱼山景区",
+    "lat": 21.044444,
+    "lng": 109.111111,
+    "city": "北海",
+    "pinyin": "weizhoudaonanwaneyushanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "百里杜鹃景区",
+    "lat": 27.23685,
+    "lng": 105.85707,
+    "city": "毕节",
+    "pinyin": "bailidujuanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "赤水丹霞旅游区",
+    "lat": 28.4,
+    "lng": 105.8,
+    "city": "遵义",
+    "pinyin": "chishuidanxialvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "龙宫景区",
+    "lat": 26.110453,
+    "lng": 105.880308,
+    "city": "安顺",
+    "pinyin": "longgongjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "梵净山旅游区",
+    "lat": 27.883333,
+    "lng": 108.666667,
+    "city": "铜仁",
+    "pinyin": "fanjingshanlvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "黄果树大瀑布景区",
+    "lat": 25.992,
+    "lng": 105.666,
+    "city": "安顺",
+    "pinyin": "huangguoshudapubujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "荔波樟江景区",
+    "lat": 25.263268,
+    "lng": 107.711426,
+    "city": "黔南布依族苗族自治州",
+    "pinyin": "libozhangjiangjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "青岩古镇景区",
+    "lat": 26.33419,
+    "lng": 106.68443,
+    "city": "贵阳",
+    "pinyin": "qingyanguzhenjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "万峰林景区",
+    "lat": 25.01562,
+    "lng": 104.90793,
+    "city": "黔西南布依族苗族自治州",
+    "pinyin": "wanfenglinjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "镇远古城旅游景区",
+    "lat": 27.05166,
+    "lng": 108.41757,
+    "city": "黔东南苗族侗族自治州",
+    "pinyin": "zhenyuanguchenglvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "织金洞景区",
+    "lat": 26.7583,
+    "lng": 105.931,
+    "city": "毕节",
+    "pinyin": "zhijindongjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "槟榔谷黎苗文化旅游区",
+    "lat": 18.401197,
+    "lng": 109.659491,
+    "city": "海南省",
+    "pinyin": "binlanggulimiaowenhualvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "分界洲岛旅游区",
+    "lat": 18.580556,
+    "lng": 110.199722,
+    "city": "海南省",
+    "pinyin": "fenjiezhoudaolvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "南山大小洞天旅游区",
+    "lat": 18.30504,
+    "lng": 109.15162,
+    "city": "三亚",
+    "pinyin": "nanshandaxiaodongtianlvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "南山文化旅游区",
+    "lat": 18.300091,
+    "lng": 109.206633,
+    "city": "三亚",
+    "pinyin": "nanshanwenhualvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "天涯海角游览区",
+    "lat": 18.29298,
+    "lng": 109.34545,
+    "city": "三亚",
+    "pinyin": "tianyahaijiaoyoulanqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "蜈支洲岛旅游区",
+    "lat": 18.311352,
+    "lng": 109.761849,
+    "city": "三亚",
+    "pinyin": "wuzhizhoudaolvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "呀诺达雨林文化旅游区",
+    "lat": 18.461914,
+    "lng": 109.642422,
+    "city": "海南省",
+    "pinyin": "yanuodayulinwenhualvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "白石山景区",
+    "lat": 39.213,
+    "lng": 114.706,
+    "city": "保定",
+    "pinyin": "baishishanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "安新白洋淀景区",
+    "lat": 38.85,
+    "lng": 116.033333,
+    "city": "保定",
+    "pinyin": "anxinbaiyangdianjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "承德避暑山庄及周围寺庙景区",
+    "lat": 40.993611,
+    "lng": 117.929444,
+    "city": "承德",
+    "pinyin": "chengdebishushanzhuangjizhouweisimiaojingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "清东陵景区",
+    "lat": 40.185747,
+    "lng": 117.638961,
+    "city": "唐山",
+    "pinyin": "qingdonglingjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "广府古城景区",
+    "lat": 36.70132,
+    "lng": 114.73034,
+    "city": "邯郸",
+    "pinyin": "guangfuguchengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "衡水湖旅游景区",
+    "lat": 37.613889,
+    "lng": 115.591667,
+    "city": "衡水",
+    "pinyin": "hengshuihulvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "金山岭长城景区",
+    "lat": 40.676644,
+    "lng": 117.232864,
+    "city": "承德",
+    "pinyin": "jinshanlingchangchengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "娲皇宫景区",
+    "lat": 36.643333,
+    "lng": 113.617222,
+    "city": "邯郸",
+    "pinyin": "wahuanggongjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "山海关景区",
+    "lat": 40.009364,
+    "lng": 119.754144,
+    "city": "秦皇岛",
+    "pinyin": "shanhaiguanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "南湖·开滦旅游景区",
+    "lat": 39.5945,
+    "lng": 118.1547,
+    "city": "唐山",
+    "pinyin": "nanhu·kailuanlvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "清西陵景区",
+    "lat": 39.36389,
+    "lng": 115.3467,
+    "city": "保定",
+    "pinyin": "qingxilingjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "西柏坡景区",
+    "lat": 38.31762,
+    "lng": 114.01269,
+    "city": "石家庄",
+    "pinyin": "xibaipojingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "野三坡景区",
+    "lat": 39.1,
+    "lng": 115.033333,
+    "city": "保定",
+    "pinyin": "yesanpojingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "北极村旅游区",
+    "lat": 53.479336,
+    "lng": 122.360244,
+    "city": "大兴安岭地区",
+    "pinyin": "beijicunlvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "虎头旅游景区",
+    "lat": 45.98295,
+    "lng": 133.66136,
+    "city": "鸡西",
+    "pinyin": "hutoulvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "镜泊湖景区",
+    "lat": 43.88,
+    "lng": 128.94,
+    "city": "牡丹江",
+    "pinyin": "jingbohujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "太阳岛景区",
+    "lat": 45.791,
+    "lng": 126.59,
+    "city": "哈尔滨",
+    "pinyin": "taiyangdaojingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "汤旺河林海奇石景区",
+    "lat": 48.44987,
+    "lng": 129.44552,
+    "city": "伊春",
+    "pinyin": "tangwanghelinhaiqishijingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "五大连池景区",
+    "lat": 48.722,
+    "lng": 126.15,
+    "city": "黑河",
+    "pinyin": "wudalianchijingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "扎龙生态旅游区",
+    "lat": 47.2,
+    "lng": 124.25,
+    "city": "齐齐哈尔",
+    "pinyin": "zhalongshengtailvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "八里沟景区",
+    "lat": 35.593076,
+    "lng": 113.541759,
+    "city": "新乡",
+    "pinyin": "baligoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "白云山景区",
+    "lat": 33.681397,
+    "lng": 111.847342,
+    "city": "洛阳",
+    "pinyin": "baiyunshanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "宝泉旅游区",
+    "lat": 35.447237,
+    "lng": 113.476508,
+    "city": "新乡",
+    "pinyin": "baoquanlvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "伏牛山老界岭·恐龙遗址园旅游区",
+    "lat": 33.662617,
+    "lng": 111.786686,
+    "city": "南阳",
+    "pinyin": "funiushanlaojieling·konglongyizhiyuanlvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "鸡公山景区",
+    "lat": 31.799444,
+    "lng": 114.083333,
+    "city": "信阳",
+    "pinyin": "jigongshanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "龙门石窟景区",
+    "lat": 34.554444,
+    "lng": 112.471111,
+    "city": "洛阳",
+    "pinyin": "longmenshikujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "龙潭大峡谷景区",
+    "lat": 34.969,
+    "lng": 112.004,
+    "city": "洛阳",
+    "pinyin": "longtandaxiagujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "嵖岈山旅游景区",
+    "lat": 33.134167,
+    "lng": 113.728333,
+    "city": "驻马店",
+    "pinyin": "chayashanlvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "老君山·鸡冠洞旅游区景区",
+    "lat": 33.7205,
+    "lng": 111.6437,
+    "city": "洛阳",
+    "pinyin": "laojunshan·jiguandonglvyouqujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "芒砀山旅游景区",
+    "lat": 34.1925,
+    "lng": 116.4967,
+    "city": "商丘",
+    "pinyin": "mangdangshanlvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "嵩山少林景区",
+    "lat": 34.484722,
+    "lng": 112.960278,
+    "city": "郑州",
+    "pinyin": "songshanshaolinjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "尧山—中原大佛景区",
+    "lat": 33.713611,
+    "lng": 112.228056,
+    "city": "平顶山",
+    "pinyin": "yaoshan—zhongyuandafojingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "清明上河园",
+    "lat": 34.80986,
+    "lng": 114.3342,
+    "city": "开封",
+    "pinyin": "qingmingshangheyuan",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "红旗渠、太行大峡谷旅游景区",
+    "lat": 36.35241,
+    "lng": 113.75953,
+    "city": "安阳",
+    "pinyin": "hongqiqu、taihangdaxiagulvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "太昊伏羲陵文化旅游区",
+    "lat": 33.753739,
+    "lng": 114.882289,
+    "city": "周口",
+    "pinyin": "taihaofuxilingwenhualvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "殷墟景区",
+    "lat": 36.122222,
+    "lng": 114.325,
+    "city": "安阳",
+    "pinyin": "yinxujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "青天河景区（云台山—神农山—博爱青天河风景名胜区）",
+    "lat": 35.432628,
+    "lng": 113.356331,
+    "city": "焦作",
+    "pinyin": "qingtianhejingqu（yuntaishan—shennongshan—boaiqingtianhefengjingmingshengqu）",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "神农山（云台山—神农山—博爱青天河风景名胜区）",
+    "lat": 35.432628,
+    "lng": 113.356331,
+    "city": "焦作",
+    "pinyin": "shennongshan（yuntaishan—shennongshan—boaiqingtianhefengjingmingshengqu）",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "云台山风景名胜区（云台山—神农山—博爱青天河风景名胜区）",
+    "lat": 35.432628,
+    "lng": 113.356331,
+    "city": "焦作",
+    "pinyin": "yuntaishanfengjingmingshengqu（yuntaishan—shennongshan—boaiqingtianhefengjingmingshengqu）",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "长阳清江画廊风景区",
+    "lat": 30.462999,
+    "lng": 111.132741,
+    "city": "宜昌",
+    "pinyin": "changyangqingjianghualangfengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "东湖景区",
+    "lat": 30.566667,
+    "lng": 114.383333,
+    "city": "武汉",
+    "pinyin": "donghujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "恩施大峡谷景区",
+    "lat": 30.4071,
+    "lng": 109.191,
+    "city": "恩施土家族苗族自治州",
+    "pinyin": "enshidaxiagujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "古隆中景区",
+    "lat": 31.994077,
+    "lng": 112.027003,
+    "city": "襄阳",
+    "pinyin": "gulongzhongjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "黄陂木兰文化生态旅游区",
+    "lat": 31.096298,
+    "lng": 114.387438,
+    "city": "武汉",
+    "pinyin": "huangbeimulanwenhuashengtailvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "麻城龟峰山景区",
+    "lat": 31.107193,
+    "lng": 115.225551,
+    "city": "黄冈",
+    "pinyin": "machengguifengshanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "明显陵文化旅游景区",
+    "lat": 31.205675,
+    "lng": 112.62976,
+    "city": "荆门",
+    "pinyin": "mingxianlingwenhualvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "三峡大瀑布景区",
+    "lat": 30.948192,
+    "lng": 111.318619,
+    "city": "宜昌",
+    "pinyin": "sanxiadapubujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "三峡人家风景区",
+    "lat": 30.786738,
+    "lng": 111.148498,
+    "city": "宜昌",
+    "pinyin": "sanxiarenjiafengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "神龙溪纤夫文化旅游区",
+    "lat": 31.048056,
+    "lng": 110.322778,
+    "city": "恩施土家族苗族自治州",
+    "pinyin": "shenlongxiqianfuwenhualvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "神农架生态旅游区",
+    "lat": 31.58339,
+    "lng": 110.497198,
+    "city": "神农架林区",
+    "pinyin": "shennongjiashengtailvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "腾龙洞景区",
+    "lat": 30.336389,
+    "lng": 108.982778,
+    "city": "恩施土家族苗族自治州",
+    "pinyin": "tenglongdongjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "屈原故里（三峡大坝-屈原故里旅游区）",
+    "lat": 30.828331,
+    "lng": 111.009719,
+    "city": "宜昌",
+    "pinyin": "quyuanguli（sanxiadaba-quyuangulilvyouqu）",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "三峡大坝旅游区（三峡大坝-屈原故里旅游区）",
+    "lat": 30.828331,
+    "lng": 111.009719,
+    "city": "宜昌",
+    "pinyin": "sanxiadabalvyouqu（sanxiadaba-quyuangulilvyouqu）",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "三国赤壁古战场景区",
+    "lat": 29.881888,
+    "lng": 113.624753,
+    "city": "咸宁",
+    "pinyin": "sanguochibiguzhanchangjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "武当山风景区",
+    "lat": 32.400833,
+    "lng": 111.003889,
+    "city": "十堰",
+    "pinyin": "wudangshanfengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "黄鹤楼公园",
+    "lat": 30.546944,
+    "lng": 114.296944,
+    "city": "武汉",
+    "pinyin": "huanghelougongyuan",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "矮寨（矮寨·十八洞·德夯大峡谷景区）",
+    "lat": 28.335303,
+    "lng": 109.592078,
+    "city": "湘西土家族苗族自治州",
+    "pinyin": "aizhai（aizhai·shibadong·dehangdaxiagujingqu）",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "德夯大峡谷（矮寨·十八洞·德夯大峡谷景区）",
+    "lat": 28.335303,
+    "lng": 109.592078,
+    "city": "湘西土家族苗族自治州",
+    "pinyin": "dehangdaxiagu（aizhai·shibadong·dehangdaxiagujingqu）",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "东江湖旅游区",
+    "lat": 25.8725,
+    "lng": 113.309444,
+    "city": "郴州",
+    "pinyin": "dongjianghulvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "凤凰古城旅游区",
+    "lat": 27.9525,
+    "lng": 109.6,
+    "city": "湘西土家族苗族自治州",
+    "pinyin": "fenghuangguchenglvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "花明楼景区",
+    "lat": 28.0445,
+    "lng": 112.631,
+    "city": "长沙",
+    "pinyin": "huamingloujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "君山岛（岳阳楼—君山岛景区）",
+    "lat": 29.384731,
+    "lng": 113.088339,
+    "city": "岳阳",
+    "pinyin": "junshandao（yueyanglou—junshandaojingqu）",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "南岳衡山旅游区",
+    "lat": 27.254797,
+    "lng": 112.655744,
+    "city": "衡阳",
+    "pinyin": "nanyuehengshanlvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "崀山景区",
+    "lat": 26.391111,
+    "lng": 110.751944,
+    "city": "邵阳",
+    "pinyin": "langshanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "韶山旅游区",
+    "lat": 27.902683,
+    "lng": 112.52901,
+    "city": "湘潭",
+    "pinyin": "shaoshanlvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "十八洞（矮寨·十八洞·德夯大峡谷景区）",
+    "lat": 28.335303,
+    "lng": 109.592078,
+    "city": "湘西土家族苗族自治州",
+    "pinyin": "shibadong（aizhai·shibadong·dehangdaxiagujingqu）",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "桃花源旅游区",
+    "lat": 28.777373,
+    "lng": 111.419805,
+    "city": "常德",
+    "pinyin": "taohuayuanlvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "天门山景区（张家界武陵源—天门山旅游区）",
+    "lat": 29.345556,
+    "lng": 110.466667,
+    "city": "张家界",
+    "pinyin": "tianmenshanjingqu（zhangjiajiewulingyuan—tianmenshanlvyouqu）",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "炎帝陵景区",
+    "lat": 26.419828,
+    "lng": 113.664872,
+    "city": "株洲",
+    "pinyin": "yandilingjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "岳麓山—橘子洲旅游区",
+    "lat": 28.194667,
+    "lng": 112.943373,
+    "city": "长沙",
+    "pinyin": "yuelushan—juzizhoulvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "岳阳楼（岳阳楼—君山岛景区）",
+    "lat": 29.384731,
+    "lng": 113.088339,
+    "city": "岳阳",
+    "pinyin": "yueyanglou（yueyanglou—junshandaojingqu）",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "张家界武陵源旅游区（张家界武陵源—天门山旅游区）",
+    "lat": 29.345556,
+    "lng": 110.466667,
+    "city": "张家界",
+    "pinyin": "zhangjiajiewulingyuanlvyouqu（zhangjiajiewulingyuan—tianmenshanlvyouqu）",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "阿尔山·柴河旅游景区",
+    "lat": 47.120858,
+    "lng": 120.387996,
+    "city": "兴安盟",
+    "pinyin": "aershan·chaihelvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "中俄边境旅游区",
+    "lat": 49.845083,
+    "lng": 116.713,
+    "city": "呼伦贝尔",
+    "pinyin": "zhongebianjinglvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "哈斯哈图石阵旅游区",
+    "lat": 43.930911,
+    "lng": 117.535164,
+    "city": "赤峰",
+    "pinyin": "hasihatushizhenlvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "胡杨林旅游区",
+    "lat": 41.806382,
+    "lng": 101.017426,
+    "city": "阿拉善盟",
+    "pinyin": "huyanglinlvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "呼伦贝尔大草原·莫尔格勒河景区",
+    "lat": 49.233333,
+    "lng": 119.3,
+    "city": "呼伦贝尔",
+    "pinyin": "hulunbeierdacaoyuan·moergelehejingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "老牛湾黄河大峡谷旅游区",
+    "lat": 39.691939,
+    "lng": 111.465833,
+    "city": "呼和浩特",
+    "pinyin": "laoniuwanhuanghedaxiagulvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "成吉思汗陵旅游区",
+    "lat": 39.371387,
+    "lng": 109.778863,
+    "city": "鄂尔多斯",
+    "pinyin": "chengjisihanlinglvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "响沙湾旅游景区",
+    "lat": 40.237962,
+    "lng": 109.980357,
+    "city": "鄂尔多斯",
+    "pinyin": "xiangshawanlvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "北固山（金山·焦山·北固山旅游景区）",
+    "lat": 32.22,
+    "lng": 119.46,
+    "city": "镇江",
+    "pinyin": "beigushan（jinshan·jiaoshan·beigushanlvyoujingqu）",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "中央电视台无锡影视基地三国水浒景区",
+    "lat": 31.4831,
+    "lng": 120.2293,
+    "city": "无锡",
+    "pinyin": "zhongyangdianshitaiwuxiyingshijidisanguoshuihujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "环球恐龙城景区",
+    "lat": 31.826167,
+    "lng": 119.997611,
+    "city": "常州",
+    "pinyin": "huanqiukonglongchengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "中国春秋淹城旅游区",
+    "lat": 31.705464,
+    "lng": 119.91946,
+    "city": "常州",
+    "pinyin": "zhongguochunqiuyanchenglvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "苏州园林（拙政园、虎丘山、留园）",
+    "lat": 31.316667,
+    "lng": 120.45,
+    "city": "苏州",
+    "pinyin": "suzhouyuanlin（zhuozhengyuan、huqiushan、liuyuan）",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "夫子庙—秦淮风光带景区",
+    "lat": 32.022578,
+    "lng": 118.783786,
+    "city": "南京",
+    "pinyin": "fuzimiao—qinhuaifengguangdaijingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "大丰中华麋鹿园景区",
+    "lat": 32.991415,
+    "lng": 120.816137,
+    "city": "盐城",
+    "pinyin": "dafengzhonghuamiluyuanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "周恩来故里旅游景区",
+    "lat": 33.5082,
+    "lng": 119.1372,
+    "city": "淮安",
+    "pinyin": "zhouenlaigulilvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "灵山大佛景区",
+    "lat": 31.431944,
+    "lng": 120.091389,
+    "city": "无锡",
+    "pinyin": "lingshandafojingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "濠河景区",
+    "lat": 32.013166,
+    "lng": 120.858351,
+    "city": "南通",
+    "pinyin": "haohejingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "洪泽湖湿地景区",
+    "lat": 33.3075,
+    "lng": 118.71,
+    "city": "宿迁",
+    "pinyin": "hongzehushidijingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "惠山古镇景区",
+    "lat": 31.58302,
+    "lng": 120.26799,
+    "city": "无锡",
+    "pinyin": "huishanguzhenjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "焦山（金山·焦山·北固山旅游景区）",
+    "lat": 32.2408,
+    "lng": 119.4778,
+    "city": "镇江",
+    "pinyin": "jiaoshan（jinshan·jiaoshan·beigushanlvyoujingqu）",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "金山（金山·焦山·北固山旅游景区）",
+    "lat": 32.217486,
+    "lng": 119.410913,
+    "city": "镇江",
+    "pinyin": "jinshan（jinshan·jiaoshan·beigushanlvyoujingqu）",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "金鸡湖景区",
+    "lat": 31.313611,
+    "lng": 120.691667,
+    "city": "苏州",
+    "pinyin": "jinjihujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "句容茅山景区",
+    "lat": 31.78856,
+    "lng": 119.29874,
+    "city": "镇江",
+    "pinyin": "jurongmaoshanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "连岛景区",
+    "lat": 34.7575,
+    "lng": 119.463889,
+    "city": "连云港",
+    "pinyin": "liandaojingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "花果山景区",
+    "lat": 34.654107,
+    "lng": 119.288335,
+    "city": "连云港",
+    "pinyin": "huaguoshanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "钟山风景名胜区-中山陵园风景区",
+    "lat": 32.083333,
+    "lng": 118.8,
+    "city": "南京",
+    "pinyin": "zhongshanfengjingmingshengqu-zhongshanlingyuanfengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "沙家浜·虞山尚湖旅游区",
+    "lat": 31.651014,
+    "lng": 120.683572,
+    "city": "苏州",
+    "pinyin": "shajiabang·yushanshanghulvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "瘦西湖风景区",
+    "lat": 32.41,
+    "lng": 119.4175,
+    "city": "扬州",
+    "pinyin": "shouxihufengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "天目湖景区",
+    "lat": 31.303772,
+    "lng": 119.428698,
+    "city": "常州",
+    "pinyin": "tianmuhujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "吴中太湖旅游区",
+    "lat": 31.215205,
+    "lng": 120.410493,
+    "city": "苏州",
+    "pinyin": "wuzhongtaihulvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "吴江同里古镇风景区",
+    "lat": 31.15111,
+    "lng": 120.71813,
+    "city": "苏州",
+    "pinyin": "wujiangtongliguzhenfengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "鼋头渚景区",
+    "lat": 31.5178,
+    "lng": 120.228,
+    "city": "无锡",
+    "pinyin": "yuantouzhujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "云龙湖景区",
+    "lat": 34.2376,
+    "lng": 117.1567,
+    "city": "徐州",
+    "pinyin": "yunlonghujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "溱湖旅游景区",
+    "lat": 32.619813,
+    "lng": 120.098965,
+    "city": "泰州",
+    "pinyin": "zhenhulvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "周庄古镇景区",
+    "lat": 31.13096,
+    "lng": 120.83553,
+    "city": "苏州",
+    "pinyin": "zhouzhuangguzhenjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "共和国摇篮旅游区",
+    "lat": 25.908553,
+    "lng": 116.067505,
+    "city": "赣州",
+    "pinyin": "gongheguoyaolanlvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "龟峰景区",
+    "lat": 28.316667,
+    "lng": 117.4,
+    "city": "上饶",
+    "pinyin": "guifengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "篁岭景区",
+    "lat": 29.320121,
+    "lng": 118.117073,
+    "city": "上饶",
+    "pinyin": "huanglingjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "景德镇古窑民俗博览区",
+    "lat": 29.287247,
+    "lng": 117.179098,
+    "city": "景德镇",
+    "pinyin": "jingdezhenguyaominsubolanqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "井冈山风景旅游区",
+    "lat": 26.603611,
+    "lng": 114.195833,
+    "city": "吉安",
+    "pinyin": "jinggangshanfengjinglvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "庐山西海景区",
+    "lat": 29.205278,
+    "lng": 115.500833,
+    "city": "九江",
+    "pinyin": "lushanxihaijingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "明月山旅游区",
+    "lat": 27.606137,
+    "lng": 114.25599,
+    "city": "宜春",
+    "pinyin": "mingyueshanlvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "大觉山景区",
+    "lat": 27.695278,
+    "lng": 117.196944,
+    "city": "抚州",
+    "pinyin": "dajueshanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "龙虎山旅游景区",
+    "lat": 28.083333,
+    "lng": 116.966667,
+    "city": "鹰潭",
+    "pinyin": "longhushanlvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "庐山风景名胜区",
+    "lat": 29.433333,
+    "lng": 115.866667,
+    "city": "九江",
+    "pinyin": "lushanfengjingmingshengqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "三清山旅游景区",
+    "lat": 28.915833,
+    "lng": 118.064444,
+    "city": "上饶",
+    "pinyin": "sanqingshanlvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "滕王阁旅游区",
+    "lat": 28.6841,
+    "lng": 115.8758,
+    "city": "南昌",
+    "pinyin": "tengwanggelvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "三百山景区",
+    "lat": 24.95079,
+    "lng": 115.37189,
+    "city": "赣州",
+    "pinyin": "sanbaishanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "婺源江湾景区",
+    "lat": 29.37292,
+    "lng": 118.04985,
+    "city": "上饶",
+    "pinyin": "wuyuanjiangwanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "武功山景区",
+    "lat": 27.455278,
+    "lng": 114.173333,
+    "city": "萍乡",
+    "pinyin": "wugongshanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "查干湖景区",
+    "lat": 45.25,
+    "lng": 124.28,
+    "city": "松原",
+    "pinyin": "chaganhujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "长影世纪城旅游区",
+    "lat": 43.770342,
+    "lng": 125.439502,
+    "city": "长春",
+    "pinyin": "changyingshijichenglvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "长春世界雕塑公园旅游景区",
+    "lat": 43.8204,
+    "lng": 125.326,
+    "city": "长春",
+    "pinyin": "changchunshijiediaosugongyuanlvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "大安嫩江湾旅游区",
+    "lat": 45.52881,
+    "lng": 124.288247,
+    "city": "白城",
+    "pinyin": "daannenjiangwanlvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "高句丽文物古迹旅游景区",
+    "lat": 41.143034,
+    "lng": 126.211756,
+    "city": "通化",
+    "pinyin": "gaojuliwenwugujilvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "净月潭景区",
+    "lat": 43.7821,
+    "lng": 125.4604,
+    "city": "长春",
+    "pinyin": "jingyuetanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "六鼎山文化旅游区",
+    "lat": 43.330855,
+    "lng": 128.221402,
+    "city": "延边朝鲜族自治州",
+    "pinyin": "liudingshanwenhualvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "长白山景区",
+    "lat": 42.007222,
+    "lng": 128.059167,
+    "city": "白山",
+    "pinyin": "changbaishanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "伪满皇宫博物院",
+    "lat": 43.903277,
+    "lng": 125.341885,
+    "city": "长春",
+    "pinyin": "weimanhuanggongbowuyuan",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "本溪水洞景区",
+    "lat": 41.298017,
+    "lng": 124.099666,
+    "city": "本溪",
+    "pinyin": "benxishuidongjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "大连老虎滩海洋公园.老虎滩极地馆",
+    "lat": 38.87301,
+    "lng": 121.67313,
+    "city": "大连",
+    "pinyin": "dalianlaohutanhaiyanggongyuan.laohutanjidiguan",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "红海滩风景廊道景区",
+    "lat": 40.847894,
+    "lng": 121.84201,
+    "city": "盘锦",
+    "pinyin": "honghaitanfengjinglangdaojingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "金石滩景区",
+    "lat": 39.08117,
+    "lng": 122.00167,
+    "city": "大连",
+    "pinyin": "jinshitanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "千山景区",
+    "lat": 41.026389,
+    "lng": 123.136111,
+    "city": "鞍山",
+    "pinyin": "qianshanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "沈阳市植物园",
+    "lat": 41.858611,
+    "lng": 123.643889,
+    "city": "沈阳",
+    "pinyin": "shenyangshizhiwuyuan",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "五女山景区",
+    "lat": 41.302326,
+    "lng": 125.457924,
+    "city": "本溪",
+    "pinyin": "wunvshanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "黄河大峡谷旅游区",
+    "lat": 37.884844,
+    "lng": 105.990955,
+    "city": "吴忠",
+    "pinyin": "huanghedaxiagulvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "六盘山红军长征旅游区",
+    "lat": 35.7747,
+    "lng": 106.183722,
+    "city": "固原",
+    "pinyin": "liupanshanhongjunzhangzhenglvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "沙湖旅游景区",
+    "lat": 38.82495,
+    "lng": 106.367707,
+    "city": "石嘴山",
+    "pinyin": "shahulvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "沙坡头旅游景区",
+    "lat": 37.464106,
+    "lng": 104.993283,
+    "city": "中卫",
+    "pinyin": "shapotoulvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "灵武水洞沟旅游区",
+    "lat": 38.29875,
+    "lng": 106.501833,
+    "city": "银川",
+    "pinyin": "lingwushuidonggoulvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "镇北堡西部影视城",
+    "lat": 38.615496,
+    "lng": 106.066496,
+    "city": "银川",
+    "pinyin": "zhenbeibaoxibuyingshicheng",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "阿咪东索景区",
+    "lat": 38.183182,
+    "lng": 100.264455,
+    "city": "海北藏族自治州",
+    "pinyin": "amidongsuojingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "互助土族故土园景区",
+    "lat": 36.833625,
+    "lng": 101.946666,
+    "city": "海东",
+    "pinyin": "huzhutuzugutuyuanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "塔尔寺景区",
+    "lat": 36.481439,
+    "lng": 101.599192,
+    "city": "西宁",
+    "pinyin": "taersijingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "青海湖景区",
+    "lat": 37.0,
+    "lng": 100.133333,
+    "city": "海北藏族自治州",
+    "pinyin": "qinghaihujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "大明宫旅游景区",
+    "lat": 34.28917,
+    "lng": 108.95946,
+    "city": "西安",
+    "pinyin": "daminggonglvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "法门寺佛文化景区",
+    "lat": 34.441667,
+    "lng": 107.899722,
+    "city": "宝鸡",
+    "pinyin": "famensifowenhuajingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "大雁塔·大唐芙蓉园景区",
+    "lat": 34.219769,
+    "lng": 108.959336,
+    "city": "西安",
+    "pinyin": "dayanta·datangfurongyuanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "黄河乾坤湾景区",
+    "lat": 36.72028,
+    "lng": 110.40992,
+    "city": "延安",
+    "pinyin": "huangheqiankunwanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "华清池景区",
+    "lat": 34.361758,
+    "lng": 109.212991,
+    "city": "西安",
+    "pinyin": "huaqingchijingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "黄河壶口瀑布旅游区",
+    "lat": 36.14883,
+    "lng": 110.44394,
+    "city": "延安",
+    "pinyin": "huanghehukoupubulvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "金丝峡景区",
+    "lat": 33.351187,
+    "lng": 110.55789,
+    "city": "商洛",
+    "pinyin": "jinsixiajingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "秦始皇兵马俑博物馆",
+    "lat": 34.381944,
+    "lng": 109.253611,
+    "city": "西安",
+    "pinyin": "qinshihuangbingmayongbowuguan",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "黄帝陵景区",
+    "lat": 35.5851,
+    "lng": 109.2698,
+    "city": "延安",
+    "pinyin": "huangdilingjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "华山景区",
+    "lat": 34.463333,
+    "lng": 110.080833,
+    "city": "渭南",
+    "pinyin": "huashanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "太白山旅游景区",
+    "lat": 33.955,
+    "lng": 107.763333,
+    "city": "宝鸡",
+    "pinyin": "taibaishanlvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "乾陵景区",
+    "lat": 34.573158,
+    "lng": 108.218594,
+    "city": "咸阳",
+    "pinyin": "qianlingjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "城墙·碑林历史文化景区",
+    "lat": 34.2534,
+    "lng": 108.9423,
+    "city": "西安",
+    "pinyin": "chengqiang·beilinlishiwenhuajingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "延安革命纪念地景区",
+    "lat": 36.609631,
+    "lng": 109.471955,
+    "city": "延安",
+    "pinyin": "yanangemingjiniandijingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "华夏城旅游景区",
+    "lat": 37.421767,
+    "lng": 122.110747,
+    "city": "威海",
+    "pinyin": "huaxiachenglvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "黄河口生态旅游区",
+    "lat": 37.68672,
+    "lng": 118.83433,
+    "city": "东营",
+    "pinyin": "huanghekoushengtailvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "刘公岛景区",
+    "lat": 37.500467,
+    "lng": 122.180158,
+    "city": "威海",
+    "pinyin": "liugongdaojingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "龙口南山景区",
+    "lat": 37.568792,
+    "lng": 120.47257,
+    "city": "烟台",
+    "pinyin": "longkounanshanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "崂山景区",
+    "lat": 36.175,
+    "lng": 120.626389,
+    "city": "青岛",
+    "pinyin": "laoshanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "泰山景区",
+    "lat": 36.255833,
+    "lng": 117.1075,
+    "city": "泰安",
+    "pinyin": "taishanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "蓬莱阁旅游区",
+    "lat": 37.829989,
+    "lng": 120.750732,
+    "city": "烟台",
+    "pinyin": "penglaigelvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "青州古城旅游区",
+    "lat": 36.67713,
+    "lng": 118.47364,
+    "city": "潍坊",
+    "pinyin": "qingzhouguchenglvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "奥帆海洋文化旅游区",
+    "lat": 36.060208,
+    "lng": 120.39048,
+    "city": "青岛",
+    "pinyin": "aofanhaiyangwenhualvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "台儿庄古城景区",
+    "lat": 34.560167,
+    "lng": 117.740361,
+    "city": "枣庄",
+    "pinyin": "taierzhuangguchengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "曲阜明故城（三孔）旅游区",
+    "lat": 35.611667,
+    "lng": 116.975,
+    "city": "济宁",
+    "pinyin": "qufuminggucheng（sankong）lvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "天下第一泉景区",
+    "lat": 36.66088,
+    "lng": 117.0103,
+    "city": "济南",
+    "pinyin": "tianxiadiyiquanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "微山湖旅游区",
+    "lat": 34.6,
+    "lng": 117.2,
+    "city": "济宁",
+    "pinyin": "weishanhulvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "沂蒙山景区",
+    "lat": 35.6681,
+    "lng": 117.779,
+    "city": "临沂",
+    "pinyin": "yimengshanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "萤火虫水洞·地下大峡谷旅游区",
+    "lat": 35.717499,
+    "lng": 118.447587,
+    "city": "临沂",
+    "pinyin": "yinghuochongshuidong·dixiadaxiagulvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "周村古商城景区",
+    "lat": 36.797894,
+    "lng": 117.835257,
+    "city": "淄博",
+    "pinyin": "zhoucungushangchengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "上海东方明珠广播电视塔",
+    "lat": 31.2419,
+    "lng": 121.49526,
+    "city": "上海",
+    "pinyin": "shanghaidongfangmingzhuguangbodianshita",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "上海野生动物园",
+    "lat": 31.05475,
+    "lng": 121.724333,
+    "city": "上海",
+    "pinyin": "shanghaiyeshengdongwuyuan",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "上海科技馆",
+    "lat": 31.220147,
+    "lng": 121.537233,
+    "city": "上海",
+    "pinyin": "shanghaikejiguan",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "二大纪念馆（中国共产党一大·二大·四大纪念馆景区）",
+    "lat": 31.222,
+    "lng": 121.4707,
+    "city": "上海",
+    "pinyin": "erdajinianguan（zhongguogongchandangyida·erda·sidajinianguanjingqu）",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "四大纪念馆（中国共产党一大·二大·四大纪念馆景区）",
+    "lat": 31.222,
+    "lng": 121.4707,
+    "city": "上海",
+    "pinyin": "sidajinianguan（zhongguogongchandangyida·erda·sidajinianguanjingqu）",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "一大纪念馆（中国共产党一大·二大·四大纪念馆景区）",
+    "lat": 31.222,
+    "lng": 121.4707,
+    "city": "上海",
+    "pinyin": "yidajinianguan（zhongguogongchandangyida·erda·sidajinianguanjingqu）",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "西沙明珠湖景区",
+    "lat": 31.740036,
+    "lng": 121.253012,
+    "city": "上海",
+    "pinyin": "xishamingzhuhujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "运城关公故里文化旅游景区",
+    "lat": 34.910556,
+    "lng": 110.843333,
+    "city": "运城",
+    "pinyin": "yunchengguangongguliwenhualvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "皇城相府生态文化旅游区",
+    "lat": 35.514444,
+    "lng": 112.577778,
+    "city": "晋城",
+    "pinyin": "huangchengxiangfushengtaiwenhualvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "黄河壶口瀑布旅游区",
+    "lat": 36.14883,
+    "lng": 110.44394,
+    "city": "临汾",
+    "pinyin": "huanghehukoupubulvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "介休绵山景区",
+    "lat": 36.904876,
+    "lng": 111.955441,
+    "city": "晋中",
+    "pinyin": "jiexiumianshanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "晋祠天龙山景区",
+    "lat": 37.708318,
+    "lng": 112.43579,
+    "city": "太原",
+    "pinyin": "jincitianlongshanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "洪洞大槐树寻根祭祖园景区",
+    "lat": 36.2678,
+    "lng": 111.6765,
+    "city": "临汾",
+    "pinyin": "hongdongdahuaishuxungenjizuyuanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "五台山风景名胜区",
+    "lat": 39.079167,
+    "lng": 113.564722,
+    "city": "忻州",
+    "pinyin": "wutaishanfengjingmingshengqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "平遥古城景区",
+    "lat": 37.201389,
+    "lng": 112.154444,
+    "city": "晋中",
+    "pinyin": "pingyaoguchengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "壶关太行山大峡谷八泉峡景区",
+    "lat": 36.994167,
+    "lng": 113.927778,
+    "city": "长治",
+    "pinyin": "huguantaihangshandaxiagubaquanxiajingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "雁门关景区",
+    "lat": 39.186944,
+    "lng": 112.863333,
+    "city": "忻州",
+    "pinyin": "yanmenguanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "云丘山景区",
+    "lat": 35.741793,
+    "lng": 111.032285,
+    "city": "临汾",
+    "pinyin": "yunqiushanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "云冈石窟",
+    "lat": 40.11,
+    "lng": 113.1225,
+    "city": "大同",
+    "pinyin": "yungangshiku",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "安仁古镇景区",
+    "lat": 30.51691,
+    "lng": 103.61428,
+    "city": "成都",
+    "pinyin": "anrenguzhenjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "北川羌城旅游区",
+    "lat": 31.619073,
+    "lng": 104.467477,
+    "city": "绵阳",
+    "pinyin": "beichuanqiangchenglvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "碧峰峡旅游景区",
+    "lat": 30.0773,
+    "lng": 102.988,
+    "city": "雅安",
+    "pinyin": "bifengxialvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "稻城亚丁旅游景区",
+    "lat": 28.366667,
+    "lng": 100.233333,
+    "city": "甘孜藏族自治州",
+    "pinyin": "daochengyadinglvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "邓小平故里旅游区",
+    "lat": 30.519309,
+    "lng": 106.631653,
+    "city": "广安",
+    "pinyin": "dengxiaopinggulilvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "仪陇朱德故里景区",
+    "lat": 31.472209,
+    "lng": 106.60672,
+    "city": "南充",
+    "pinyin": "yilongzhudegulijingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "光雾山旅游景区",
+    "lat": 32.577,
+    "lng": 106.852,
+    "city": "巴中",
+    "pinyin": "guangwushanlvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "海螺沟景区",
+    "lat": 29.566667,
+    "lng": 101.95,
+    "city": "甘孜藏族自治州",
+    "pinyin": "hailuogoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "黄龙景区",
+    "lat": 32.75417,
+    "lng": 103.82222,
+    "city": "阿坝藏族羌族自治州",
+    "pinyin": "huanglongjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "剑门蜀道剑门关旅游区",
+    "lat": 32.213056,
+    "lng": 105.563333,
+    "city": "广元",
+    "pinyin": "jianmenshudaojianmenguanlvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "九寨沟旅游景区",
+    "lat": 33.08333,
+    "lng": 103.91667,
+    "city": "阿坝藏族羌族自治州",
+    "pinyin": "jiuzhaigoulvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "阆中古城旅游景区",
+    "lat": 31.58326,
+    "lng": 105.97195,
+    "city": "南充",
+    "pinyin": "langzhongguchenglvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "乐山大佛景区",
+    "lat": 29.547019,
+    "lng": 103.769239,
+    "city": "乐山",
+    "pinyin": "leshandafojingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "峨眉山景区",
+    "lat": 29.519722,
+    "lng": 103.3325,
+    "city": "乐山",
+    "pinyin": "emeishanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "青城山—都江堰旅游景区",
+    "lat": 30.973333,
+    "lng": 103.515556,
+    "city": "成都",
+    "pinyin": "qingchengshan—dujiangyanlvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "四姑娘山景区",
+    "lat": 31.106357,
+    "lng": 102.901989,
+    "city": "阿坝藏族羌族自治州",
+    "pinyin": "siguniangshanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "天台山景区",
+    "lat": 30.2816,
+    "lng": 103.113544,
+    "city": "成都",
+    "pinyin": "tiantaishanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "汶川特别旅游区",
+    "lat": 31.483789,
+    "lng": 103.588403,
+    "city": "阿坝藏族羌族自治州",
+    "pinyin": "wenchuantebielvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "天津盘山风景名胜区",
+    "lat": 40.0825,
+    "lng": 117.266389,
+    "city": "天津",
+    "pinyin": "tianjinpanshanfengjingmingshengqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "天津古文化街旅游区（津门故里）",
+    "lat": 39.14152,
+    "lng": 117.18665,
+    "city": "天津",
+    "pinyin": "tianjinguwenhuajielvyouqu（jinmenguli）",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "大昭寺",
+    "lat": 29.653056,
+    "lng": 91.132222,
+    "city": "拉萨",
+    "pinyin": "dazhaosi",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "巴松措景区",
+    "lat": 30.014167,
+    "lng": 93.950278,
+    "city": "林芝",
+    "pinyin": "basongcuojingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "布达拉宫景区",
+    "lat": 29.6578,
+    "lng": 91.1169,
+    "city": "拉萨",
+    "pinyin": "budalagongjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "扎什伦布寺景区",
+    "lat": 29.26861,
+    "lng": 88.86994,
+    "city": "日喀则",
+    "pinyin": "zhashenlunbusijingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "雅鲁藏布大峡谷旅游景区",
+    "lat": 29.76974,
+    "lng": 94.98985,
+    "city": "林芝",
+    "pinyin": "yalucangbudaxiagulvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "白沙湖景区",
+    "lat": 48.351843,
+    "lng": 85.750024,
+    "city": "阿勒泰地区",
+    "pinyin": "baishahujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "和静巴音布鲁克景区",
+    "lat": 42.75,
+    "lng": 84.33,
+    "city": "巴音郭楞蒙古自治州",
+    "pinyin": "hejingbayinbulukejingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "博斯腾湖景区",
+    "lat": 42.0,
+    "lng": 87.0,
+    "city": "巴音郭楞蒙古自治州",
+    "pinyin": "bositenghujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "葡萄沟风景区",
+    "lat": 43.0039,
+    "lng": 89.2423,
+    "city": "吐鲁番",
+    "pinyin": "putaogoufengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "新疆天山天池风景名胜区",
+    "lat": 42.035,
+    "lng": 80.125556,
+    "city": "昌吉回族自治州",
+    "pinyin": "xinjiangtianshantianchifengjingmingshengqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "江布拉克景区",
+    "lat": 43.657627,
+    "lng": 89.738486,
+    "city": "昌吉回族自治州",
+    "pinyin": "jiangbulakejingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "喀拉峻景区",
+    "lat": 43.22828,
+    "lng": 82.0984,
+    "city": "伊犁哈萨克自治州",
+    "pinyin": "kalajunjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "喀纳斯景区",
+    "lat": 48.821389,
+    "lng": 87.047222,
+    "city": "阿勒泰地区",
+    "pinyin": "kanasijingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "喀什噶尔老城景区",
+    "lat": 39.470369,
+    "lng": 75.989136,
+    "city": "喀什地区",
+    "pinyin": "kashigaerlaochengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "可可托海景区",
+    "lat": 47.2197,
+    "lng": 89.81092,
+    "city": "阿勒泰地区",
+    "pinyin": "keketuohaijingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "那拉提旅游风景区",
+    "lat": 43.29,
+    "lng": 84.22,
+    "city": "伊犁哈萨克自治州",
+    "pinyin": "nalatilvyoufengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "帕米尔旅游区",
+    "lat": 36.933333,
+    "lng": 75.554444,
+    "city": "喀什地区",
+    "pinyin": "pamierlvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "赛里木湖景区",
+    "lat": 44.6,
+    "lng": 81.2,
+    "city": "博尔塔拉蒙古自治州",
+    "pinyin": "sailimuhujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "塔克拉玛干·三五九旅文化旅游区",
+    "lat": 40.548764,
+    "lng": 81.277872,
+    "city": "新疆维吾尔自治区",
+    "pinyin": "takelamagan·sanwujiulvwenhualvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "天山托木尔景区",
+    "lat": 41.71312,
+    "lng": 80.352461,
+    "city": "阿克苏地区",
+    "pinyin": "tianshantuomuerjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "天山大峡谷景区",
+    "lat": 43.431128,
+    "lng": 87.373768,
+    "city": "乌鲁木齐",
+    "pinyin": "tianshandaxiagujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "世界魔鬼城景区",
+    "lat": 46.125,
+    "lng": 85.73,
+    "city": "克拉玛依",
+    "pinyin": "shijiemoguichengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "泽普金湖杨景区",
+    "lat": 38.127428,
+    "lng": 77.245562,
+    "city": "喀什地区",
+    "pinyin": "zepujinhuyangjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "和顺古镇景区",
+    "lat": 24.83763,
+    "lng": 99.02915,
+    "city": "保山",
+    "pinyin": "heshunguzhenjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "玉龙雪山景区",
+    "lat": 27.098333,
+    "lng": 100.175,
+    "city": "丽江",
+    "pinyin": "yulongxueshanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "丽江古城景区",
+    "lat": 26.879722,
+    "lng": 100.226944,
+    "city": "丽江",
+    "pinyin": "lijiangguchengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "香格里拉普达措景区",
+    "lat": 27.825,
+    "lng": 99.995278,
+    "city": "迪庆藏族自治州",
+    "pinyin": "xianggelilapudacuojingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "普者黑旅游景区",
+    "lat": 24.133333,
+    "lng": 104.1,
+    "city": "文山壮族苗族自治州",
+    "pinyin": "puzheheilvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "石林风景区",
+    "lat": 24.8178,
+    "lng": 103.325,
+    "city": "昆明",
+    "pinyin": "shilinfengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "腾冲火山热海旅游区",
+    "lat": 24.95065,
+    "lng": 98.43777,
+    "city": "保山",
+    "pinyin": "tengchonghuoshanrehailvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "崇圣寺三塔文化旅游区",
+    "lat": 25.708489,
+    "lng": 100.145939,
+    "city": "大理白族自治州",
+    "pinyin": "chongshengsisantawenhualvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "昆明世博园景区",
+    "lat": 25.0804,
+    "lng": 102.7653,
+    "city": "昆明",
+    "pinyin": "kunmingshiboyuanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "中国科学院西双版纳热带植物园",
+    "lat": 21.9276,
+    "lng": 101.2542,
+    "city": "西双版纳傣族自治州",
+    "pinyin": "zhongguokexueyuanxishuangbannaredaizhiwuyuan",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "横店影视城景区",
+    "lat": 29.179068,
+    "lng": 120.298083,
+    "city": "金华",
+    "pinyin": "hengdianyingshichengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "缙云仙都景区",
+    "lat": 28.692222,
+    "lng": 120.139167,
+    "city": "丽水",
+    "pinyin": "jinyunxiandoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "开化根宫佛国文化旅游景区",
+    "lat": 29.134918,
+    "lng": 118.38975,
+    "city": "衢州",
+    "pinyin": "kaihuagengongfoguowenhualvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "刘伯温故里景区",
+    "lat": 27.91945,
+    "lng": 119.951511,
+    "city": "温州",
+    "pinyin": "liubowengulijingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "鲁迅故里·沈园景区",
+    "lat": 29.995,
+    "lng": 120.581111,
+    "city": "绍兴",
+    "pinyin": "luxunguli·shenyuanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "江郎山·廿八都景区",
+    "lat": 28.529722,
+    "lng": 118.565278,
+    "city": "衢州",
+    "pinyin": "jianglangshan·nianbadoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "普陀山风景名胜区",
+    "lat": 30.0108,
+    "lng": 122.3864,
+    "city": "舟山",
+    "pinyin": "putuoshanfengjingmingshengqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "南浔古镇景区",
+    "lat": 30.8694,
+    "lng": 120.41996,
+    "city": "湖州",
+    "pinyin": "nanxunguzhenjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "千岛湖风景区",
+    "lat": 29.483611,
+    "lng": 119.213611,
+    "city": "杭州",
+    "pinyin": "qiandaohufengjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "神仙居景区",
+    "lat": 28.68803,
+    "lng": 120.60619,
+    "city": "台州",
+    "pinyin": "shenxianjujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "双龙风景旅游区",
+    "lat": 29.202778,
+    "lng": 119.620833,
+    "city": "金华",
+    "pinyin": "shuanglongfengjinglvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "南湖旅游区",
+    "lat": 30.759204,
+    "lng": 120.754765,
+    "city": "嘉兴",
+    "pinyin": "nanhulvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "台州府城文化旅游区",
+    "lat": 28.84995,
+    "lng": 121.113715,
+    "city": "台州",
+    "pinyin": "taizhoufuchengwenhualvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "天台山景区",
+    "lat": 29.178843,
+    "lng": 121.042213,
+    "city": "台州",
+    "pinyin": "tiantaishanjingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "天一阁·月湖景区",
+    "lat": 29.873611,
+    "lng": 121.535833,
+    "city": "宁波",
+    "pinyin": "tianyige·yuehujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "西湖风景名胜区",
+    "lat": 30.245833,
+    "lng": 120.141667,
+    "city": "杭州",
+    "pinyin": "xihufengjingmingshengqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "桐乡乌镇古镇旅游区",
+    "lat": 30.7427,
+    "lng": 120.488,
+    "city": "嘉兴",
+    "pinyin": "tongxiangwuzhenguzhenlvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "溪口滕头旅游区",
+    "lat": 29.68984,
+    "lng": 121.28349,
+    "city": "宁波",
+    "pinyin": "xikoutengtoulvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "西塘古镇旅游景区",
+    "lat": 30.94123,
+    "lng": 120.88725,
+    "city": "嘉兴",
+    "pinyin": "xitangguzhenlvyoujingqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "西溪湿地旅游区",
+    "lat": 30.270556,
+    "lng": 120.0625,
+    "city": "杭州",
+    "pinyin": "xixishidilvyouqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "雁荡山风景名胜区",
+    "lat": 28.37,
+    "lng": 121.06,
+    "city": "温州",
+    "pinyin": "yandangshanfengjingmingshengqu",
+    "source": "5a",
+    "category": "attraction"
+  },
+  {
+    "name": "云和梯田景区",
+    "lat": 28.051,
+    "lng": 119.496,
+    "city": "丽水",
+    "pinyin": "yunhetitianjingqu",
+    "source": "5a",
+    "category": "attraction"
+  }
+]

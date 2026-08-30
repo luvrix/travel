@@ -10,12 +10,6 @@ export const blueskyTemplate: TemplateConfig = {
     pinFill: '#4A90D9',
     attractionFill: '#87CEEB',
     attractionStroke: '#FFFFFF',
-    comboFill: 'rgba(200,230,250,0.3)',
-    comboStroke: 'rgba(74,144,217,0.15)',
-    comboShadow: 'rgba(74,144,217,0.10)',
-    cityLabelFill: '#2E6BB0',
-    attractionLabelFill: '#4A90D9',
-    transportIconColor: '#ADD8E6',
     edgeStroke: '#ADD8E6',
     canvasBackground: '#87CEEB',
   },
@@ -23,7 +17,6 @@ export const blueskyTemplate: TemplateConfig = {
   fonts: {
     city: { size: 26, weight: '700', color: '#2E6BB0', family: "'PingFang SC', 'Noto Sans SC', sans-serif" },
     attraction: { size: 22, weight: '500', color: '#4A90D9', family: "'PingFang SC', 'Noto Sans SC', sans-serif" },
-    transport: { size: 18, weight: '400', color: '#ADD8E6', family: "'PingFang SC', sans-serif" },
   },
 
   gradient: {
@@ -125,20 +118,12 @@ export const blueskyTemplate: TemplateConfig = {
     colorWashOpacity: 0.15,
   },
 
-  photo: { type: 'hero', source: 'destination' },
   photoStyle: { borderRadius: 16, border: '3px solid rgba(255,255,255,0.7)', shadow: '0 4px 16px rgba(0,0,0,0.1)', zIndex: -5 },
 
-  layout: {
-    header: { x: 0, y: 0, width: 1, height: 0.12 },
-    routeMap: { x: 0, y: 0, width: 1, height: 1 },
-    footer: { x: 0, y: 0.95, width: 1, height: 0.05 },
-    photos: { x: 0, y: 0, width: 1, height: 1 },
-  },
 
-  cityPin: { shape: 'circle-photo', size: 56, showPhoto: true, showLabel: true, labelPosition: 'below' },
+  cityPin: { shape: 'circle-photo', size: 44, showLabel: true, labelPosition: 'right' },
   attractionNode: { shape: 'dot', size: 10, showLabel: true, labelPosition: 'right' },
   edge: { lineType: 'curve', trailStyle: 'dot-trail', showTransportBadge: true, glowEffect: true, colorMode: 'day-tinted' },
-  comboCard: { style: 'glass', borderRadius: 16 },
   daySticker: { style: 'pill', position: 'above-first-node' },
   headerHeight: 140,
 }

@@ -2,20 +2,31 @@
  * 小程序 WebView 渲染器入口
  * 通过 URL 参数接收路线数据（适合 localhost / HTTPS 场景）
  */
+/* eslint-disable react-refresh/only-export-components -- 渲染器入口文件，需同时含组件与 ReactDOM.render 调用 */
 import { useState, useEffect, useRef, useCallback, useMemo } from 'react'
 import ReactDOM from 'react-dom/client'
 import { RouteCanvas, type RouteCanvasHandle } from './components/canvas/RouteCanvas'
 import { computePositions } from './projection/layout'
-import { getAllTemplates } from './templates'
+import { getAllTemplates, getTemplate } from './templates'
 import type { RouteMap } from './types'
 import type { TemplateId } from './templates/types'
 import './index.css'
 
-declare const wx: any
+declare const wx: {
+  miniProgram?: {
+    postMessage: (data: { data: unknown }) => void
+    navigateBack: () => void
+  }
+} | undefined
+
+function readTemplateFromUrl(): TemplateId {
+  const p = new URLSearchParams(location.search)
+  return (p.get('t') || 'minimal') as TemplateId
+}
 
 function RendererApp() {
   const canvasRef = useRef<RouteCanvasHandle>(null)
-  const [templateId, setTemplateId] = useState<TemplateId>('minimal')
+  const [templateId, setTemplateId] = useState<TemplateId>(readTemplateFromUrl)
   const [routeMap, setRouteMap] = useState<RouteMap | null>(null)
   const [exporting, setExporting] = useState(false)
 
@@ -26,26 +37,23 @@ function RendererApp() {
     // 从 URL params 解析路线数据
     const p = new URLSearchParams(location.search)
     const raw = p.get('rm')
-    const tmpl = (p.get('t') || 'minimal') as TemplateId
-    setTemplateId(tmpl)
-
     if (!raw) return
     try {
       const rm: RouteMap = JSON.parse(decodeURIComponent(raw))
-      computePositions(rm, canvasW, canvasH)
+      computePositions(rm, canvasW, canvasH, getTemplate(templateId).headerHeight)
+      // eslint-disable-next-line react-hooks/set-state-in-effect -- 从 URL 同步外部状态到 React，是 effect 的合法用途
       setRouteMap(rm)
     } catch (e) {
       console.error('[renderer] parse error', e)
     }
-  }, [canvasW, canvasH])
+  }, [canvasW, canvasH, templateId])
 
   const handleExport = useCallback(async () => {
     if (!canvasRef.current || exporting) return
     setExporting(true)
     try {
       const dataUrl = await canvasRef.current.exportPng()
-      const isMP = typeof wx !== 'undefined' && wx?.miniProgram
-      if (isMP) {
+      if (typeof wx !== 'undefined' && wx.miniProgram) {
         wx.miniProgram.postMessage({ data: { action: 'export', dataUrl } })
         wx.miniProgram.navigateBack()
       } else {

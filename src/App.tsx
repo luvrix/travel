@@ -1,45 +1,28 @@
-import { useMemo, useRef, useCallback, useState, useEffect } from 'react'
-import { buildSystemPrompt } from './lib/promptBuilder'
-import { generateAiPoster } from './lib/aiRender'
+import { useRef, useCallback, useState, useEffect } from 'react'
 import { RouteCanvas, type RouteCanvasHandle, type CanvasPhoto } from './components/canvas/RouteCanvas'
 import { TemplatePicker } from './components/TemplatePicker'
 import { TripEditor } from './components/TripEditor'
-import { DEMO_TRIP } from './lib/demo-data'
-import { compileTrip } from './geo/compiler'
+import { AiPanel } from './components/AiPanel'
+import { useAiRender } from './hooks/useAiRender'
+import { useExport } from './hooks/useExport'
+import { useTripPersistence } from './hooks/useTripPersistence'
+import { useAmapEnrichment } from './hooks/useAmapEnrichment'
+import { useRouteMapCompile } from './hooks/useRouteMapCompile'
 import { markdownToTrip } from './lib/markdown'
-import type { Trip } from './types'
+import { useToast } from './components/Toast'
 import type { TemplateId } from './templates/types'
-import { getTemplate } from './templates'
 
 function App() {
-  const [trip, setTrip] = useState<Trip>(() => {
-    try {
-      const saved = localStorage.getItem('travel_trip')
-      if (saved) {
-        const t = JSON.parse(saved) as Trip
-        // 修复跨 session 的重复 stop ID（旧数据 uid() 从固定值 1000 开始会重复）
-        const seenIds = new Set<string>()
-        t.days.forEach(d => {
-          d.stops.forEach(s => {
-            if (seenIds.has(s.id)) {
-              s.id = `stop-${Date.now().toString(36)}-${Math.random().toString(36).slice(2,6)}`
-            }
-            seenIds.add(s.id)
-          })
-        })
-        return t
-      }
-    } catch { /* ignore */ }
-    return DEMO_TRIP
-  })
-  useEffect(() => {
-    try { localStorage.setItem('travel_trip', JSON.stringify(trip)) } catch { /* ignore */ }
-  }, [trip])
+  const toast = useToast()
 
-  const routeMap = useMemo(() => compileTrip(trip), [trip])
+  const [trip, setTrip] = useTripPersistence(toast)
+
+  useAmapEnrichment(trip, setTrip, toast)
+
+  const routeMap = useRouteMapCompile(trip)
+
   const canvasRef = useRef<RouteCanvasHandle>(null)
   const fileInputRef = useRef<HTMLInputElement>(null)
-  const [exporting, setExporting] = useState(false)
   const [canvasWidth, setCanvasWidth] = useState(1080)
   const [canvasHeight, setCanvasHeight] = useState(1920)
   const [canvasPreset, setCanvasPreset] = useState('douyin')
@@ -87,28 +70,27 @@ function App() {
   const [importText, setImportText] = useState('')
   const [importError, setImportError] = useState('')
 
-  const handleImport = useCallback(() => {
+  const handleImport = useCallback(async () => {
     const md = importText.trim()
     if (!md) { setImportError('请粘贴行程文字'); return }
     try {
-      const imported = markdownToTrip(md)
+      const imported = await markdownToTrip(md)
       setTrip(imported)
       setShowImportModal(false)
       setImportText('')
       setImportError('')
+      toast.success('行程已导入')
     } catch {
       setImportError('格式解析失败，请检查内容格式')
     }
-  }, [importText])
+  }, [importText, toast, setTrip])
+
+  const { exporting, exportPng, exportMarkdown } = useExport({ canvasRef, title: trip.title, trip })
+  const aiRender = useAiRender({ canvasRef, trip, canvasWidth, canvasHeight })
 
   const [exportMenuOpen, setExportMenuOpen] = useState(false)
-  const exportMenuRef = useRef<HTMLDivElement>(null)
   const [showAiPanel, setShowAiPanel] = useState(false)
-  const [useSystemPrompt, setUseSystemPrompt] = useState(true)
-  const [userAiPrompt, setUserAiPrompt] = useState('')
-  const [aiApiKey, setAiApiKey] = useState(() => localStorage.getItem('sf_api_key') ?? '')
-  const [aiRendering, setAiRendering] = useState(false)
-  const [aiError, setAiError] = useState('')
+  const exportMenuRef = useRef<HTMLDivElement>(null)
 
   useEffect(() => {
     if (!exportMenuOpen && !showAiPanel) return
@@ -122,89 +104,16 @@ function App() {
     return () => document.removeEventListener('mousedown', handler)
   }, [exportMenuOpen, showAiPanel])
 
-  const handleExport = useCallback(async () => {
-    if (!canvasRef.current || exporting) return
-    setExporting(true)
-    setExportMenuOpen(false)
-    try {
-      const dataUrl = await canvasRef.current.exportPng()
-      const link = document.createElement('a')
-      link.download = `${trip.title}.png`
-      link.href = dataUrl
-      link.click()
-    } catch {
-    } finally {
-      setExporting(false)
-    }
-  }, [exporting, trip.title])
-
   const handleOpenAiPanel = useCallback(() => {
     setExportMenuOpen(false)
     setShowAiPanel(true)
-    setAiError('')
-  }, [])
+    aiRender.setError('')
+  }, [aiRender])
 
-  const handleAiRender = useCallback(async () => {
-    if (!canvasRef.current || aiRendering) return
-    if (!aiApiKey.trim()) { setAiError('请输入 API Key'); return }
-
-    setAiRendering(true)
-    setAiError('')
-    try {
-      // 导出透明路线图
-      const routePng = await canvasRef.current.exportPngTransparent()
-
-      // 构建提示词
-      const templateConfig = getTemplate(template)
-      const systemPrompt = buildSystemPrompt(trip, templateConfig)
-      const stops = trip.days.flatMap(d =>
-        d.stops.map(s => ({ name: s.name, lat: s.location.lat, lng: s.location.lng }))
-      )
-      // 动态 import prompt builder（含位置聚类）
-      // 直接用 systemPrompt 作为基础，extra 追加
-      const finalPrompt = [
-        useSystemPrompt ? systemPrompt : '',
-        userAiPrompt.trim(),
-      ].filter(Boolean).join('，')
-
-      const resultUrl = await generateAiPoster({
-        routePng,
-        prompt: finalPrompt,
-        apiKey: aiApiKey.trim(),
-        canvasWidth,
-        canvasHeight,
-      })
-
-      // 下载结果
-      const link = document.createElement('a')
-      link.download = `${trip.title}_AI渲染.jpg`
-      link.href = resultUrl
-      link.click()
-      URL.revokeObjectURL(resultUrl)
-      setShowAiPanel(false)
-    } catch (err: unknown) {
-      setAiError(err instanceof Error ? err.message : '生成失败，请重试')
-    } finally {
-      setAiRendering(false)
-    }
-  }, [aiRendering, aiApiKey, canvasRef, template, trip, canvasWidth, canvasHeight,
-      useSystemPrompt, userAiPrompt])
-
-  const handleExportTransparent = useCallback(async () => {
-    if (!canvasRef.current || exporting) return
-    setExporting(true)
-    setShowAiPanel(false)
-    try {
-      const dataUrl = await canvasRef.current.exportPngTransparent()
-      const link = document.createElement('a')
-      link.download = `${trip.title}_路线.png`
-      link.href = dataUrl
-      link.click()
-    } catch {
-    } finally {
-      setExporting(false)
-    }
-  }, [exporting, trip.title])
+  const handleAiSubmit = useCallback(async (params: { apiKey: string; prompt: string }) => {
+    const ok = await aiRender.render(params)
+    if (ok) setShowAiPanel(false)
+  }, [aiRender])
 
   return (
     <div className="h-screen w-screen flex flex-col bg-gray-50">
@@ -285,7 +194,7 @@ function App() {
           <div className="relative" ref={exportMenuRef}>
             <div className="flex items-stretch">
               <button
-                onClick={handleExport}
+                onClick={exportPng}
                 disabled={exporting}
                 className="px-4 py-1.5 text-sm font-medium text-white bg-blue-500 hover:bg-blue-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors rounded-l-lg"
               >
@@ -303,9 +212,9 @@ function App() {
               </button>
             </div>
             {exportMenuOpen && (
-              <div className="absolute right-0 top-full mt-1 w-44 bg-white rounded-lg shadow-xl border border-gray-200 z-50 py-1 overflow-hidden">
+              <div className="absolute right-0 top-full mt-1 w-52 bg-white rounded-lg shadow-xl border border-gray-200 z-50 py-1 overflow-hidden">
                 <button
-                  onClick={handleExport}
+                  onClick={exportPng}
                   className="w-full text-left px-4 py-2.5 text-sm text-gray-700 hover:bg-gray-50 flex items-center gap-2"
                 >
                   <svg className="w-4 h-4 text-blue-500" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
@@ -324,101 +233,33 @@ function App() {
                   AI 渲染
                   <span className="text-xs text-gray-400 ml-auto">透明底</span>
                 </button>
+                <button
+                  onClick={exportMarkdown}
+                  className="w-full text-left px-4 py-2.5 text-sm text-gray-700 hover:bg-gray-50 flex items-center gap-2"
+                >
+                  <svg className="w-4 h-4 text-gray-500" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                    <path strokeLinecap="round" strokeLinejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                  </svg>
+                  导出行程
+                  <span className="text-xs text-gray-400 ml-auto">复制</span>
+                </button>
               </div>
             )}
 
-          {/* AI 渲染配置面板 — 必须在 relative 容器内才能正确定位 */}
-          {showAiPanel && (() => {
-            const templateConfig = getTemplate(template)
-            const systemPrompt = buildSystemPrompt(trip, templateConfig)
-            const finalPrompt = [
-              useSystemPrompt ? systemPrompt : '',
-              userAiPrompt.trim(),
-            ].filter(Boolean).join('，')
-            return (
-              <div className="absolute right-0 top-full mt-2 w-[420px] bg-white rounded-xl shadow-xl border border-gray-200 z-50 p-4 flex flex-col gap-3">
-                <div className="flex items-center justify-between">
-                  <span className="text-sm font-semibold text-gray-700">AI 渲染配置</span>
-                  <button onClick={() => setShowAiPanel(false)} className="text-gray-400 hover:text-gray-600 text-lg leading-none">×</button>
-                </div>
-
-                {/* 系统提示词开关 */}
-                <div className="flex items-center gap-2">
-                  <button
-                    onClick={() => setUseSystemPrompt(v => !v)}
-                    className={`relative inline-flex w-9 h-5 rounded-full transition-colors shrink-0 ${useSystemPrompt ? 'bg-gray-700' : 'bg-gray-300'}`}
-                  >
-                    {/* left-0.5 是基准位，开启时 translate-x-4 刚好贴右边 */}
-                    <span className={`absolute top-0.5 left-0.5 w-4 h-4 bg-white rounded-full shadow transition-transform ${useSystemPrompt ? 'translate-x-4' : 'translate-x-0'}`} />
-                  </button>
-                  <span className="text-sm text-gray-600">系统提示词</span>
-                </div>
-
-                {/* 系统提示词预览 */}
-                {useSystemPrompt && (
-                  <div className="text-xs text-gray-400 bg-gray-50 rounded-lg p-2 leading-relaxed max-h-32 overflow-y-auto select-all cursor-text">
-                    {systemPrompt}
-                  </div>
-                )}
-
-                {/* 用户自定义提示词 */}
-                <div>
-                  <label className="text-xs text-gray-500 mb-1 block">自定义提示词（追加在系统提示词后）</label>
-                  <textarea
-                    value={userAiPrompt}
-                    onChange={e => setUserAiPrompt(e.target.value)}
-                    placeholder="例：赛博朋克风格，霓虹灯光，雨夜..."
-                    rows={3}
-                    className="w-full text-sm border border-gray-200 rounded-lg px-3 py-2 focus:outline-none focus:ring-1 focus:ring-gray-400 resize-none"
-                  />
-                </div>
-
-                {/* 最终提示词预览 */}
-                {finalPrompt && (
-                  <div className="text-xs text-gray-500 bg-gray-50 rounded-lg p-2 leading-relaxed">
-                    <span className="font-medium text-gray-600">最终提示词：</span>{finalPrompt.slice(0, 120)}{finalPrompt.length > 120 ? '...' : ''}
-                  </div>
-                )}
-
-                {/* API Key */}
-                <div>
-                  <label className="text-xs text-gray-500 mb-1 block">硅基流动 API Key</label>
-                  <input
-                    type="password"
-                    value={aiApiKey}
-                    onChange={e => { setAiApiKey(e.target.value); localStorage.setItem('sf_api_key', e.target.value) }}
-                    placeholder="sk-..."
-                    className="w-full text-sm border border-gray-200 rounded-lg px-3 py-2 focus:outline-none focus:ring-1 focus:ring-gray-400"
-                  />
-                </div>
-
-                {aiError && (
-                  <div className="text-xs text-red-500 bg-red-50 rounded-lg px-3 py-2">{aiError}</div>
-                )}
-
-                <button
-                  onClick={handleAiRender}
-                  disabled={aiRendering}
-                  className="w-full py-2 text-sm font-medium text-white bg-gray-700 hover:bg-gray-800 disabled:opacity-50 rounded-lg transition-colors flex items-center justify-center gap-2"
-                >
-                  {aiRendering ? (
-                    <>
-                      <svg className="w-4 h-4 animate-spin" viewBox="0 0 24 24" fill="none">
-                        <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"/>
-                        <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8H4z"/>
-                      </svg>
-                      AI 生成中...
-                    </>
-                  ) : 'AI 渲染'}
-                </button>
-              </div>
-            )
-          })()}
-          </div>{/* end exportMenuRef */}
+            {showAiPanel && (
+              <AiPanel
+                trip={trip}
+                templateId={template}
+                rendering={aiRender.rendering}
+                error={aiRender.error}
+                onClose={() => setShowAiPanel(false)}
+                onSubmit={handleAiSubmit}
+              />
+            )}
+          </div>
         </div>
       </header>
 
-      {/* 导入行程弹窗 */}
       {showImportModal && (
         <div className="fixed inset-0 bg-black/40 z-50 flex items-center justify-center p-4" onClick={() => setShowImportModal(false)}>
           <div className="bg-white rounded-2xl shadow-2xl w-full max-w-lg flex flex-col gap-4 p-6" onClick={e => e.stopPropagation()}>
@@ -462,16 +303,22 @@ function App() {
         </aside>
 
         <main className="flex-1 min-w-0">
-          <RouteCanvas
-            ref={canvasRef}
-            routeMap={routeMap}
-            canvasWidth={canvasWidth}
-            canvasHeight={canvasHeight}
-            template={template}
-            photos={photos}
-            onPhotoChange={handlePhotoChange}
-            onPhotoRemove={handlePhotoRemove}
-          />
+          {routeMap ? (
+            <RouteCanvas
+              ref={canvasRef}
+              routeMap={routeMap}
+              canvasWidth={canvasWidth}
+              canvasHeight={canvasHeight}
+              template={template}
+              photos={photos}
+              onPhotoChange={handlePhotoChange}
+              onPhotoRemove={handlePhotoRemove}
+            />
+          ) : (
+            <div className="w-full h-full flex items-center justify-center text-gray-400">
+              加载中…
+            </div>
+          )}
         </main>
       </div>
     </div>

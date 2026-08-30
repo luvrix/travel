@@ -1,9 +1,7 @@
 import type { RouteMap, RouteNode } from '../../types'
 import type { TemplateConfig, TemplateGradient } from '../types'
 
-export { MODE_LABEL, MODE_ICON } from '../../lib/transport'
-
-// ── Utility functions ──
+// Utility functions
 
 export function visualScale(w: number, h: number): number {
   const minDim = Math.min(w, h)
@@ -35,7 +33,7 @@ export function buildGradient(gradient: TemplateGradient, direction: 'vertical' 
     : `linear-gradient(180deg, ${gradient.stops.map(s => `${s.color} ${Math.round(s.offset * 100)}%`).join(', ')})`
 }
 
-// ── Edge path computation ──
+// Edge path computation
 
 export type ComputedEdge = RouteMap['edges'][0] & {
   sx: number; sy: number; tx: number; ty: number
@@ -101,7 +99,7 @@ export function computeEdgePaths(
   }).filter(Boolean) as ComputedEdge[]
 }
 
-// ── Renderer props type ──
+// Renderer props type
 
 export interface RendererProps {
   routeMap: RouteMap

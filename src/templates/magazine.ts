@@ -10,12 +10,6 @@ export const magazineTemplate: TemplateConfig = {
     pinFill: '#1A1A1A',
     attractionFill: '#555555',
     attractionStroke: '#E0E0E0',
-    comboFill: 'rgba(245,245,245,0.6)',
-    comboStroke: '#E0E0E0',
-    comboShadow: 'rgba(0,0,0,0.05)',
-    cityLabelFill: '#1A1A1A',
-    attractionLabelFill: '#555555',
-    transportIconColor: '#999999',
     edgeStroke: '#CCCCCC',
     canvasBackground: '#FFFFFF',
   },
@@ -23,7 +17,6 @@ export const magazineTemplate: TemplateConfig = {
   fonts: {
     city: { size: 24, weight: '800', color: '#1A1A1A', family: "'Noto Serif SC', 'Songti SC', Georgia, serif" },
     attraction: { size: 20, weight: '400', color: '#555555', family: "'Noto Serif SC', 'Songti SC', Georgia, serif" },
-    transport: { size: 16, weight: '300', color: '#999999', family: "'Noto Serif SC', Georgia, serif" },
   },
 
   gradient: {
@@ -91,20 +84,12 @@ export const magazineTemplate: TemplateConfig = {
 
   background: { type: 'clean' },
 
-  photo: { type: 'strip' },
   photoStyle: { borderRadius: 2, border: '1px solid rgba(0,0,0,0.1)', shadow: '0 2px 8px rgba(0,0,0,0.1)', zIndex: -5 },
 
-  layout: {
-    header: { x: 0, y: 0, width: 1, height: 0.10 },
-    routeMap: { x: 0, y: 0, width: 1, height: 1 },
-    footer: { x: 0, y: 0.95, width: 1, height: 0.05 },
-    photos: { x: 0, y: 0, width: 1, height: 1 },
-  },
 
-  cityPin: { shape: 'diamond', size: 44, showPhoto: true, showLabel: true, labelPosition: 'right' },
+  cityPin: { shape: 'square-rounded', size: 42, showLabel: true, labelPosition: 'right' },
   attractionNode: { shape: 'dot', size: 6, showLabel: true, labelPosition: 'right' },
   edge: { lineType: 'straight', trailStyle: 'flow', showTransportBadge: false, glowEffect: false, colorMode: 'day-tinted' },
-  comboCard: { style: 'outline', borderRadius: 2 },
   daySticker: { style: 'pill', position: 'above-first-node' },
 
   headerHeight: 100,

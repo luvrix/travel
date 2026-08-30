@@ -10,12 +10,6 @@ export const handdrawnTemplate: TemplateConfig = {
     pinFill: '#5D4037',
     attractionFill: '#8D6E63',
     attractionStroke: '#A1887F',
-    comboFill: 'rgba(245,237,227,0.5)',
-    comboStroke: '#A1887F',
-    comboShadow: 'rgba(93,64,55,0.08)',
-    cityLabelFill: '#3E2723',
-    attractionLabelFill: '#795548',
-    transportIconColor: '#8D6E63',
     edgeStroke: '#795548',
     canvasBackground: '#F5EDE3',
   },
@@ -23,7 +17,6 @@ export const handdrawnTemplate: TemplateConfig = {
   fonts: {
     city: { size: 24, weight: '700', color: '#3E2723', family: "'Caveat', 'Kalam', cursive" },
     attraction: { size: 20, weight: '400', color: '#795548', family: "'Caveat', 'Kalam', cursive" },
-    transport: { size: 16, weight: '400', color: '#8D6E63', family: "'Caveat', 'Kalam', cursive" },
   },
 
   gradient: {
@@ -105,20 +98,12 @@ export const handdrawnTemplate: TemplateConfig = {
 
   background: { type: 'clean' },
 
-  photo: { type: 'grid', columns: 2, rows: 2, gap: 6 },
   photoStyle: { borderRadius: 12, border: '2px solid rgba(121,85,72,0.2)', shadow: '0 3px 12px rgba(121,85,72,0.15)', filter: 'sepia(0.15)', zIndex: -5 },
 
-  layout: {
-    header: { x: 0, y: 0, width: 1, height: 0.10 },
-    routeMap: { x: 0, y: 0, width: 1, height: 1 },
-    footer: { x: 0, y: 0.95, width: 1, height: 0.05 },
-    photos: { x: 0, y: 0, width: 1, height: 1 },
-  },
 
-  cityPin: { shape: 'pin-drop', size: 48, showPhoto: true, showLabel: true, labelPosition: 'below' },
+  cityPin: { shape: 'diamond', size: 44, showLabel: true, labelPosition: 'right' },
   attractionNode: { shape: 'diamond', size: 8, showLabel: true, labelPosition: 'right' },
   edge: { lineType: 'curve', trailStyle: 'dash', showTransportBadge: false, glowEffect: false, colorMode: 'day-tinted' },
-  comboCard: { style: 'outline', borderRadius: 8 },
   daySticker: { style: 'pill', position: 'above-first-node' },
 
   headerHeight: 130,

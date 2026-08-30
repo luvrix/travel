@@ -10,12 +10,6 @@ export const journalTemplate: TemplateConfig = {
     pinFill: '#FB7299',
     attractionFill: '#23ADE5',
     attractionStroke: '#FFFFFF',
-    comboFill: 'rgba(251,114,153,0.05)',
-    comboStroke: 'rgba(251,114,153,0.12)',
-    comboShadow: 'rgba(35,173,229,0.06)',
-    cityLabelFill: '#18191C',
-    attractionLabelFill: '#555555',
-    transportIconColor: '#23ADE5',
     edgeStroke: '#FB7299',
     canvasBackground: '#F4F4F4',
   },
@@ -23,7 +17,6 @@ export const journalTemplate: TemplateConfig = {
   fonts: {
     city: { size: 26, weight: '700', color: '#18191C', family: "'PingFang SC', 'Noto Sans SC', sans-serif" },
     attraction: { size: 20, weight: '500', color: '#555555', family: "'PingFang SC', 'Noto Sans SC', sans-serif" },
-    transport: { size: 16, weight: '500', color: '#23ADE5', family: "'PingFang SC', sans-serif" },
   },
 
   gradient: {
@@ -132,20 +125,12 @@ export const journalTemplate: TemplateConfig = {
 
   background: { type: 'clean' },
 
-  photo: { type: 'hero', source: 'destination' },
   photoStyle: { borderRadius: 16, border: '3px solid rgba(255,255,255,0.9)', shadow: '0 4px 20px rgba(251,114,153,0.10)', filter: 'saturate(1.15)', zIndex: -5 },
 
-  layout: {
-    header: { x: 0, y: 0, width: 1, height: 0.12 },
-    routeMap: { x: 0, y: 0, width: 1, height: 1 },
-    footer: { x: 0, y: 0.95, width: 1, height: 0.05 },
-    photos: { x: 0, y: 0, width: 1, height: 1 },
-  },
 
-  cityPin: { shape: 'circle-photo', size: 52, showPhoto: true, showLabel: true, labelPosition: 'below' },
+  cityPin: { shape: 'circle-photo', size: 46, showLabel: true, labelPosition: 'right' },
   attractionNode: { shape: 'dot', size: 10, showLabel: true, labelPosition: 'right' },
   edge: { lineType: 'curve', trailStyle: 'dot-trail', showTransportBadge: true, glowEffect: false, colorMode: 'day-tinted' },
-  comboCard: { style: 'glass', borderRadius: 16 },
   daySticker: { style: 'pill', position: 'above-first-node' },
   headerHeight: 140,
 }

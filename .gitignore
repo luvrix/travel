@@ -13,6 +13,15 @@ dist-ssr
 dist-renderer
 *.local
 
+# 环境变量（含高德 key 等敏感配置）
+.env
+.env.local
+.env.*.local
+
+# Vercel 本地环境与缓存
+worker/.vercel
+worker/.env.local
+
 # Python
 __pycache__/
 *.pyc

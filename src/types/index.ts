@@ -20,8 +20,13 @@ export interface Stop {
   id: string
   name: string
   startTime: string
-  location: { lat: number; lng: number }
+  /** 缺失表示尚未被解析（等待高德补全或用户选择） */
+  location?: { lat: number; lng: number }
   transport?: TransportMode
+  /** 高德补全时写入，compiler 优先用此字段而非按坐标反推 */
+  city?: string
+  /** true 表示 location 由高德补全，compiler 应直接使用而非生成假坐标 */
+  amapResolved?: boolean
 }
 
 // ============ 第二层：渲染 JSON ============
@@ -52,7 +57,6 @@ export interface RouteNode {
   width?: number
   height?: number
   time?: string
-  isCustom?: boolean
 }
 
 export interface RouteEdge {
@@ -64,5 +68,4 @@ export interface RouteEdge {
   color: string
   icon?: TransportMode
   dayIndex: number
-  time?: string
 }

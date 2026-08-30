@@ -1,0 +1,4642 @@
+[
+  {
+    "name": "义和团吕祖堂坛口遗址",
+    "lat": 39.08606338500977,
+    "lng": 117.201530456543,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Museum",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Memorial_Hall_of_the_Boxer_Uprising"
+  },
+  {
+    "name": "万楼",
+    "lat": 27.87784576416016,
+    "lng": 112.9542083740234,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Wan_Pavilion"
+  },
+  {
+    "name": "苏州摩天轮乐园",
+    "lat": 31.31629371643066,
+    "lng": 120.7084503173828,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Suzhou_Ferris_Wheel"
+  },
+  {
+    "name": "北京市百货大楼",
+    "lat": 39.91329956054688,
+    "lng": 116.410400390625,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Beijing_Department_Store"
+  },
+  {
+    "name": "重庆大剧院",
+    "lat": 29.56862258911133,
+    "lng": 106.5803833007812,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Chongqing_Grand_Theatre"
+  },
+  {
+    "name": "灣仔錫克教廟",
+    "lat": 22.27450370788574,
+    "lng": 114.1779861450195,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Khalsa_Diwan_Sikh_Temple"
+  },
+  {
+    "name": "长沙圣母无染原罪主教座堂",
+    "lat": 28.2108325958252,
+    "lng": 112.9791641235352,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Cathedral_of_the_Immaculate_Conception_(Changsha)"
+  },
+  {
+    "name": "长沙市城北堂",
+    "lat": 28.21500015258789,
+    "lng": 112.9780578613281,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Changsha_Church_Christianity"
+  },
+  {
+    "name": "沙面露德圣母堂",
+    "lat": 23.10994529724121,
+    "lng": 113.2423782348633,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Our_Lady_of_Lourdes_Chapel,_Shamian_Island"
+  },
+  {
+    "name": "东莞台商大厦",
+    "lat": 23.01650047302246,
+    "lng": 113.7580032348633,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Dongguan_TBA_Tower"
+  },
+  {
+    "name": "常州現代傳媒中心",
+    "lat": 31.81611061096191,
+    "lng": 119.9674987792969,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Modern_Media_Center"
+  },
+  {
+    "name": "太和門",
+    "lat": 39.91397094726562,
+    "lng": 116.3907470703125,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Gate_of_Supreme_Harmony"
+  },
+  {
+    "name": "太和殿",
+    "lat": 39.91588973999023,
+    "lng": 116.3906631469727,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Hall_of_Supreme_Harmony"
+  },
+  {
+    "name": "毛主席纪念堂",
+    "lat": 39.9010009765625,
+    "lng": 116.3915023803711,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Chairman_Mao_Memorial_Hall"
+  },
+  {
+    "name": "中山陵",
+    "lat": 32.06430053710938,
+    "lng": 118.8482971191406,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Sun_Yat-sen_Mausoleum"
+  },
+  {
+    "name": "武漢世界貿易大廈",
+    "lat": 30.58277702331543,
+    "lng": 114.263053894043,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Wuhan_World_Trade_Tower"
+  },
+  {
+    "name": "Former Residence of Xiao Jinguang",
+    "lat": 28.17834663391113,
+    "lng": 112.958625793457,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Former_Residence_of_Xiao_Jinguang"
+  },
+  {
+    "name": "Tianfu Center",
+    "lat": 30.43158912658691,
+    "lng": 104.0842742919922,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Tianfu_Center"
+  },
+  {
+    "name": "Pingtan Softball Stadium",
+    "lat": 25.54244422912598,
+    "lng": 119.7514419555664,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Pingtan_Softball_Stadium"
+  },
+  {
+    "name": "Logan Century Center 1",
+    "lat": 22.81172180175781,
+    "lng": 108.394775390625,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Logan_Century_Center_1"
+  },
+  {
+    "name": "Eye of Spring Trade Center",
+    "lat": 25.03777694702148,
+    "lng": 102.7169418334961,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Eye_of_Spring_Trade_Center"
+  },
+  {
+    "name": "皇崗口岸",
+    "lat": 22.5207405090332,
+    "lng": 114.0749588012695,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Huanggang_Port"
+  },
+  {
+    "name": "宁波中心",
+    "lat": 29.86470031738281,
+    "lng": 121.6080017089844,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Ningbo_Center"
+  },
+  {
+    "name": "中央裁判司署",
+    "lat": 22.28107833862305,
+    "lng": 114.1545181274414,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Former_Central_Magistracy"
+  },
+  {
+    "name": "甘熙故居",
+    "lat": 32.0281982421875,
+    "lng": 118.7763977050781,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Former_Residence_of_Gan_Xi"
+  },
+  {
+    "name": "常熟翁氏故居",
+    "lat": 31.64048004150391,
+    "lng": 120.7416534423828,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Former_Residence_of_the_Weng_Clan"
+  },
+  {
+    "name": "沙頭角管制站",
+    "lat": 22.54911041259766,
+    "lng": 114.223274230957,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Sha_Tau_Kok_Control_Point"
+  },
+  {
+    "name": "天津国际金融中心",
+    "lat": 39.11915969848633,
+    "lng": 117.1923675537109,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Tianjin_Modern_City_Office_Tower"
+  },
+  {
+    "name": "体仁阁",
+    "lat": 39.91493988037109,
+    "lng": 116.392219543457,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Belvedere_of_Embodying_Benevolence"
+  },
+  {
+    "name": "深圳圣安多尼堂",
+    "lat": 22.55055618286133,
+    "lng": 114.0208358764648,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/St._Anthony's_Catholic_Church_(Shenzhen)"
+  },
+  {
+    "name": "人民大会堂",
+    "lat": 39.9033317565918,
+    "lng": 116.3874969482422,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Great_Hall_of_the_People"
+  },
+  {
+    "name": "长城",
+    "lat": 40.68000030517578,
+    "lng": 117.2300033569336,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Great_Wall_of_China"
+  },
+  {
+    "name": "上海总会大楼",
+    "lat": 31.23888969421387,
+    "lng": 121.4833297729492,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Shanghai_Club_Building"
+  },
+  {
+    "name": "聖神修院",
+    "lat": 22.24645805358887,
+    "lng": 114.1617431640625,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Holy_Spirit_Seminary"
+  },
+  {
+    "name": "鼎好电子大厦",
+    "lat": 39.9838981628418,
+    "lng": 116.3143005371094,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Dinghao_Market"
+  },
+  {
+    "name": "明祖陵",
+    "lat": 33.08216857910156,
+    "lng": 118.4776763916016,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Ming_Ancestors_Mausoleum"
+  },
+  {
+    "name": "曾国藩故居",
+    "lat": 27.67000007629395,
+    "lng": 111.9899978637695,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Former_Residence_of_Zeng_Guofan"
+  },
+  {
+    "name": "芜湖圣若瑟主教座堂",
+    "lat": 31.32999992370605,
+    "lng": 118.3300018310547,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/St._Joseph_Cathedral,_Wuhu"
+  },
+  {
+    "name": "韶山冲毛泽东同志故居",
+    "lat": 27.9098072052002,
+    "lng": 112.494758605957,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Former_Residence_of_Mao_Zedong"
+  },
+  {
+    "name": "United International Mansion",
+    "lat": 29.55999946594238,
+    "lng": 106.5783309936523,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/United_International_Mansion"
+  },
+  {
+    "name": "Greenland Hotel",
+    "lat": 34.74665451049805,
+    "lng": 113.6571502685547,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Greenland_Hotel"
+  },
+  {
+    "name": "Zhengzhou Ferris Wheel",
+    "lat": 34.73287200927734,
+    "lng": 113.7187423706055,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Zhengzhou_Ferris_Wheel"
+  },
+  {
+    "name": "Horn House",
+    "lat": 24.30911636352539,
+    "lng": 116.2309112548828,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Horn_House"
+  },
+  {
+    "name": "Former residence of Deng Xiaoping",
+    "lat": 30.52446174621582,
+    "lng": 106.6438064575195,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Former_residence_of_Deng_Xiaoping"
+  },
+  {
+    "name": "胡雪岩故居",
+    "lat": 30.24297142028809,
+    "lng": 120.1794662475586,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Former_Residence_of_Hu_Xueyan"
+  },
+  {
+    "name": "上海期货大厦",
+    "lat": 31.22788619995117,
+    "lng": 121.5304336547852,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Shanghai_Futures_Building"
+  },
+  {
+    "name": "盂城驿",
+    "lat": 32.77249908447266,
+    "lng": 119.432502746582,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Yucheng_Postal_Stop"
+  },
+  {
+    "name": "常熟基督教堂",
+    "lat": 31.65118026733398,
+    "lng": 120.7430267333984,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Changshu_Christian_Church"
+  },
+  {
+    "name": "重慶國金中心",
+    "lat": 29.57583427429199,
+    "lng": 106.5677795410156,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Chongqing_IFS_T1"
+  },
+  {
+    "name": "昆明恒隆廣場",
+    "lat": 25.04000091552734,
+    "lng": 102.7200012207031,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Spring_City_66"
+  },
+  {
+    "name": "Lingshan Islamic Cemetery",
+    "lat": 24.90663909912109,
+    "lng": 118.6205825805664,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Lingshan_Islamic_Cemetery"
+  },
+  {
+    "name": "Nanjing International Youth Cultural Centre",
+    "lat": 31.99160003662109,
+    "lng": 118.7080993652344,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Nanjing_International_Youth_Cultural_Centre"
+  },
+  {
+    "name": "Riverside Century Plaza Main Tower",
+    "lat": 31.3173999786377,
+    "lng": 118.3602981567383,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Riverside_Century_Plaza_Main_Tower"
+  },
+  {
+    "name": "St. Dominic's Cathedral, Fuzhou",
+    "lat": 26.05111122131348,
+    "lng": 119.3199996948242,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/St._Dominic's_Cathedral,_Fuzhou"
+  },
+  {
+    "name": "左宗棠墓",
+    "lat": 28.0981616973877,
+    "lng": 113.0990219116211,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Tomb_of_Zuo_Zongtang"
+  },
+  {
+    "name": "佳丽广场",
+    "lat": 30.58113861083984,
+    "lng": 114.2859191894531,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Jiali_Plaza"
+  },
+  {
+    "name": "沈阳茂业中心",
+    "lat": 41.76440048217773,
+    "lng": 123.4360961914062,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Moi_Center"
+  },
+  {
+    "name": "二七纪念塔",
+    "lat": 34.75299835205078,
+    "lng": 113.6600036621094,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Erqi_Memorial_Tower"
+  },
+  {
+    "name": "中国2010年上海世界博览会世博轴",
+    "lat": 31.18573379516602,
+    "lng": 121.4879837036133,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Expo_Axis"
+  },
+  {
+    "name": "海龙大厦",
+    "lat": 39.98329925537109,
+    "lng": 116.3153991699219,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Hailong_Market"
+  },
+  {
+    "name": "中和殿",
+    "lat": 39.91647338867188,
+    "lng": 116.3906097412109,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Hall_of_Central_Harmony"
+  },
+  {
+    "name": "交泰殿",
+    "lat": 39.91908264160156,
+    "lng": 116.3905029296875,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Hall_of_Union"
+  },
+  {
+    "name": "浡泥国王墓",
+    "lat": 31.98172187805176,
+    "lng": 118.760498046875,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Tomb_of_the_King_of_Boni"
+  },
+  {
+    "name": "宝能环球金融中心",
+    "lat": 41.77899932861328,
+    "lng": 123.4347991943359,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Baoneng_Shenyang_Global_Financial_Center"
+  },
+  {
+    "name": "北京奥林匹克塔",
+    "lat": 40.00651168823242,
+    "lng": 116.3878402709961,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Beijing_Olympic_Tower"
+  },
+  {
+    "name": "成都绿地中心",
+    "lat": 30.6067008972168,
+    "lng": 104.154296875,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Chengdu_Greenland_Tower"
+  },
+  {
+    "name": "李富春故居",
+    "lat": 28.19805526733398,
+    "lng": 112.9805526733398,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Former_Residence_of_Li_Fuchun"
+  },
+  {
+    "name": "Nanjing World Trade Center Tower 1",
+    "lat": 31.99568557739258,
+    "lng": 118.7182464599609,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Nanjing_World_Trade_Center_Tower_1"
+  },
+  {
+    "name": "Nantong Zhongnan International Plaza",
+    "lat": 31.97610092163086,
+    "lng": 120.8938980102539,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Nantong_Zhongnan_International_Plaza"
+  },
+  {
+    "name": "Heartland 66 Office Tower",
+    "lat": 30.5806941986084,
+    "lng": 114.2702255249023,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Heartland_66_Office_Tower"
+  },
+  {
+    "name": "Chong Hing Finance Center",
+    "lat": 31.23410034179688,
+    "lng": 121.4658966064453,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Chong_Hing_Finance_Center"
+  },
+  {
+    "name": "Former residence of Lei Feng",
+    "lat": 28.21255874633789,
+    "lng": 112.85400390625,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Former_residence_of_Lei_Feng"
+  },
+  {
+    "name": "Former residence of Xu Guangda",
+    "lat": 28.14172554016113,
+    "lng": 113.0968399047852,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Former_residence_of_Xu_Guangda"
+  },
+  {
+    "name": "Lumina Shanghai",
+    "lat": 31.16345977783203,
+    "lng": 121.4565124511719,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Lumina_Shanghai"
+  },
+  {
+    "name": "Shenyang Olympic Sports Centre Stadium",
+    "lat": 41.73903656005859,
+    "lng": 123.4574813842773,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Shenyang_Olympic_Sports_Centre_Stadium"
+  },
+  {
+    "name": "香港禮賓府",
+    "lat": 22.27866363525391,
+    "lng": 114.1574172973633,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Government_House,_Hong_Kong"
+  },
+  {
+    "name": "香港大會堂",
+    "lat": 22.28249931335449,
+    "lng": 114.1613922119141,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Hong_Kong_City_Hall"
+  },
+  {
+    "name": "午門 (北京)",
+    "lat": 39.91249847412109,
+    "lng": 116.39111328125,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Meridian_Gate"
+  },
+  {
+    "name": "天和国际中心",
+    "lat": 29.57678985595703,
+    "lng": 106.5306167602539,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Concord_International_Centre"
+  },
+  {
+    "name": "神武門",
+    "lat": 39.92094421386719,
+    "lng": 116.3904190063477,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Gate_of_Divine_Prowess"
+  },
+  {
+    "name": "杭州圣母无原罪主教座堂",
+    "lat": 30.26984596252441,
+    "lng": 120.1625900268555,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Cathedral_of_the_Immaculate_Conception_(Hangzhou)"
+  },
+  {
+    "name": "西安城墙",
+    "lat": 34.2534294128418,
+    "lng": 108.9423370361328,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Fortifications_of_Xi'an"
+  },
+  {
+    "name": "坤宁宫",
+    "lat": 39.91938781738281,
+    "lng": 116.3904724121094,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Palace_of_Earthly_Tranquility"
+  },
+  {
+    "name": "宁寿宫",
+    "lat": 39.91839981079102,
+    "lng": 116.3940963745117,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Palace_of_Tranquil_Longevity"
+  },
+  {
+    "name": "聖安德烈堂",
+    "lat": 22.30190086364746,
+    "lng": 114.1724014282227,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/St_Andrew's_Church,_Kowloon"
+  },
+  {
+    "name": "文渊阁",
+    "lat": 39.91629409790039,
+    "lng": 116.399528503418,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Belvedere_of_Literary_Profundity"
+  },
+  {
+    "name": "温州体育中心",
+    "lat": 28.00432395935059,
+    "lng": 120.6721343994141,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Wenzhou_Sports_Centre"
+  },
+  {
+    "name": "经略台真武阁",
+    "lat": 22.85831069946289,
+    "lng": 110.5562591552734,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Zhenwu_Pavilion"
+  },
+  {
+    "name": "中環街市",
+    "lat": 22.28382682800293,
+    "lng": 114.1554183959961,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Central_Market,_Hong_Kong"
+  },
+  {
+    "name": "中央饭店",
+    "lat": 32.04328155517578,
+    "lng": 118.7923202514648,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Centre_Hotel_(Nanjing)"
+  },
+  {
+    "name": "中山公園 (屯門)",
+    "lat": 22.37767028808594,
+    "lng": 113.9597015380859,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Red_House_(Hong_Kong)"
+  },
+  {
+    "name": "乔家大院",
+    "lat": 37.40607070922852,
+    "lng": 112.4299774169922,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Qiao_Family_Compound"
+  },
+  {
+    "name": "CNOOC Building",
+    "lat": 39.92369079589844,
+    "lng": 116.4263687133789,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/CNOOC_Building"
+  },
+  {
+    "name": "Huawei Ox Horn Campus",
+    "lat": 22.88800048828125,
+    "lng": 113.8880004882812,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Huawei_Ox_Horn_Campus"
+  },
+  {
+    "name": "Guangfa Securities Headquarters",
+    "lat": 23.12400054931641,
+    "lng": 113.3262023925781,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Guangfa_Securities_Headquarters"
+  },
+  {
+    "name": "Haitian Center Tower 2",
+    "lat": 36.05638885498047,
+    "lng": 120.3647232055664,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Haitian_Center_Tower_2"
+  },
+  {
+    "name": "Global City Square",
+    "lat": 23.11800003051758,
+    "lng": 113.3197021484375,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Global_City_Square"
+  },
+  {
+    "name": "Aura Gallery",
+    "lat": 39.98525238037109,
+    "lng": 116.4966888427734,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Aura_Gallery"
+  },
+  {
+    "name": "南京人民大会堂",
+    "lat": 32.02450180053711,
+    "lng": 118.4716033935547,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Nanjing_Great_Hall_of_the_People"
+  },
+  {
+    "name": "柳州地王国际财富中心",
+    "lat": 24.32065391540527,
+    "lng": 109.4117126464844,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Diwang_International_Fortune_Center"
+  },
+  {
+    "name": "中国2010年上海世界博览会非洲联合馆",
+    "lat": 31.18449974060059,
+    "lng": 121.4692001342773,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Shanghai_Expo_Mart"
+  },
+  {
+    "name": "黑石公寓",
+    "lat": 31.20450019836426,
+    "lng": 121.4383010864258,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Blackstone_Apartments_(Shanghai)"
+  },
+  {
+    "name": "北正街基督教堂",
+    "lat": 28.20666694641113,
+    "lng": 112.975830078125,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Beizhengjie_Christian_Church"
+  },
+  {
+    "name": "刘少奇故居",
+    "lat": 28.03217506408691,
+    "lng": 112.6456069946289,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Former_Residence_of_Liu_Shaoqi"
+  },
+  {
+    "name": "乾清门",
+    "lat": 39.91783905029297,
+    "lng": 116.3907470703125,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Gate_of_Heavenly_Purity"
+  },
+  {
+    "name": "外滩信号台",
+    "lat": 31.23520088195801,
+    "lng": 121.4877014160156,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Gutzlaff_Signal_Tower"
+  },
+  {
+    "name": "嘉模聖母堂",
+    "lat": 22.15353965759277,
+    "lng": 113.5587997436523,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Our_Lady_of_Carmel_Church,_Macau"
+  },
+  {
+    "name": "Suzhou Zhongnan Center",
+    "lat": 31.31800079345703,
+    "lng": 120.6729965209961,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Suzhou_Zhongnan_Center"
+  },
+  {
+    "name": "Yantai Shimao No.1 The Harbour",
+    "lat": 37.54010009765625,
+    "lng": 121.4073028564453,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Yantai_Shimao_No.1_The_Harbour"
+  },
+  {
+    "name": "Changsha A9 Financial District",
+    "lat": 28.24513053894043,
+    "lng": 112.9534072875977,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Changsha_A9_Financial_District"
+  },
+  {
+    "name": "Golden Eagle Tiandi Tower A",
+    "lat": 32.0260009765625,
+    "lng": 118.7348022460938,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Golden_Eagle_Tiandi_Tower_A"
+  },
+  {
+    "name": "Jin Wan Plaza 9",
+    "lat": 39.12936782836914,
+    "lng": 117.2035217285156,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Jin_Wan_Plaza_9"
+  },
+  {
+    "name": "Mandarin Oriental Chengdu",
+    "lat": 30.63675308227539,
+    "lng": 104.0918197631836,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Mandarin_Oriental_Chengdu"
+  },
+  {
+    "name": "National Political Consultative Hall",
+    "lat": 39.91830062866211,
+    "lng": 116.3578033447266,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/National_Political_Consultative_Hall"
+  },
+  {
+    "name": "Office Building of the National People's Congress",
+    "lat": 39.89989852905273,
+    "lng": 116.3877029418945,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Office_Building_of_the_National_People's_Congress"
+  },
+  {
+    "name": "无锡市基督教堂",
+    "lat": 31.57683372497559,
+    "lng": 120.310546875,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Wuxi_Christian_Church"
+  },
+  {
+    "name": "信号山",
+    "lat": 36.06610107421875,
+    "lng": 120.3266983032227,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Xinhao_Hill"
+  },
+  {
+    "name": "数字北京大厦",
+    "lat": 39.99396133422852,
+    "lng": 116.3817291259766,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Digital_Beijing_Building"
+  },
+  {
+    "name": "彭德怀故居",
+    "lat": 27.85000038146973,
+    "lng": 112.9000015258789,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Former_Residence_of_Peng_Dehuai"
+  },
+  {
+    "name": "愛羣大酒店",
+    "lat": 23.10956001281738,
+    "lng": 113.254997253418,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Oi_Kwan_Hotel"
+  },
+  {
+    "name": "徐州耶稣圣心主教座堂",
+    "lat": 34.26657485961914,
+    "lng": 117.1992645263672,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Sacred_Heart_Cathedral_(Xuzhou)"
+  },
+  {
+    "name": "沙面堂",
+    "lat": 23.11278343200684,
+    "lng": 113.2480545043945,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Shamian_Christian_Church"
+  },
+  {
+    "name": "李白墓",
+    "lat": 31.49773216247559,
+    "lng": 118.5255508422852,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Tomb_of_Li_Bai"
+  },
+  {
+    "name": "昭嗣堂",
+    "lat": 31.45207405090332,
+    "lng": 120.4520874023438,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Zhaosi_Hall"
+  },
+  {
+    "name": "王震故居",
+    "lat": 28.24895477294922,
+    "lng": 113.426025390625,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Former_Residence_of_Wang_Zhen"
+  },
+  {
+    "name": "济南绿地中心",
+    "lat": 36.66277694702148,
+    "lng": 117.0016632080078,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Greenland_Puli_Center"
+  },
+  {
+    "name": "富力盈凯广场",
+    "lat": 23.11864852905273,
+    "lng": 113.3196029663086,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/R&F_Yingkai_Square"
+  },
+  {
+    "name": "武汉越秀财富中心",
+    "lat": 30.59420013427734,
+    "lng": 114.2732009887695,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Yuexiu_Fortune_Center_Tower_1"
+  },
+  {
+    "name": "蒋经国旧居 (杭州)",
+    "lat": 30.26180648803711,
+    "lng": 120.1476364135742,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Former_Residence_of_Chiang_Ching-kuo_(Hangzhou)"
+  },
+  {
+    "name": "海航保利国际中心",
+    "lat": 29.55710029602051,
+    "lng": 106.5709991455078,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Chongqing_Poly_Tower"
+  },
+  {
+    "name": "Ding Mausoleum",
+    "lat": 40.2944450378418,
+    "lng": 116.216667175293,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Ding_Mausoleum"
+  },
+  {
+    "name": "Suning Plaza, Zhenjiang",
+    "lat": 32.20613098144531,
+    "lng": 119.4476776123047,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Suning_Plaza,_Zhenjiang"
+  },
+  {
+    "name": "Shenglong Global Center",
+    "lat": 26.06137847900391,
+    "lng": 119.2810592651367,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Shenglong_Global_Center"
+  },
+  {
+    "name": "Shimao Hunan Center",
+    "lat": 28.19681930541992,
+    "lng": 112.9786224365234,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Shimao_Hunan_Center"
+  },
+  {
+    "name": "Zhao Mausoleum (Ming dynasty)",
+    "lat": 40.29055404663086,
+    "lng": 116.2111129760742,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Zhao_Mausoleum_(Ming_dynasty)"
+  },
+  {
+    "name": "Yuda International Trade Center",
+    "lat": 34.74805450439453,
+    "lng": 113.616943359375,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Yuda_International_Trade_Center"
+  },
+  {
+    "name": "Tomb of Princess Linhe",
+    "lat": 36.36666488647461,
+    "lng": 114.3833312988281,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Tomb_of_Princess_Linhe"
+  },
+  {
+    "name": "岳阳楼",
+    "lat": 29.38472366333008,
+    "lng": 113.088264465332,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Yueyang_Tower"
+  },
+  {
+    "name": "无锡茂业城-万豪国际酒店",
+    "lat": 31.55240058898926,
+    "lng": 120.3044967651367,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Wuxi_Maoye_City_–_Marriott_Hotel"
+  },
+  {
+    "name": "宁波耶稣圣心堂",
+    "lat": 29.8705005645752,
+    "lng": 121.5496978759766,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Sacred_Heart_Cathedral,_Ningbo"
+  },
+  {
+    "name": "中國銀行大廈 (澳門)",
+    "lat": 22.18986129760742,
+    "lng": 113.5429763793945,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Bank_of_China_Building,_Macau"
+  },
+  {
+    "name": "福田口岸",
+    "lat": 22.51576995849609,
+    "lng": 114.0687713623047,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Futian_Port"
+  },
+  {
+    "name": "中山陵音乐台",
+    "lat": 32.05724334716797,
+    "lng": 118.8502426147461,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Sun_Yat-sen_Mausoleum_Music_Stage"
+  },
+  {
+    "name": "謝朓樓",
+    "lat": 30.95472145080566,
+    "lng": 118.7677764892578,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Xie_Tiao_Tower"
+  },
+  {
+    "name": "凤凰中心",
+    "lat": 39.93450164794922,
+    "lng": 116.4710006713867,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Phoenix_Center"
+  },
+  {
+    "name": "基督教深圳堂",
+    "lat": 22.5739917755127,
+    "lng": 114.0534057617188,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Shenzhen_Christian_Church"
+  },
+  {
+    "name": "越秀金融大厦",
+    "lat": 23.12400054931641,
+    "lng": 113.3262023925781,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Fortune_Center"
+  },
+  {
+    "name": "Our Lady of Fátima Church, Macau",
+    "lat": 22.21180534362793,
+    "lng": 113.5447769165039,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Our_Lady_of_Fátima_Church,_Macau"
+  },
+  {
+    "name": "Sacred Heart Cathedral, Jiaojiang",
+    "lat": 28.78384590148926,
+    "lng": 121.4169082641602,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Sacred_Heart_Cathedral,_Jiaojiang"
+  },
+  {
+    "name": "Christ the King Church, Shenzhen",
+    "lat": 22.59027862548828,
+    "lng": 113.9172210693359,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Christ_the_King_Church,_Shenzhen"
+  },
+  {
+    "name": "Hainan Center",
+    "lat": 20.0156307220459,
+    "lng": 110.3592529296875,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Building",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Hainan_Center"
+  },
+  {
+    "name": "高邮湖",
+    "lat": 32.83333206176758,
+    "lng": 119.3333358764648,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Gaoyou_Lake"
+  },
+  {
+    "name": "茈碧湖",
+    "lat": 26.14999961853027,
+    "lng": 99.94999694824219,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Cibi_Lake"
+  },
+  {
+    "name": "龙感湖",
+    "lat": 29.92970085144043,
+    "lng": 116.0942993164062,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Longgan_Lake"
+  },
+  {
+    "name": "龙木错",
+    "lat": 34.61444473266602,
+    "lng": 80.45999908447266,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Longmu_Lake"
+  },
+  {
+    "name": "杰萨错",
+    "lat": 30.22611045837402,
+    "lng": 84.79222106933594,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Jiesa_Lake"
+  },
+  {
+    "name": "白云湖 (章丘)",
+    "lat": 36.85531234741211,
+    "lng": 117.3880615234375,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/White_Cloud_Lake"
+  },
+  {
+    "name": "呼倫湖",
+    "lat": 48.97305679321289,
+    "lng": 117.4355545043945,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Hulun_Lake"
+  },
+  {
+    "name": "艾比湖",
+    "lat": 44.88333511352539,
+    "lng": 83.0,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Ebi_Lake"
+  },
+  {
+    "name": "仁青休布错",
+    "lat": 31.28277778625488,
+    "lng": 83.45527648925781,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Renqingxiubu_Lake"
+  },
+  {
+    "name": "抚仙湖",
+    "lat": 24.50225067138672,
+    "lng": 102.8888854980469,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Fuxian_Lake"
+  },
+  {
+    "name": "乌伦古湖",
+    "lat": 47.25,
+    "lng": 87.25,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Ulungur_Lake"
+  },
+  {
+    "name": "月牙泉",
+    "lat": 40.08666610717773,
+    "lng": 94.66944122314453,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Crescent_Lake_(Dunhuang)"
+  },
+  {
+    "name": "后海 (北京)",
+    "lat": 39.94111251831055,
+    "lng": 116.3788909912109,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Houhai"
+  },
+  {
+    "name": "星云湖",
+    "lat": 24.33333396911621,
+    "lng": 102.783332824707,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Xingyun_Lake"
+  },
+  {
+    "name": "扎陵湖",
+    "lat": 34.91666793823242,
+    "lng": 97.26667022705078,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Gyaring_Lake"
+  },
+  {
+    "name": "恰规错",
+    "lat": 31.8166675567627,
+    "lng": 88.23332977294922,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Lake_Jargö"
+  },
+  {
+    "name": "吴如错",
+    "lat": 31.71666717529297,
+    "lng": 88.0,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Lake_Urru"
+  },
+  {
+    "name": "聂尔错",
+    "lat": 32.28333282470703,
+    "lng": 82.21666717529297,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Nyer_Tso"
+  },
+  {
+    "name": "太平湖 (安徽)",
+    "lat": 30.36000061035156,
+    "lng": 118.0,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Taiping_Lake_(Anhui)"
+  },
+  {
+    "name": "西湖",
+    "lat": 30.24694442749023,
+    "lng": 120.1441650390625,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/West_Lake"
+  },
+  {
+    "name": "南湖 (嘉兴)",
+    "lat": 30.75699996948242,
+    "lng": 120.7559967041016,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/South_Lake_(Jiaxing)"
+  },
+  {
+    "name": "打加错",
+    "lat": 29.84277725219727,
+    "lng": 85.7316665649414,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Dajia_Lake"
+  },
+  {
+    "name": "鲁玛江东错",
+    "lat": 34.0,
+    "lng": 81.61666870117188,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Lumajangdong_Co"
+  },
+  {
+    "name": "洞庭湖",
+    "lat": 29.30999946594238,
+    "lng": 112.9499969482422,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Dongting_Lake"
+  },
+  {
+    "name": "青海湖",
+    "lat": 37.0,
+    "lng": 100.1333312988281,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Qinghai_Lake"
+  },
+  {
+    "name": "泰湖",
+    "lat": 31.23333358764648,
+    "lng": 120.1333312988281,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Lake_Tai"
+  },
+  {
+    "name": "昂拉仁错",
+    "lat": 31.55166625976562,
+    "lng": 83.10055541992188,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Ang_Laren_Lake"
+  },
+  {
+    "name": "南漪湖",
+    "lat": 31.09055519104004,
+    "lng": 118.9761123657227,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Nanyi_Lake"
+  },
+  {
+    "name": "洱海",
+    "lat": 25.76333427429199,
+    "lng": 100.1875,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Erhai_Lake"
+  },
+  {
+    "name": "查干湖",
+    "lat": 45.25,
+    "lng": 124.2799987792969,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Chagan_Lake_(China)"
+  },
+  {
+    "name": "惠州西湖",
+    "lat": 23.09558868408203,
+    "lng": 114.404670715332,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/West_Lake_(Huizhou)"
+  },
+  {
+    "name": "碧塔海",
+    "lat": 27.82500076293945,
+    "lng": 99.98332977294922,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Bita_Lake"
+  },
+  {
+    "name": "属都海",
+    "lat": 27.90833282470703,
+    "lng": 99.94166564941406,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Shudu_Lake"
+  },
+  {
+    "name": "扎布耶茶卡",
+    "lat": 31.44750022888184,
+    "lng": 84.05777740478516,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Lake_Zabuye"
+  },
+  {
+    "name": "长湖 (云南)",
+    "lat": 24.7136116027832,
+    "lng": 103.4208297729492,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Chang_Lake_(Yunnan)"
+  },
+  {
+    "name": "兴凯湖",
+    "lat": 45.0,
+    "lng": 132.4166717529297,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Lake_Khanka"
+  },
+  {
+    "name": "柴窝堡湖",
+    "lat": 43.5,
+    "lng": 87.91666412353516,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Chaiwopu_Lake"
+  },
+  {
+    "name": "百花洲 (济南)",
+    "lat": 36.6708869934082,
+    "lng": 117.0185165405273,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Hundred_Flower_Pond"
+  },
+  {
+    "name": "杞麓湖",
+    "lat": 24.14999961853027,
+    "lng": 102.783332824707,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Qilu_Lake"
+  },
+  {
+    "name": "达瓦错",
+    "lat": 31.24444389343262,
+    "lng": 84.95417022705078,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Dawa_Lake"
+  },
+  {
+    "name": "郭扎错",
+    "lat": 35.03138732910156,
+    "lng": 81.08638763427734,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Guozha_Lake"
+  },
+  {
+    "name": "天池 (长白山)",
+    "lat": 42.00600051879883,
+    "lng": 128.0570068359375,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Heaven_Lake"
+  },
+  {
+    "name": "叠溪海子",
+    "lat": 32.04636764526367,
+    "lng": 103.6743545532227,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Diexi_Lake"
+  },
+  {
+    "name": "东湖 (武汉)",
+    "lat": 30.55830001831055,
+    "lng": 114.4000015258789,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/East_Lake_(Wuhan)"
+  },
+  {
+    "name": "微山湖",
+    "lat": 34.59999847412109,
+    "lng": 117.1999969482422,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Nansi_Lake"
+  },
+  {
+    "name": "鄂陵湖",
+    "lat": 34.90000152587891,
+    "lng": 97.69999694824219,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Ngoring_Lake"
+  },
+  {
+    "name": "天池 (天山)",
+    "lat": 43.88602828979492,
+    "lng": 88.13238525390625,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Heavenly_Lake_of_Tianshan"
+  },
+  {
+    "name": "白洋淀",
+    "lat": 38.84999847412109,
+    "lng": 116.0,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Baiyang_Lake"
+  },
+  {
+    "name": "达布逊湖",
+    "lat": 37.02408218383789,
+    "lng": 95.13892364501953,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Dabusun_Lake"
+  },
+  {
+    "name": "西达布逊湖",
+    "lat": 37.08333206176758,
+    "lng": 94.78916931152344,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/West_Dabusun_Lake"
+  },
+  {
+    "name": "潮州西湖",
+    "lat": 23.6713981628418,
+    "lng": 116.6382064819336,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/West_Lake_(Chaozhou)"
+  },
+  {
+    "name": "北霍鲁逊湖",
+    "lat": 36.90833282470703,
+    "lng": 95.90777587890625,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/North_Hulsan_Lake"
+  },
+  {
+    "name": "南霍鲁逊湖",
+    "lat": 36.73166656494141,
+    "lng": 95.80652618408203,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/South_Hulsan_Lake"
+  },
+  {
+    "name": "汤逊湖",
+    "lat": 30.43000030517578,
+    "lng": 114.3499984741211,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Tangxun_Lake"
+  },
+  {
+    "name": "邵伯湖",
+    "lat": 32.61666488647461,
+    "lng": 119.4333343505859,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Shaobo_Lake"
+  },
+  {
+    "name": "黄旗海",
+    "lat": 40.8380012512207,
+    "lng": 113.280403137207,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Lake_Huangqi"
+  },
+  {
+    "name": "大明湖",
+    "lat": 36.67472076416016,
+    "lng": 117.0177764892578,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Daming_Lake"
+  },
+  {
+    "name": "喀纳斯湖",
+    "lat": 48.81499862670898,
+    "lng": 87.04000091552734,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Kanas_Lake"
+  },
+  {
+    "name": "邦达错",
+    "lat": 34.94889068603516,
+    "lng": 81.57111358642578,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Bangda_Lake"
+  },
+  {
+    "name": "金鸡湖",
+    "lat": 31.3136100769043,
+    "lng": 120.6916656494141,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Jinji_Lake"
+  },
+  {
+    "name": "东平湖",
+    "lat": 35.9647216796875,
+    "lng": 116.1958312988281,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Dongping_Lake"
+  },
+  {
+    "name": "东钱湖",
+    "lat": 29.76670074462891,
+    "lng": 121.6669998168945,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Dongqian_Lake"
+  },
+  {
+    "name": "军山湖",
+    "lat": 28.5666675567627,
+    "lng": 116.3166656494141,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Junshan_Lake"
+  },
+  {
+    "name": "南湖 (武汉)",
+    "lat": 30.48777770996094,
+    "lng": 114.3605575561523,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/South_Lake_(Wuhan)"
+  },
+  {
+    "name": "塔若错",
+    "lat": 31.13333320617676,
+    "lng": 84.11666870117188,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Taruo_Lake"
+  },
+  {
+    "name": "洞错",
+    "lat": 32.16666793823242,
+    "lng": 84.73332977294922,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Tong_Tso"
+  },
+  {
+    "name": "错鄂",
+    "lat": 31.60000038146973,
+    "lng": 88.76667022705078,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Tso_Ngön"
+  },
+  {
+    "name": "烏梁素海",
+    "lat": 40.93333435058594,
+    "lng": 108.8666687011719,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Ulansuhai_Nur"
+  },
+  {
+    "name": "瓦埠湖",
+    "lat": 32.43305587768555,
+    "lng": 116.8861083984375,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Wabu_Lake"
+  },
+  {
+    "name": "洱源西湖",
+    "lat": 26.01666641235352,
+    "lng": 100.0500030517578,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/West_Lake_(Eryuan)"
+  },
+  {
+    "name": "茶卡盐湖",
+    "lat": 36.69760131835938,
+    "lng": 99.10549926757812,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Chaka_Salt_Lake"
+  },
+  {
+    "name": "洪泽湖",
+    "lat": 33.30749893188477,
+    "lng": 118.7099990844727,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Hongze_Lake"
+  },
+  {
+    "name": "岱海",
+    "lat": 40.56809997558594,
+    "lng": 112.6894989013672,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Lake_Dai"
+  },
+  {
+    "name": "赛里木湖",
+    "lat": 44.59999847412109,
+    "lng": 81.19999694824219,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Sayram_Lake"
+  },
+  {
+    "name": "阳澄湖",
+    "lat": 31.43083381652832,
+    "lng": 120.8130569458008,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Lake",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Yangcheng_Lake"
+  },
+  {
+    "name": "雀儿山",
+    "lat": 31.78583335876465,
+    "lng": 99.0727767944336,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Chola_Mountains"
+  },
+  {
+    "name": "荊山 (山脈)",
+    "lat": 31.46666717529297,
+    "lng": 111.4833297729492,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Jing_Mountains"
+  },
+  {
+    "name": "珠穆隆索峰",
+    "lat": 27.9298095703125,
+    "lng": 87.10716247558594,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Chomo_Lonzo"
+  },
+  {
+    "name": "卡热疆峰",
+    "lat": 28.25812149047852,
+    "lng": 90.64716339111328,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Karjiang"
+  },
+  {
+    "name": "龙泉山 (成都)",
+    "lat": 30.9424991607666,
+    "lng": 104.5436096191406,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Longquan_Mountains"
+  },
+  {
+    "name": "喜马拉雅山脉",
+    "lat": 27.98333358764648,
+    "lng": 86.91666412353516,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Himalayas"
+  },
+  {
+    "name": "喬戈里峰",
+    "lat": 35.88249969482422,
+    "lng": 76.51333618164062,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/K2"
+  },
+  {
+    "name": "喀喇昆仑山脉",
+    "lat": 35.88249969482422,
+    "lng": 76.51333618164062,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Karakoram"
+  },
+  {
+    "name": "天山山脉",
+    "lat": 42.0,
+    "lng": 80.0,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Tian_Shan"
+  },
+  {
+    "name": "Khang Karpo",
+    "lat": 27.95660972595215,
+    "lng": 86.51423645019531,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Khang_Karpo"
+  },
+  {
+    "name": "Shalbachum",
+    "lat": 28.27096939086914,
+    "lng": 85.63047790527344,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Shalbachum"
+  },
+  {
+    "name": "Jinping Mountains",
+    "lat": 28.3438892364502,
+    "lng": 101.7533340454102,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Jinping_Mountains"
+  },
+  {
+    "name": "峨眉山",
+    "lat": 29.51972198486328,
+    "lng": 103.3324966430664,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Mount_Emei"
+  },
+  {
+    "name": "塔尔巴哈台山",
+    "lat": 47.18833160400391,
+    "lng": 82.46639251708984,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Tarbagatai_Mountains"
+  },
+  {
+    "name": "苍岩山",
+    "lat": 37.82942962646484,
+    "lng": 114.1365585327148,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Mount_Cangyan"
+  },
+  {
+    "name": "小相岭",
+    "lat": 28.72916603088379,
+    "lng": 102.3794479370117,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Xiaoxiang_Range"
+  },
+  {
+    "name": "菩提山 (重庆)",
+    "lat": 29.87315559387207,
+    "lng": 107.0599136352539,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Mount_Puti"
+  },
+  {
+    "name": "帕米爾高原",
+    "lat": 38.5,
+    "lng": 73.5,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Pamir_Mountains"
+  },
+  {
+    "name": "秦岭",
+    "lat": 33.96333312988281,
+    "lng": 107.6180572509766,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Qinling"
+  },
+  {
+    "name": "喬格茹峰",
+    "lat": 27.97249984741211,
+    "lng": 86.4316635131836,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Melungtse"
+  },
+  {
+    "name": "Kangpenqing",
+    "lat": 28.54999923706055,
+    "lng": 85.55000305175781,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Kangpenqing"
+  },
+  {
+    "name": "Xieshan",
+    "lat": 32.17491149902344,
+    "lng": 111.4173049926758,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Xieshan"
+  },
+  {
+    "name": "Yanamax",
+    "lat": 42.28499984741211,
+    "lng": 81.04347229003906,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Yanamax"
+  },
+  {
+    "name": "Changzheng Ri",
+    "lat": 28.0691967010498,
+    "lng": 86.89783477783203,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Changzheng_Ri"
+  },
+  {
+    "name": "Gangchenta",
+    "lat": 28.10306739807129,
+    "lng": 89.54769134521484,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Gangchenta"
+  },
+  {
+    "name": "Gurkarpo Ri",
+    "lat": 28.21002578735352,
+    "lng": 85.77276611328125,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Gurkarpo_Ri"
+  },
+  {
+    "name": "Tserim Kang",
+    "lat": 27.87229156494141,
+    "lng": 89.36907958984375,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Tserim_Kang"
+  },
+  {
+    "name": "Yansa Tsenji",
+    "lat": 28.25651550292969,
+    "lng": 85.60505676269531,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Yansa_Tsenji"
+  },
+  {
+    "name": "Sulamutag Feng",
+    "lat": 37.91666793823242,
+    "lng": 87.38333129882812,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Sulamutag_Feng"
+  },
+  {
+    "name": "芙蓉山 (宁乡市)",
+    "lat": 28.00722312927246,
+    "lng": 112.0305557250977,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Furong_Mountain"
+  },
+  {
+    "name": "狼牙山",
+    "lat": 39.1291389465332,
+    "lng": 115.1858215332031,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Mount_Langya_(Hebei)"
+  },
+  {
+    "name": "岷山",
+    "lat": 32.68333435058594,
+    "lng": 103.8499984741211,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Min_Mountains"
+  },
+  {
+    "name": "天目山 (浙江)",
+    "lat": 30.33333396911621,
+    "lng": 119.4166641235352,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Tianmu_Mountain"
+  },
+  {
+    "name": "冈仁波齐峰",
+    "lat": 31.0666675567627,
+    "lng": 81.3125,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Mount_Kailash"
+  },
+  {
+    "name": "摩拉門青峰",
+    "lat": 28.35472297668457,
+    "lng": 85.81083679199219,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Molamenqing"
+  },
+  {
+    "name": "罘罳峰",
+    "lat": 28.03222274780273,
+    "lng": 112.1369476318359,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Fusi_Mountain"
+  },
+  {
+    "name": "五连峰",
+    "lat": 27.37777709960938,
+    "lng": 103.2750015258789,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Wulian_Feng"
+  },
+  {
+    "name": "DaWu Mountain",
+    "lat": 22.23333358764648,
+    "lng": 111.25,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/DaWu_Mountain"
+  },
+  {
+    "name": "Hungchi",
+    "lat": 28.03499984741211,
+    "lng": 86.7588882446289,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Hungchi"
+  },
+  {
+    "name": "Khangri Shar",
+    "lat": 28.01888847351074,
+    "lng": 86.81527709960938,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Khangri_Shar"
+  },
+  {
+    "name": "Tekilik Shan",
+    "lat": 36.51666641235352,
+    "lng": 80.31666564941406,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Tekilik_Shan"
+  },
+  {
+    "name": "南迦巴瓦峰",
+    "lat": 29.6291675567627,
+    "lng": 95.05583190917969,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Namcha_Barwa"
+  },
+  {
+    "name": "沙鲁里山",
+    "lat": 29.8075008392334,
+    "lng": 99.6058349609375,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Shaluli_Mountains"
+  },
+  {
+    "name": "Mazartag",
+    "lat": 38.63999938964844,
+    "lng": 80.47000122070312,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Mazartag"
+  },
+  {
+    "name": "昆仑山脉",
+    "lat": 36.0,
+    "lng": 84.0,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Kunlun_Mountains"
+  },
+  {
+    "name": "定军山",
+    "lat": 33.1150016784668,
+    "lng": 106.6613922119141,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Mount_Dingjun"
+  },
+  {
+    "name": "念青唐古拉山",
+    "lat": 30.5,
+    "lng": 94.5,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Nyenchen_Tanglha_Mountains"
+  },
+  {
+    "name": "Sepu Kangri",
+    "lat": 30.90410232543945,
+    "lng": 93.78591918945312,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Sepu_Kangri"
+  },
+  {
+    "name": "唐古拉山脉",
+    "lat": 33.5,
+    "lng": 91.06999969482422,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Tanggula_Mountains"
+  },
+  {
+    "name": "苍山 (大理)",
+    "lat": 25.64888954162598,
+    "lng": 100.0980529785156,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Cang_Mountain"
+  },
+  {
+    "name": "伏牛山",
+    "lat": 33.66260147094727,
+    "lng": 111.7866973876953,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Funiu_Mountains"
+  },
+  {
+    "name": "叱石山",
+    "lat": 22.57942581176758,
+    "lng": 113.0149917602539,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Mount_Chishi"
+  },
+  {
+    "name": "Qarliq Tagh",
+    "lat": 43.10178756713867,
+    "lng": 94.29948425292969,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Qarliq_Tagh"
+  },
+  {
+    "name": "Mount Chaya",
+    "lat": 33.1341667175293,
+    "lng": 113.7283325195312,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Mount_Chaya"
+  },
+  {
+    "name": "Goikarla Rigyu",
+    "lat": 29.61481857299805,
+    "lng": 93.21509552001953,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Goikarla_Rigyu"
+  },
+  {
+    "name": "拉布吉康峰",
+    "lat": 28.30416679382324,
+    "lng": 86.350830078125,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Labuche_Kang"
+  },
+  {
+    "name": "黄腾峡",
+    "lat": 23.76944351196289,
+    "lng": 113.1016693115234,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Huangteng_Gorge"
+  },
+  {
+    "name": "大娄山",
+    "lat": 29.0666675567627,
+    "lng": 107.3000030517578,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Dalou_Mountains"
+  },
+  {
+    "name": "Kangri Karpo",
+    "lat": 29.16583251953125,
+    "lng": 96.72416687011719,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Kangri_Karpo"
+  },
+  {
+    "name": "Taniantaweng Mountains",
+    "lat": 31.33333396911621,
+    "lng": 98.0,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Taniantaweng_Mountains"
+  },
+  {
+    "name": "Yunwu Mountain",
+    "lat": 26.21944046020508,
+    "lng": 110.2680130004883,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Yunwu_Mountain"
+  },
+  {
+    "name": "Kangze Gyai",
+    "lat": 38.50027847290039,
+    "lng": 97.72472381591797,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Kangze_Gyai"
+  },
+  {
+    "name": "Mush Muztagh",
+    "lat": 36.04999923706055,
+    "lng": 80.11666870117188,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Mountain",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Mush_Muztagh"
+  },
+  {
+    "name": "青岛农业大学",
+    "lat": 36.31880187988281,
+    "lng": 120.3912963867188,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Qingdao_Agricultural_University"
+  },
+  {
+    "name": "青岛大学",
+    "lat": 36.07199859619141,
+    "lng": 120.4280014038086,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Qingdao_University"
+  },
+  {
+    "name": "苏州大学",
+    "lat": 31.31083297729492,
+    "lng": 120.6355590820312,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Soochow_University_(Suzhou)"
+  },
+  {
+    "name": "河北师范大学",
+    "lat": 37.59527587890625,
+    "lng": 114.3052749633789,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Hebei_Normal_University"
+  },
+  {
+    "name": "北京警察学院",
+    "lat": 40.24959945678711,
+    "lng": 116.1725997924805,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Beijing_People's_Police_College"
+  },
+  {
+    "name": "北京联合大学",
+    "lat": 39.98902893066406,
+    "lng": 116.4208526611328,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Beijing_Union_University"
+  },
+  {
+    "name": "重庆师范大学",
+    "lat": 29.61499977111816,
+    "lng": 106.2994003295898,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Chongqing_Normal_University"
+  },
+  {
+    "name": "西湖大学",
+    "lat": 30.33041000366211,
+    "lng": 120.033447265625,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Westlake_University"
+  },
+  {
+    "name": "龙岩学院",
+    "lat": 25.03222274780273,
+    "lng": 117.0195236206055,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Longyan_University"
+  },
+  {
+    "name": "江苏第二师范学院",
+    "lat": 32.0609016418457,
+    "lng": 118.7485961914062,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Jiangsu_Second_Normal_University"
+  },
+  {
+    "name": "井冈山大学",
+    "lat": 27.11334991455078,
+    "lng": 115.0214462280273,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Jinggangshan_University"
+  },
+  {
+    "name": "兰州交通大学",
+    "lat": 36.10540008544922,
+    "lng": 103.7242965698242,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Lanzhou_Jiaotong_University"
+  },
+  {
+    "name": "滨州医学院",
+    "lat": 37.45963287353516,
+    "lng": 121.4588851928711,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Binzhou_Medical_University"
+  },
+  {
+    "name": "华南师范大学",
+    "lat": 23.13649940490723,
+    "lng": 113.3496017456055,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/South_China_Normal_University"
+  },
+  {
+    "name": "四川外国语大学",
+    "lat": 29.56970024108887,
+    "lng": 106.4365997314453,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Sichuan_International_Studies_University"
+  },
+  {
+    "name": "清华大学经济管理学院",
+    "lat": 39.9995002746582,
+    "lng": 116.3321990966797,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Tsinghua_University_School_of_Economics_and_Management"
+  },
+  {
+    "name": "天津师范大学",
+    "lat": 39.06000137329102,
+    "lng": 117.120002746582,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Tianjin_Normal_University"
+  },
+  {
+    "name": "厦门大学",
+    "lat": 24.43825912475586,
+    "lng": 118.0931549072266,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Xiamen_University"
+  },
+  {
+    "name": "云南师范大学",
+    "lat": 25.0583324432373,
+    "lng": 102.6944427490234,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Yunnan_Normal_University"
+  },
+  {
+    "name": "中国传媒大学",
+    "lat": 39.90910720825195,
+    "lng": 116.550163269043,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Communication_University_of_China"
+  },
+  {
+    "name": "中国人民大学",
+    "lat": 39.97027587890625,
+    "lng": 116.3177795410156,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Renmin_University_of_China"
+  },
+  {
+    "name": "汕头大学",
+    "lat": 23.41559982299805,
+    "lng": 116.629997253418,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Shantou_University"
+  },
+  {
+    "name": "西安电子科技大学",
+    "lat": 34.22980499267578,
+    "lng": 108.9158325195312,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Xidian_University"
+  },
+  {
+    "name": "云南大学",
+    "lat": 25.06064033508301,
+    "lng": 102.7093734741211,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Yunnan_University"
+  },
+  {
+    "name": "郑州大学",
+    "lat": 34.76666641235352,
+    "lng": 113.6500015258789,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Zhengzhou_University"
+  },
+  {
+    "name": "西安交通大学",
+    "lat": 34.24722290039062,
+    "lng": 108.9791641235352,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Xi'an_Jiaotong_University"
+  },
+  {
+    "name": "新疆大学",
+    "lat": 43.76499938964844,
+    "lng": 87.62010192871094,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Xinjiang_University"
+  },
+  {
+    "name": "电子科技大学",
+    "lat": 30.75072479248047,
+    "lng": 103.9301147460938,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/University_of_Electronic_Science_and_Technology_of_China"
+  },
+  {
+    "name": "浙江财经大学",
+    "lat": 30.3216667175293,
+    "lng": 120.3947219848633,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Zhejiang_University_of_Finance_and_Economics"
+  },
+  {
+    "name": "西安工程大学",
+    "lat": 32.25888824462891,
+    "lng": 108.9922256469727,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Xi'an_Polytechnic_University"
+  },
+  {
+    "name": "湘南學院",
+    "lat": 25.45999908447266,
+    "lng": 113.0199966430664,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Xiangnan_University"
+  },
+  {
+    "name": "西华大学",
+    "lat": 30.77848052978516,
+    "lng": 103.9610977172852,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Xihua_University"
+  },
+  {
+    "name": "三明学院",
+    "lat": 26.19878005981445,
+    "lng": 117.5648956298828,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Sanming_University"
+  },
+  {
+    "name": "复旦大学",
+    "lat": 31.29888916015625,
+    "lng": 121.4991683959961,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Fudan_University"
+  },
+  {
+    "name": "上海交通大学",
+    "lat": 31.20083427429199,
+    "lng": 121.4297256469727,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Shanghai_Jiao_Tong_University"
+  },
+  {
+    "name": "兰州大学",
+    "lat": 36.04661178588867,
+    "lng": 103.8580551147461,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Lanzhou_University"
+  },
+  {
+    "name": "南京农业大学",
+    "lat": 32.03194427490234,
+    "lng": 118.836669921875,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Nanjing_Agricultural_University"
+  },
+  {
+    "name": "沈阳药科大学",
+    "lat": 41.76940155029297,
+    "lng": 123.4460983276367,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Shenyang_Pharmaceutical_University"
+  },
+  {
+    "name": "上海理工大学中英国际学院",
+    "lat": 31.21199989318848,
+    "lng": 121.4599990844727,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Sino-British_College"
+  },
+  {
+    "name": "浙江大学医学院",
+    "lat": 30.29817008972168,
+    "lng": 120.0793991088867,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Zhejiang_University_School_of_Medicine"
+  },
+  {
+    "name": "天津工业大学",
+    "lat": 39.06214904785156,
+    "lng": 117.1052551269531,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Tiangong_University"
+  },
+  {
+    "name": "天津体育学院",
+    "lat": 39.0744743347168,
+    "lng": 117.1874618530273,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Tianjin_University_of_Sport"
+  },
+  {
+    "name": "清华大学法学院",
+    "lat": 39.99810028076172,
+    "lng": 116.3322982788086,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Tsinghua_University_School_of_Law"
+  },
+  {
+    "name": "长沙民政职业技术学院",
+    "lat": 28.13750076293945,
+    "lng": 113.0167999267578,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Changsha_Social_Work_College"
+  },
+  {
+    "name": "广东南华工商职业学院",
+    "lat": 23.07770347595215,
+    "lng": 113.4209594726562,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Guangdong_Nanhua_Vocational_College_of_Industry_and_Commerce"
+  },
+  {
+    "name": "湖南工学院",
+    "lat": 26.89864921569824,
+    "lng": 112.5717239379883,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Hunan_Institute_of_Technology"
+  },
+  {
+    "name": "湖南警察学院",
+    "lat": 28.22326469421387,
+    "lng": 113.1299057006836,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Hunan_Police_Academy"
+  },
+  {
+    "name": "湖南财政经济学院",
+    "lat": 28.2059440612793,
+    "lng": 112.9266357421875,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Hunan_University_of_Finance_and_Economics"
+  },
+  {
+    "name": "清华大学深圳国际研究生院",
+    "lat": 22.59864807128906,
+    "lng": 113.9756927490234,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Tsinghua_Shenzhen_International_Graduate_School"
+  },
+  {
+    "name": "西安外事学院",
+    "lat": 34.23333358764648,
+    "lng": 108.8691635131836,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Xi'an_International_University"
+  },
+  {
+    "name": "南京大学",
+    "lat": 32.05611038208008,
+    "lng": 118.7750015258789,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Nanjing_University"
+  },
+  {
+    "name": "东南大学",
+    "lat": 32.05777740478516,
+    "lng": 118.7888870239258,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Southeast_University"
+  },
+  {
+    "name": "山东建筑大学",
+    "lat": 36.67666625976562,
+    "lng": 117.1791687011719,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Shandong_Jianzhu_University"
+  },
+  {
+    "name": "闽南师范大学",
+    "lat": 24.50748062133789,
+    "lng": 117.6453475952148,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Minnan_Normal_University"
+  },
+  {
+    "name": "新疆农业大学",
+    "lat": 43.81404113769531,
+    "lng": 87.56631469726562,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Xinjiang_Agricultural_University"
+  },
+  {
+    "name": "浙江大学西溪校区",
+    "lat": 30.27651977539062,
+    "lng": 120.1357574462891,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Xixi_Campus,_Zhejiang_University"
+  },
+  {
+    "name": "徐州工程学院",
+    "lat": 34.21377182006836,
+    "lng": 117.2155227661133,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Xuzhou_University_of_Technology"
+  },
+  {
+    "name": "仰恩大学",
+    "lat": 25.11147117614746,
+    "lng": 118.6134719848633,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Yang-En_University"
+  },
+  {
+    "name": "肇庆学院",
+    "lat": 23.08049964904785,
+    "lng": 112.4957962036133,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Zhaoqing_University"
+  },
+  {
+    "name": "浙江工商大学",
+    "lat": 29.75807571411133,
+    "lng": 119.6379776000977,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Zhejiang_Gongshang_University"
+  },
+  {
+    "name": "浙江大学之江校区",
+    "lat": 30.19512939453125,
+    "lng": 120.1204299926758,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Zhijiang_Campus,_Zhejiang_University"
+  },
+  {
+    "name": "北京航空航天大学",
+    "lat": 39.97999954223633,
+    "lng": 116.3408355712891,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Beihang_University"
+  },
+  {
+    "name": "陕西师范大学",
+    "lat": 34.15909957885742,
+    "lng": 108.9029006958008,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Shaanxi_Normal_University"
+  },
+  {
+    "name": "安徽医科大学",
+    "lat": 31.84861183166504,
+    "lng": 117.2633361816406,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Anhui_Medical_University"
+  },
+  {
+    "name": "安徽财经大学",
+    "lat": 32.92549896240234,
+    "lng": 117.3899993896484,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Anhui_University_of_Finance_and_Economics"
+  },
+  {
+    "name": "安庆师范大学",
+    "lat": 30.5141658782959,
+    "lng": 117.0480575561523,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Anqing_Normal_University"
+  },
+  {
+    "name": "海南师范大学",
+    "lat": 19.9989185333252,
+    "lng": 110.3368606567383,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Hainan_Normal_University"
+  },
+  {
+    "name": "南京林业大学",
+    "lat": 32.08083343505859,
+    "lng": 118.8113861083984,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Nanjing_Forestry_University"
+  },
+  {
+    "name": "南京大学商学院",
+    "lat": 32.0526008605957,
+    "lng": 118.7753982543945,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Nanjing_University_Business_School"
+  },
+  {
+    "name": "华中科技大学同济医学院",
+    "lat": 30.59900093078613,
+    "lng": 114.3011016845703,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Tongji_Medical_College"
+  },
+  {
+    "name": "安徽大学",
+    "lat": 31.84551620483398,
+    "lng": 117.251594543457,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Anhui_University"
+  },
+  {
+    "name": "东北林业大学",
+    "lat": 45.7239990234375,
+    "lng": 126.6402969360352,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Northeast_Forestry_University"
+  },
+  {
+    "name": "华南理工大学",
+    "lat": 23.15130043029785,
+    "lng": 113.344596862793,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/South_China_University_of_Technology"
+  },
+  {
+    "name": "中国药科大学",
+    "lat": 32.07459259033203,
+    "lng": 118.7741775512695,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/China_Pharmaceutical_University"
+  },
+  {
+    "name": "中国热带农业科学院",
+    "lat": 19.98082542419434,
+    "lng": 110.3259429931641,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Chinese_Academy_of_Tropical_Agricultural_Sciences"
+  },
+  {
+    "name": "国家法官学院",
+    "lat": 39.91289901733398,
+    "lng": 116.6220016479492,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/National_Judges_College"
+  },
+  {
+    "name": "嶺南師範學院",
+    "lat": 21.27459907531738,
+    "lng": 110.3513031005859,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Lingnan_Normal_University"
+  },
+  {
+    "name": "浙江大学海宁国际校区",
+    "lat": 30.52083206176758,
+    "lng": 120.7216644287109,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/International_Campus,_Zhejiang_University"
+  },
+  {
+    "name": "西藏大学",
+    "lat": 29.64590072631836,
+    "lng": 91.1454086303711,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Tibet_University"
+  },
+  {
+    "name": "宁夏大学",
+    "lat": 38.53639984130859,
+    "lng": 106.1370010375977,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Ningxia_University"
+  },
+  {
+    "name": "湖南城市學院",
+    "lat": 28.54441833496094,
+    "lng": 112.3878784179688,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Hunan_City_University"
+  },
+  {
+    "name": "邵陽學院",
+    "lat": 27.2034969329834,
+    "lng": 111.4363555908203,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Shaoyang_University"
+  },
+  {
+    "name": "广东文理职业学院",
+    "lat": 21.73333358764648,
+    "lng": 110.283332824707,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Guangdong_Institute_of_Arts_and_Sciences"
+  },
+  {
+    "name": "华北水利水电大学",
+    "lat": 34.78129959106445,
+    "lng": 113.7945022583008,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/North_China_University_of_Water_Resources_and_Electric_Power"
+  },
+  {
+    "name": "北京化工大学",
+    "lat": 39.96888732910156,
+    "lng": 116.4152755737305,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Beijing_University_of_Chemical_Technology"
+  },
+  {
+    "name": "南京医科大学",
+    "lat": 32.04579925537109,
+    "lng": 118.7689971923828,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Nanjing_Medical_University"
+  },
+  {
+    "name": "延边大学",
+    "lat": 42.90805435180664,
+    "lng": 129.4852752685547,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Yanbian_University"
+  },
+  {
+    "name": "佳木斯大学",
+    "lat": 46.78646469116211,
+    "lng": 130.3634948730469,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Jiamusi_University"
+  },
+  {
+    "name": "湖南工程学院",
+    "lat": 27.85400009155273,
+    "lng": 112.9299011230469,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Hunan_Institute_of_Engineering"
+  },
+  {
+    "name": "湖南理工学院",
+    "lat": 29.34630012512207,
+    "lng": 113.1526031494141,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Hunan_Institute_of_Science_and_Technology"
+  },
+  {
+    "name": "鲁迅美术学院",
+    "lat": 41.77619934082031,
+    "lng": 123.4291000366211,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Lu_Xun_Academy_of_Fine_Arts"
+  },
+  {
+    "name": "莆田学院",
+    "lat": 25.03463363647461,
+    "lng": 117.0195236206055,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Putian_University"
+  },
+  {
+    "name": "泉州师范学院",
+    "lat": 24.86565589904785,
+    "lng": 118.6674270629883,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Quanzhou_Normal_University"
+  },
+  {
+    "name": "东北大学 (中国)",
+    "lat": 41.76530075073242,
+    "lng": 123.4184036254883,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Northeastern_University_(China)"
+  },
+  {
+    "name": "西南财经大学",
+    "lat": 30.67048072814941,
+    "lng": 104.0118713378906,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Southwestern_University_of_Finance_and_Economics"
+  },
+  {
+    "name": "星海音乐学院",
+    "lat": 23.06055068969727,
+    "lng": 113.375,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Xinghai_Conservatory_of_Music"
+  },
+  {
+    "name": "广东海洋大学",
+    "lat": 21.14550018310547,
+    "lng": 110.3024978637695,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Guangdong_Ocean_University"
+  },
+  {
+    "name": "广东药科大学",
+    "lat": 22.47669982910156,
+    "lng": 113.4124984741211,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Guangdong_Pharmaceutical_University"
+  },
+  {
+    "name": "广州大学",
+    "lat": 23.03879928588867,
+    "lng": 113.3692016601562,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Guangzhou_University"
+  },
+  {
+    "name": "北京体育大学",
+    "lat": 40.02990341186523,
+    "lng": 116.3192901611328,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Beijing_Sport_University"
+  },
+  {
+    "name": "中央财经大学",
+    "lat": 39.95899963378906,
+    "lng": 116.3410034179688,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Central_University_of_Finance_and_Economics"
+  },
+  {
+    "name": "东北师范大学",
+    "lat": 43.8572998046875,
+    "lng": 125.3272018432617,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Northeast_Normal_University"
+  },
+  {
+    "name": "上海外国语大学",
+    "lat": 31.27715682983398,
+    "lng": 121.48291015625,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Shanghai_International_Studies_University"
+  },
+  {
+    "name": "四川农业大学",
+    "lat": 30.7097225189209,
+    "lng": 103.8597259521484,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Sichuan_Agricultural_University"
+  },
+  {
+    "name": "黑龙江中医药大学",
+    "lat": 45.72507858276367,
+    "lng": 126.6494827270508,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Heilongjiang_University_of_Chinese_Medicine"
+  },
+  {
+    "name": "复旦大学北欧中心",
+    "lat": 31.29660034179688,
+    "lng": 121.5009994506836,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Nordic_Centre_in_Shanghai"
+  },
+  {
+    "name": "中国人民解放军空军工程大学",
+    "lat": 34.27378082275391,
+    "lng": 109.0361709594727,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Air_Force_Engineering_University"
+  },
+  {
+    "name": "安徽建筑大学",
+    "lat": 31.74403953552246,
+    "lng": 117.2236785888672,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Anhui_Jianzhu_University"
+  },
+  {
+    "name": "东莞理工学院",
+    "lat": 23.05319595336914,
+    "lng": 113.7707138061523,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Dongguan_University_of_Technology"
+  },
+  {
+    "name": "吉首大学",
+    "lat": 28.28741455078125,
+    "lng": 109.7218704223633,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Jishou_University"
+  },
+  {
+    "name": "丽水学院",
+    "lat": 28.46231079101562,
+    "lng": 119.9100723266602,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Lishui_University"
+  },
+  {
+    "name": "南阳理工学院",
+    "lat": 32.97371673583984,
+    "lng": 112.5491943359375,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Nanyang_Institute_of_Technology"
+  },
+  {
+    "name": "南阳师范学院",
+    "lat": 32.97506332397461,
+    "lng": 112.4902496337891,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Nanyang_Normal_University"
+  },
+  {
+    "name": "宁夏医科大学",
+    "lat": 38.41460037231445,
+    "lng": 106.2836990356445,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Ningxia_Medical_University"
+  },
+  {
+    "name": "北方民族大学",
+    "lat": 38.49666595458984,
+    "lng": 106.1100540161133,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/North_Minzu_University"
+  },
+  {
+    "name": "中国人民解放军海军航空大学",
+    "lat": 37.53231048583984,
+    "lng": 121.4196701049805,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/PLA_Naval_Aviation_University"
+  },
+  {
+    "name": "山东中医药大学",
+    "lat": 36.65015411376953,
+    "lng": 117.0461349487305,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Shandong_University_of_Traditional_Chinese_Medicine"
+  },
+  {
+    "name": "成都东软学院",
+    "lat": 30.88882064819336,
+    "lng": 103.5967483520508,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Chengdu_Neusoft_University"
+  },
+  {
+    "name": "黑龙江科技大学",
+    "lat": 45.82054901123047,
+    "lng": 126.6523666381836,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Heilongjiang_University_of_Science_and_Technology"
+  },
+  {
+    "name": "江西农业大学",
+    "lat": 28.76299095153809,
+    "lng": 115.8339614868164,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Jiangxi_Agricultural_University"
+  },
+  {
+    "name": "江西中医药大学",
+    "lat": 28.67749977111816,
+    "lng": 115.7455978393555,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Jiangxi_University_of_Traditional_Chinese_Medicine"
+  },
+  {
+    "name": "济宁医学院",
+    "lat": 35.39556884765625,
+    "lng": 116.5969314575195,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Jining_Medical_University"
+  },
+  {
+    "name": "沈阳理工大学",
+    "lat": 41.72600173950195,
+    "lng": 123.4869995117188,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Shenyang_Ligong_University"
+  },
+  {
+    "name": "衡陽師範學院",
+    "lat": 26.88043022155762,
+    "lng": 112.6783294677734,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Hengyang_Normal_University"
+  },
+  {
+    "name": "南京工业大学",
+    "lat": 32.07871246337891,
+    "lng": 118.7719650268555,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Nanjing_Tech_University"
+  },
+  {
+    "name": "中国矿业大学",
+    "lat": 39.99666595458984,
+    "lng": 116.349723815918,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/China_University_of_Mining_and_Technology"
+  },
+  {
+    "name": "宁波诺丁汉大学",
+    "lat": 29.80220031738281,
+    "lng": 121.559196472168,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/University_of_Nottingham_Ningbo_China"
+  },
+  {
+    "name": "深圳大学",
+    "lat": 22.53925514221191,
+    "lng": 113.9336853027344,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Shenzhen_University"
+  },
+  {
+    "name": "广州体育学院",
+    "lat": 23.14310073852539,
+    "lng": 113.3163986206055,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Guangzhou_Sport_University"
+  },
+  {
+    "name": "山西大学",
+    "lat": 37.79999923706055,
+    "lng": 112.5833358764648,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Shanxi_University"
+  },
+  {
+    "name": "湖南涉外经济学院",
+    "lat": 28.20216369628906,
+    "lng": 112.9514083862305,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Hunan_International_Economics_University"
+  },
+  {
+    "name": "福建医科大学",
+    "lat": 26.06744956970215,
+    "lng": 119.2994918823242,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Fujian_Medical_University"
+  },
+  {
+    "name": "福建中医药大学",
+    "lat": 26.07332992553711,
+    "lng": 119.1807403564453,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Fujian_University_of_Traditional_Chinese_Medicine"
+  },
+  {
+    "name": "广西大学",
+    "lat": 22.83889961242676,
+    "lng": 108.2845001220703,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Guangxi_University"
+  },
+  {
+    "name": "大理大学",
+    "lat": 25.6742000579834,
+    "lng": 100.1532974243164,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Dali_University"
+  },
+  {
+    "name": "西南交通大学",
+    "lat": 30.76944351196289,
+    "lng": 103.9847259521484,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Southwest_Jiaotong_University"
+  },
+  {
+    "name": "People's Liberation Army Academy of Military Sciences",
+    "lat": 40.01100158691406,
+    "lng": 116.2470016479492,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/People's_Liberation_Army_Academy_of_Military_Sciences"
+  },
+  {
+    "name": "Florida International University Tianjin Center",
+    "lat": 39.17819213867188,
+    "lng": 117.1116943359375,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Florida_International_University_Tianjin_Center"
+  },
+  {
+    "name": "College of Traditional Chinese Medicine of Xinjiang Medical University",
+    "lat": 43.83520126342773,
+    "lng": 87.58110046386719,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/College_of_Traditional_Chinese_Medicine_of_Xinjiang_Medical_University"
+  },
+  {
+    "name": "Nanyang Medical College",
+    "lat": 32.96888732910156,
+    "lng": 112.4899978637695,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Nanyang_Medical_College"
+  },
+  {
+    "name": "Tianjin Crafts and Arts Vocational College",
+    "lat": 39.10111236572266,
+    "lng": 117.1647186279297,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Tianjin_Crafts_and_Arts_Professional_College"
+  },
+  {
+    "name": "Air Force Aviation University",
+    "lat": 43.84294509887695,
+    "lng": 125.3234176635742,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Air_Force_Aviation_University"
+  },
+  {
+    "name": "Shanghai Medical College, Fudan University",
+    "lat": 31.19777870178223,
+    "lng": 121.4519424438477,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Shanghai_Medical_College,_Fudan_University"
+  },
+  {
+    "name": "China Medical University (Liaoning)",
+    "lat": 41.78919982910156,
+    "lng": 123.3724975585938,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/China_Medical_University_(Liaoning)"
+  },
+  {
+    "name": "Shandong Second Medical University",
+    "lat": 36.66595840454102,
+    "lng": 119.0328674316406,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Shandong_Second_Medical_University"
+  },
+  {
+    "name": "Tsinghua University School of Public Policy and Management",
+    "lat": 39.99739837646484,
+    "lng": 116.3254013061523,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Tsinghua_University_School_of_Public_Policy_and_Management"
+  },
+  {
+    "name": "Air Force Command College",
+    "lat": 39.96805953979492,
+    "lng": 116.2785186767578,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Air_Force_Command_College"
+  },
+  {
+    "name": "Air Force Communication NCO Academy",
+    "lat": 39.06639862060547,
+    "lng": 121.7379989624023,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Air_Force_Communication_NCO_Academy"
+  },
+  {
+    "name": "China Civil Affairs University",
+    "lat": 39.98972320556641,
+    "lng": 116.3052749633789,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/China_Civil_Affairs_University"
+  },
+  {
+    "name": "China Coast Guard Academy",
+    "lat": 29.94387054443359,
+    "lng": 121.7109680175781,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/China_Coast_Guard_Academy"
+  },
+  {
+    "name": "Wuyi University (Guangdong)",
+    "lat": 22.59924697875977,
+    "lng": 113.0858688354492,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Wuyi_University_(Guangdong)"
+  },
+  {
+    "name": "Guilin University",
+    "lat": 25.09799957275391,
+    "lng": 110.2740020751953,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Guilin_University"
+  },
+  {
+    "name": "Wuchang University of Technology",
+    "lat": 30.70916748046875,
+    "lng": 114.6269454956055,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Wuchang_University_of_Technology"
+  },
+  {
+    "name": "Xi'an Jiaotong–Liverpool University",
+    "lat": 31.27479934692383,
+    "lng": 120.7380676269531,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Xi'an_Jiaotong–Liverpool_University"
+  },
+  {
+    "name": "Army Special Operations Academy",
+    "lat": 25.24379920959473,
+    "lng": 110.2825012207031,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Army_Special_Operations_Academy"
+  },
+  {
+    "name": "Zhejiang University–University of Edinburgh Institute",
+    "lat": 30.52083206176758,
+    "lng": 120.7216644287109,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "University",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Zhejiang_University–University_of_Edinburgh_Institute"
+  },
+  {
+    "name": "金陵图书馆",
+    "lat": 32.01287460327148,
+    "lng": 118.7183532714844,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Library",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Jinling_Library"
+  },
+  {
+    "name": "深圳图书馆",
+    "lat": 22.54613304138184,
+    "lng": 114.0576705932617,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Library",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Shenzhen_Library"
+  },
+  {
+    "name": "湖北省图书馆",
+    "lat": 30.55621719360352,
+    "lng": 114.3304061889648,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Library",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Hubei_Provincial_Library"
+  },
+  {
+    "name": "中国国家图书馆",
+    "lat": 39.94586944580078,
+    "lng": 116.3223648071289,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Library",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/National_Library_of_China"
+  },
+  {
+    "name": "南京图书馆",
+    "lat": 32.04389953613281,
+    "lng": 118.7900009155273,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Library",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Nanjing_Library"
+  },
+  {
+    "name": "南京大学图书馆",
+    "lat": 32.0545654296875,
+    "lng": 118.7813110351562,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Library",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Nanjing_University_Library"
+  },
+  {
+    "name": "宁波大学园区图书馆",
+    "lat": 29.80615425109863,
+    "lng": 121.5590362548828,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Library",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Ningbo_University_Zone_Library"
+  },
+  {
+    "name": "文津阁",
+    "lat": 40.99428176879883,
+    "lng": 117.9407958984375,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Library",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Wenjin_Ge"
+  },
+  {
+    "name": "徐家汇藏书楼",
+    "lat": 31.19208335876465,
+    "lng": 121.437614440918,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Library",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Bibliotheca_Zi-Ka-Wei"
+  },
+  {
+    "name": "天津滨海图书馆",
+    "lat": 39.01210021972656,
+    "lng": 117.6913986206055,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Library",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Tianjin_Binhai_Library"
+  },
+  {
+    "name": "景堂圖書館",
+    "lat": 22.5209789276123,
+    "lng": 113.0400543212891,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Library",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Jingtang_Library"
+  },
+  {
+    "name": "武汉大学图书馆",
+    "lat": 30.53593826293945,
+    "lng": 114.3625259399414,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Library",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Wuhan_University_Library"
+  },
+  {
+    "name": "云南省图书馆",
+    "lat": 25.04632377624512,
+    "lng": 102.7008438110352,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Library",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Yunnan_Provincial_Library"
+  },
+  {
+    "name": "新疆图书馆",
+    "lat": 43.84634780883789,
+    "lng": 87.5760498046875,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Library",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Xinjiang_Library"
+  },
+  {
+    "name": "Sun Yat-sen Library of Guangdong Province",
+    "lat": 23.12689971923828,
+    "lng": 113.2711029052734,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Library",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Sun_Yat-sen_Library_of_Guangdong_Province"
+  },
+  {
+    "name": "Ningbo Library",
+    "lat": 29.86045265197754,
+    "lng": 121.6232986450195,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Library",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Ningbo_Library"
+  },
+  {
+    "name": "何東圖書館",
+    "lat": 22.1924991607666,
+    "lng": 113.5377807617188,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Library",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Sir_Robert_Ho_Tung_Library"
+  },
+  {
+    "name": "海宁市图书馆",
+    "lat": 30.5085506439209,
+    "lng": 120.6753921508789,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Library",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Haining_Library"
+  },
+  {
+    "name": "Yuhuan Library",
+    "lat": 28.1361198425293,
+    "lng": 121.2285537719727,
+    "city": null,
+    "source": "dbpedia",
+    "source_type": "Library",
+    "category": "attraction",
+    "uri": "http://dbpedia.org/resource/Yuhuan_Library"
+  }
+]

@@ -10,12 +10,6 @@ export const trendyTemplate: TemplateConfig = {
     pinFill: '#E03A3A',
     attractionFill: '#8A2BE2',
     attractionStroke: '#5F10DD',
-    comboFill: 'rgba(224,58,58,0.04)',
-    comboStroke: 'rgba(224,58,58,0.10)',
-    comboShadow: 'rgba(138,43,226,0.06)',
-    cityLabelFill: 'rgba(255,255,255,0.90)',
-    attractionLabelFill: 'rgba(255,255,255,0.50)',
-    transportIconColor: '#FFA500',
     edgeStroke: '#E03A3A',
     canvasBackground: '#0A0A0A',
   },
@@ -23,7 +17,6 @@ export const trendyTemplate: TemplateConfig = {
   fonts: {
     city: { size: 24, weight: '700', color: 'rgba(255,255,255,0.90)', family: "-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'PingFang SC', 'Helvetica Neue', sans-serif" },
     attraction: { size: 18, weight: '400', color: 'rgba(255,255,255,0.50)', family: "-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'PingFang SC', 'Helvetica Neue', sans-serif" },
-    transport: { size: 13, weight: '600', color: '#FFA500', family: "-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', sans-serif" },
   },
 
   gradient: {
@@ -168,20 +161,12 @@ export const trendyTemplate: TemplateConfig = {
     colorWashOpacity: 0.12,
   },
 
-  photo: { type: 'hero', source: 'destination' },
   photoStyle: { borderRadius: 0, border: '1px solid rgba(224,58,58,0.10)', shadow: '0 4px 24px rgba(224,58,58,0.08), 0 0 40px rgba(138,43,226,0.04)', filter: 'contrast(1.05) saturate(1.1)', zIndex: -5 },
 
-  layout: {
-    header: { x: 0, y: 0, width: 1, height: 0.10 },
-    routeMap: { x: 0, y: 0, width: 1, height: 1 },
-    footer: { x: 0, y: 0.95, width: 1, height: 0.05 },
-    photos: { x: 0, y: 0, width: 1, height: 1 },
-  },
 
-  cityPin: { shape: 'square-rounded', size: 48, showPhoto: true, showLabel: true, labelPosition: 'right' },
+  cityPin: { shape: 'diamond', size: 46, showLabel: true, labelPosition: 'right' },
   attractionNode: { shape: 'diamond', size: 8, showLabel: true, labelPosition: 'right' },
   edge: { lineType: 'curve', trailStyle: 'dot-trail', showTransportBadge: true, glowEffect: true, colorMode: 'day-tinted' },
-  comboCard: { style: 'glass', borderRadius: 4 },
   daySticker: { style: 'badge', position: 'above-first-node' },
   headerHeight: 160,
 }

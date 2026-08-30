@@ -47,66 +47,89 @@ function boxBlur(data: Float32Array, w: number, h: number, r: number): Float32Ar
   return out
 }
 
+const AI_TIMEOUT_MS = 30_000
+
 export async function generateAiPoster(opts: AiRenderOptions): Promise<string> {
   const { routePng, prompt, apiKey, canvasWidth, canvasHeight } = opts
 
-  // ── 1. 调 SiliconFlow 生成 AI 背景 ───────────────
-  const res = await fetch(SILICONFLOW_URL, {
-    method: 'POST',
-    headers: { 'Authorization': `Bearer ${apiKey}`, 'Content-Type': 'application/json' },
-    body: JSON.stringify({ model: MODEL, prompt, image_size: GEN_SIZE, batch_size: 1 }),
-  })
+  const controller = new AbortController()
+  const timer = setTimeout(() => controller.abort(), AI_TIMEOUT_MS)
+  let res: Response
+  try {
+    res = await fetch(SILICONFLOW_URL, {
+      method: 'POST',
+      headers: { 'Authorization': `Bearer ${apiKey}`, 'Content-Type': 'application/json' },
+      body: JSON.stringify({ model: MODEL, prompt, image_size: GEN_SIZE, batch_size: 1 }),
+      signal: controller.signal,
+    })
+  } catch (e) {
+    if (e instanceof DOMException && e.name === 'AbortError') {
+      throw new Error(`AI 生成超时（${AI_TIMEOUT_MS / 1000}s），请重试`, { cause: e })
+    }
+    throw new Error(`网络错误：${e instanceof Error ? e.message : '未知'}`, { cause: e })
+  } finally {
+    clearTimeout(timer)
+  }
   if (!res.ok) {
     const err = await res.text()
     throw new Error(`SiliconFlow 错误 ${res.status}: ${err}`)
   }
-  const aiImageUrl: string = (await res.json()).images[0].url
-
-  // ── 2. 加载两张图 ────────────────────────────────
-  const [aiBitmap, routeBitmap] = await Promise.all([
-    loadImage(aiImageUrl),
-    loadImage(routePng),
-  ])
-
-  // ── 3. Canvas 合成 ───────────────────────────────
-  const canvas = new OffscreenCanvas(canvasWidth, canvasHeight)
-  const ctx = canvas.getContext('2d')!
-
-  // 3-1 白色底色
-  ctx.fillStyle = '#f9f9f9'
-  ctx.fillRect(0, 0, canvasWidth, canvasHeight)
-
-  // 3-2 绘制路线图到离屏 canvas，提取 alpha 通道
-  const routeCanvas = new OffscreenCanvas(canvasWidth, canvasHeight)
-  const rCtx = routeCanvas.getContext('2d')!
-  rCtx.drawImage(routeBitmap, 0, 0, canvasWidth, canvasHeight)
-  const routePixels = rCtx.getImageData(0, 0, canvasWidth, canvasHeight).data
-
-  // 3-3 提取路线 alpha 并扩散（保护区）
-  const routeAlpha = new Float32Array(canvasWidth * canvasHeight)
-  for (let i = 0; i < canvasWidth * canvasHeight; i++) {
-    routeAlpha[i] = routePixels[i * 4 + 3] / 255
+  const body = await res.json()
+  const aiImageUrl = body?.images?.[0]?.url
+  if (typeof aiImageUrl !== 'string' || !aiImageUrl) {
+    throw new Error('AI 服务返回格式异常（缺 images[0].url）')
   }
-  const blurRadius = Math.round(canvasWidth * 0.025)  // 约 2.5% 画布宽度
-  const protected_ = boxBlur(routeAlpha, canvasWidth, canvasHeight, blurRadius)
 
-  // 3-4 绘制 AI 背景，路线区域淡出 50%
-  const aiCanvas = new OffscreenCanvas(canvasWidth, canvasHeight)
-  const aCtx = aiCanvas.getContext('2d')!
-  aCtx.drawImage(aiBitmap, 0, 0, canvasWidth, canvasHeight)
-  const aiImgData = aCtx.getImageData(0, 0, canvasWidth, canvasHeight)
-  const aiPx = aiImgData.data
-  for (let i = 0; i < canvasWidth * canvasHeight; i++) {
-    const protection = protected_[i]
-    aiPx[i * 4 + 3] = Math.round(aiPx[i * 4 + 3] * (1 - protection * 0.5))
+  let aiBitmap: ImageBitmap | undefined
+  let routeBitmap: ImageBitmap | undefined
+  try {
+    [aiBitmap, routeBitmap] = await Promise.all([
+      loadImage(aiImageUrl),
+      loadImage(routePng),
+    ])
+
+    const canvas = new OffscreenCanvas(canvasWidth, canvasHeight)
+    const ctx = canvas.getContext('2d')!
+
+    // 3-1 白色底色
+    ctx.fillStyle = '#f9f9f9'
+    ctx.fillRect(0, 0, canvasWidth, canvasHeight)
+
+    // 3-2 绘制路线图到离屏 canvas，提取 alpha 通道
+    const routeCanvas = new OffscreenCanvas(canvasWidth, canvasHeight)
+    const rCtx = routeCanvas.getContext('2d')!
+    rCtx.drawImage(routeBitmap, 0, 0, canvasWidth, canvasHeight)
+    const routePixels = rCtx.getImageData(0, 0, canvasWidth, canvasHeight).data
+
+    // 3-3 提取路线 alpha 并扩散（保护区）
+    const routeAlpha = new Float32Array(canvasWidth * canvasHeight)
+    for (let i = 0; i < canvasWidth * canvasHeight; i++) {
+      routeAlpha[i] = routePixels[i * 4 + 3] / 255
+    }
+    const blurRadius = Math.round(canvasWidth * 0.025)  // 约 2.5% 画布宽度
+    const protected_ = boxBlur(routeAlpha, canvasWidth, canvasHeight, blurRadius)
+
+    // 3-4 绘制 AI 背景，路线区域淡出 50%
+    const aiCanvas = new OffscreenCanvas(canvasWidth, canvasHeight)
+    const aCtx = aiCanvas.getContext('2d')!
+    aCtx.drawImage(aiBitmap, 0, 0, canvasWidth, canvasHeight)
+    const aiImgData = aCtx.getImageData(0, 0, canvasWidth, canvasHeight)
+    const aiPx = aiImgData.data
+    for (let i = 0; i < canvasWidth * canvasHeight; i++) {
+      const protection = protected_[i]
+      aiPx[i * 4 + 3] = Math.round(aiPx[i * 4 + 3] * (1 - protection * 0.5))
+    }
+    aCtx.putImageData(aiImgData, 0, 0)
+    ctx.drawImage(aiCanvas, 0, 0)
+
+    // 3-5 叠路线图（透明 PNG，直接覆盖）
+    ctx.drawImage(routeBitmap, 0, 0, canvasWidth, canvasHeight)
+
+    const blob = await canvas.convertToBlob({ type: 'image/jpeg', quality: 0.96 })
+    return URL.createObjectURL(blob)
+  } finally {
+    // ImageBitmap 持有原生内存，无论成功失败都显式释放
+    aiBitmap?.close()
+    routeBitmap?.close()
   }
-  aCtx.putImageData(aiImgData, 0, 0)
-  ctx.drawImage(aiCanvas, 0, 0)
-
-  // 3-5 叠路线图（透明 PNG，直接覆盖）
-  ctx.drawImage(routeBitmap, 0, 0, canvasWidth, canvasHeight)
-
-  // ── 4. 导出 JPEG ─────────────────────────────────
-  const blob = await canvas.convertToBlob({ type: 'image/jpeg', quality: 0.96 })
-  return URL.createObjectURL(blob)
 }

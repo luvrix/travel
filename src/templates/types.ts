@@ -1,14 +1,6 @@
 export type TemplateId = string
 
-// ── Photo arrangement ──
-
-export type PhotoArrangement =
-  | { type: 'hero'; source: 'first-city' | 'destination' }
-  | { type: 'grid'; columns: 2 | 3; rows: 1 | 2; gap: number }
-  | { type: 'strip' }
-  | { type: 'none' }
-
-// ── Photo style (visual treatment of inserted photos) ──
+// Photo style (visual treatment of inserted photos)
 
 export interface PhotoStyle {
   /** Border radius in design units */
@@ -25,60 +17,36 @@ export interface PhotoStyle {
   zIndex: number
 }
 
-// ── Content zones (fractional coordinates 0-1) ──
-
-export interface TemplateZone {
-  x: number
-  y: number
-  width: number
-  height: number
-}
-
-export interface TemplateLayout {
-  header: TemplateZone
-  routeMap: TemplateZone
-  footer: TemplateZone
-  photos: TemplateZone
-}
-
-// ── Colors ──
+// Colors
 
 export interface TemplateColors {
   pinFill: string
   attractionFill: string
   attractionStroke: string
-  comboFill: string
-  comboStroke: string
-  comboShadow: string
-  cityLabelFill: string
-  attractionLabelFill: string
-  transportIconColor: string
   edgeStroke: string
   canvasBackground: string
 }
 
-// ── Typography ──
+// Typography
 
 export interface TemplateFonts {
   city: { size: number; weight: string; color: string; family: string }
   attraction: { size: number; weight: string; color: string; family: string }
-  transport: { size: number; weight: string; color: string; family: string }
 }
 
-// ── Background / overlay system ──
+// Background / overlay system
 
 export type BackgroundStyle =
   | { type: 'clean' }
   | { type: 'cinematic'; topColor: string; topStop: number; bottomColor: string; bottomStop: number; colorWashOpacity: number }
-  | { type: 'timeline'; colorWashOpacity: number }
 
-// ── Gradient ──
+// Gradient
 
 export interface TemplateGradient {
   stops: { offset: number; color: string }[]
 }
 
-// ── Title layout (flexible positioning) ──
+// Title layout (flexible positioning)
 
 export interface TitleLayout {
   /** Fractional position 0-1, relative to canvas */
@@ -118,7 +86,7 @@ export interface SubtitleLayout {
   letterSpacing?: number
 }
 
-// ── Decorative elements ──
+// Decorative elements
 
 export type DecorationType = 'stamp' | 'label' | 'line' | 'badge' | 'watermark'
 
@@ -154,7 +122,7 @@ export interface TemplateDecoration {
   textTransform?: 'uppercase' | 'lowercase' | 'none'
 }
 
-// ── Header (legacy, kept for compatibility) ──
+// Header (legacy, kept for compatibility)
 
 export interface TemplateHeader {
   titleFont: { size: number; weight: string; color: string; family: string }
@@ -163,7 +131,7 @@ export interface TemplateHeader {
   align: 'left' | 'center' | 'right'
 }
 
-// ── Frame ──
+// Frame
 
 export interface TemplateFrame {
   borderColor: string
@@ -178,7 +146,7 @@ export interface TemplateFrame {
   }
 }
 
-// ── Footer ──
+// Footer
 
 export interface TemplateFooter {
   text: string
@@ -186,12 +154,11 @@ export interface TemplateFooter {
   letterSpacing: number
 }
 
-// ── Element shape rules ──
+// Element shape rules
 
 export interface CityPinStyle {
   shape: 'circle-photo' | 'pin-drop' | 'diamond' | 'square-rounded'
   size: number
-  showPhoto: boolean
   showLabel: boolean
   labelPosition: 'below' | 'right'
 }
@@ -217,26 +184,12 @@ export interface EdgeStyle {
   colorMode?: 'day' | 'theme' | 'day-tinted'
 }
 
-export interface ComboCardStyle {
-  style: 'glass' | 'solid' | 'outline' | 'none'
-  borderRadius: number
-}
-
 export interface DayStickerStyle {
   style: 'pill' | 'badge' | 'none'
   position: 'above-first-node' | 'inline'
 }
 
-// ── Corners ──
-
-export interface TemplateCorner {
-  position: 'top-left' | 'top-right' | 'bottom-left' | 'bottom-right'
-  svg: string
-  width: number
-  height: number
-}
-
-// ── Main unified config ──
+// Main unified config
 
 export interface TemplateConfig {
   id: TemplateId
@@ -259,15 +212,10 @@ export interface TemplateConfig {
   subtitleLayout?: SubtitleLayout
   decorations?: TemplateDecoration[]
 
-  // Structure & layout
-  photo: PhotoArrangement
   photoStyle: PhotoStyle
-  layout: TemplateLayout
   cityPin: CityPinStyle
   attractionNode: AttractionNodeStyle
   edge: EdgeStyle
-  comboCard: ComboCardStyle
   daySticker: DayStickerStyle
   headerHeight: number
-  corners?: TemplateCorner[]
 }

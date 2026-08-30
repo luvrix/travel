@@ -1,36 +1,54 @@
 {
   "name": "tanway",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
+  "description": "保向示意地图生成器 —— 保留东南西北方位，压缩距离差异，让一次旅行的所有停靠点同屏可辨",
   "type": "module",
+  "license": "MIT",
+  "keywords": [
+    "travel",
+    "map",
+    "polar-projection",
+    "d3-force",
+    "react",
+    "typescript",
+    "amap"
+  ],
+  "homepage": "https://github.com/luvrix/travel#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luvrix/travel.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luvrix/travel/issues"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
+    "test": "vitest run",
+    "test:watch": "vitest",
     "preview": "vite preview",
     "geo:fetch": "node scripts/fetch-osm-china.mjs",
     "geo:build": "node scripts/build-geo-ts.mjs",
+    "geo:split": "node scripts/split-geo-by-province.mjs",
+    "geo:index": "node scripts/build-geo-index.mjs",
     "build:renderer": "node scripts/build-renderer.mjs"
   },
   "dependencies": {
-    "@ant-design/icons": "^6.2.3",
-    "@antv/g6": "^5.1.1",
-    "antd": "^6.4.3",
     "d3-force": "^3.0.0",
-    "d3-geo": "^3.1.1",
     "flexsearch": "^0.8.212",
     "html-to-image": "^1.11.13",
-    "lucide-react": "^1.16.0",
     "pinyin-pro": "^3.28.1",
     "react": "^19.2.6",
-    "react-dom": "^19.2.6",
-    "zustand": "^5.0.13"
+    "react-dom": "^19.2.6"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "@tailwindcss/vite": "^4.3.0",
+    "@testing-library/jest-dom": "^7.0.1",
+    "@testing-library/react": "^16.3.2",
     "@types/d3-force": "^3.0.10",
-    "@types/d3-geo": "^3.1.0",
     "@types/node": "^24.12.3",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
@@ -39,10 +57,12 @@
     "eslint-plugin-react-hooks": "^7.1.1",
     "eslint-plugin-react-refresh": "^0.5.2",
     "globals": "^17.6.0",
+    "jsdom": "^29.1.1",
     "tailwindcss": "^4.3.0",
     "typescript": "~6.0.2",
     "typescript-eslint": "^8.59.2",
     "vite": "^8.0.12",
-    "vite-plugin-singlefile": "^2.3.3"
+    "vite-plugin-singlefile": "^2.3.3",
+    "vitest": "^4.1.10"
   }
 }

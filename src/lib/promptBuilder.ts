@@ -36,10 +36,9 @@ export function buildSystemPrompt(
   const stops: Array<{ name: string; lat: number }> = []
   for (const day of trip.days) {
     for (const stop of day.stops) {
-      if (stop.name && !seen.has(stop.name)) {
-        seen.add(stop.name)
-        stops.push({ name: stop.name, lat: stop.location.lat })
-      }
+      if (!stop.name || !stop.location || seen.has(stop.name)) continue
+      seen.add(stop.name)
+      stops.push({ name: stop.name, lat: stop.location.lat })
     }
   }
   if (!stops.length) return ''
@@ -61,13 +60,6 @@ export function buildSystemPrompt(
   if (hasTwoRegions) {
     scenes.push(`${south.names.slice(0, 3).join('、')}的标志性风景`)
   }
-
-  // 地理位置引导（用方向性词，不用绝对角落）
-  const geoHint = hasTwoRegions
-    ? `北方景致（${north.names.slice(0, 2).join('、')}）安排在画面偏上区域，南方景致（${south.names.slice(0, 2).join('、')}）安排在画面偏下区域，两者之间保持大片空白。`
-    : `景致（${north.names.slice(0, 3).join('、')}）偏向画面一侧，其余区域保持空白。`
-
-  const sceneCount = hasTwoRegions ? 2 : 1
 
   const heroScene = scenes[0]
   const accentScene = scenes[1] ?? null

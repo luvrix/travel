@@ -10,12 +10,6 @@ export const minimalTemplate: TemplateConfig = {
     pinFill: '#1A1A1A',
     attractionFill: '#4A4A4A',
     attractionStroke: '#FFFFFF',
-    comboFill: 'rgba(250,250,250,0.5)',
-    comboStroke: '#E8E8E8',
-    comboShadow: 'rgba(0,0,0,0.03)',
-    cityLabelFill: '#1A1A1A',
-    attractionLabelFill: '#4A4A4A',
-    transportIconColor: '#1A1A1A',
     edgeStroke: '#1A1A1A',
     canvasBackground: '#FAFAFA',
   },
@@ -23,7 +17,6 @@ export const minimalTemplate: TemplateConfig = {
   fonts: {
     city: { size: 22, weight: '500', color: '#1A1A1A', family: "'SF Pro Display', 'Helvetica Neue', sans-serif" },
     attraction: { size: 18, weight: '300', color: '#4A4A4A', family: "'SF Pro Display', 'Helvetica Neue', sans-serif" },
-    transport: { size: 14, weight: '300', color: '#AAAAAA', family: "'SF Pro Display', 'Helvetica Neue', sans-serif" },
   },
 
   gradient: {
@@ -102,19 +95,11 @@ export const minimalTemplate: TemplateConfig = {
 
   background: { type: 'clean' },
 
-  photo: { type: 'none' },
   photoStyle: { borderRadius: 0, border: 'none', shadow: '0 2px 12px rgba(0,0,0,0.08)', opacity: 0.9, zIndex: -5 },
-  layout: {
-    header: { x: 0, y: 0, width: 1, height: 0.06 },
-    routeMap: { x: 0, y: 0, width: 1, height: 1 },
-    footer: { x: 0, y: 0.96, width: 1, height: 0.04 },
-    photos: { x: 0, y: 0, width: 0, height: 0 },
-  },
 
-  cityPin: { shape: 'diamond', size: 40, showPhoto: false, showLabel: true, labelPosition: 'right' },
+  cityPin: { shape: 'diamond', size: 40, showLabel: true, labelPosition: 'right' },
   attractionNode: { shape: 'dot', size: 4, showLabel: true, labelPosition: 'right' },
   edge: { lineType: 'curve', trailStyle: 'dash', showTransportBadge: false, glowEffect: false, colorMode: 'day-tinted' },
-  comboCard: { style: 'solid', borderRadius: 0 },
   daySticker: { style: 'pill', position: 'above-first-node' },
   headerHeight: 60,
 }

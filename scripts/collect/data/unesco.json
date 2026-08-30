@@ -1,0 +1,4502 @@
+[
+  {
+    "name": "徐家汇圣依纳爵主教座堂",
+    "lat": 31.193056,
+    "lng": 121.431389,
+    "city": "徐汇区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q49633"
+  },
+  {
+    "name": "钱塘江大桥",
+    "lat": 30.19516667,
+    "lng": 120.13455556,
+    "city": "杭州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q53272"
+  },
+  {
+    "name": "闸口白塔",
+    "lat": 30.20277778,
+    "lng": 120.14027778,
+    "city": "杭州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q53295"
+  },
+  {
+    "name": "罗家角遗址",
+    "lat": 30.63194444,
+    "lng": 120.46444444,
+    "city": "桐乡市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q53311"
+  },
+  {
+    "name": "张闻天故居",
+    "lat": 31.133839,
+    "lng": 121.758643,
+    "city": "浦东新区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q53377"
+  },
+  {
+    "name": "布达拉宫",
+    "lat": 29.657777777,
+    "lng": 91.116944444,
+    "city": "城关区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q71229"
+  },
+  {
+    "name": "布达拉宫",
+    "lat": 29.657777777,
+    "lng": 91.116944444,
+    "city": "城关区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q71229"
+  },
+  {
+    "name": "故宫",
+    "lat": 39.915833333,
+    "lng": 116.390833333,
+    "city": "东城区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q80290"
+  },
+  {
+    "name": "故宫",
+    "lat": 39.915833333,
+    "lng": 116.390833333,
+    "city": "东城区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q80290"
+  },
+  {
+    "name": "故宫",
+    "lat": 39.915833333,
+    "lng": 116.390833333,
+    "city": "东华门街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q80290"
+  },
+  {
+    "name": "故宫",
+    "lat": 39.915833333,
+    "lng": 116.390833333,
+    "city": "东华门街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q80290"
+  },
+  {
+    "name": "偽滿皇宮博物院",
+    "lat": 43.903611111,
+    "lng": 125.342222222,
+    "city": "宽城区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q83332"
+  },
+  {
+    "name": "偽滿皇宮博物院",
+    "lat": 43.903611111,
+    "lng": 125.342222222,
+    "city": "宽城区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q83332"
+  },
+  {
+    "name": "天安门",
+    "lat": 39.90735412,
+    "lng": 116.39122009,
+    "city": "东城区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q83973"
+  },
+  {
+    "name": "长白山",
+    "lat": 40.94,
+    "lng": 126.83,
+    "city": "朝鲜民主主义人民共和国",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q107635"
+  },
+  {
+    "name": "长白山",
+    "lat": 41.992777777,
+    "lng": 128.077222222,
+    "city": "朝鲜民主主义人民共和国",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q107635"
+  },
+  {
+    "name": "长白山",
+    "lat": 40.94,
+    "lng": 126.83,
+    "city": "安图县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q107635"
+  },
+  {
+    "name": "长白山",
+    "lat": 41.992777777,
+    "lng": 128.077222222,
+    "city": "安图县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q107635"
+  },
+  {
+    "name": "长白山",
+    "lat": 40.94,
+    "lng": 126.83,
+    "city": "三池渊市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q107635"
+  },
+  {
+    "name": "长白山",
+    "lat": 41.992777777,
+    "lng": 128.077222222,
+    "city": "三池渊市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q107635"
+  },
+  {
+    "name": "长白山",
+    "lat": 40.94,
+    "lng": 126.83,
+    "city": "抚松县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q107635"
+  },
+  {
+    "name": "长白山",
+    "lat": 41.992777777,
+    "lng": 128.077222222,
+    "city": "抚松县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q107635"
+  },
+  {
+    "name": "华山",
+    "lat": 34.483333333,
+    "lng": 110.083333333,
+    "city": "陕西省",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q112568"
+  },
+  {
+    "name": "江厦潮汐电站",
+    "lat": 28.34277778,
+    "lng": 121.24027778,
+    "city": "温岭市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q116918"
+  },
+  {
+    "name": "灵岩寺",
+    "lat": 36.364722,
+    "lng": 116.979722,
+    "city": "长清区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q117690"
+  },
+  {
+    "name": "佛宫寺释迦塔",
+    "lat": 39.56527778,
+    "lng": 113.18194444,
+    "city": "应县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q117697"
+  },
+  {
+    "name": "五台山",
+    "lat": 39.081388888,
+    "lng": 113.566944444,
+    "city": "忻州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q120314"
+  },
+  {
+    "name": "色拉寺",
+    "lat": 29.696793055,
+    "lng": 91.132746944,
+    "city": "城关区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q124848"
+  },
+  {
+    "name": "天坛",
+    "lat": 39.8822,
+    "lng": 116.4066,
+    "city": "天坛街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q125445"
+  },
+  {
+    "name": "天坛",
+    "lat": 39.8822,
+    "lng": 116.4066,
+    "city": "天坛街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q125445"
+  },
+  {
+    "name": "隆中",
+    "lat": 31.994077,
+    "lng": 112.027003,
+    "city": "隆中街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q130891"
+  },
+  {
+    "name": "塔克拉玛干沙漠",
+    "lat": 38.9,
+    "lng": 82.2,
+    "city": null,
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q132956"
+  },
+  {
+    "name": "北海公园",
+    "lat": 39.924444444,
+    "lng": 116.383055555,
+    "city": "什刹海街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q133650"
+  },
+  {
+    "name": "高句丽王城、王陵及贵族墓葬",
+    "lat": 41.15694444,
+    "lng": 126.18722222,
+    "city": "吉林省",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q134873"
+  },
+  {
+    "name": "峨眉山",
+    "lat": 29.519722222,
+    "lng": 103.3325,
+    "city": "乐山市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q134927"
+  },
+  {
+    "name": "扎滚鲁克古墓群",
+    "lat": 38.12181,
+    "lng": 85.47987,
+    "city": "且末县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q140339"
+  },
+  {
+    "name": "爨龙颜碑",
+    "lat": 24.92499,
+    "lng": 103.68678,
+    "city": "陆良县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q145104"
+  },
+  {
+    "name": "藏娘佛塔及桑周寺",
+    "lat": 33.32032,
+    "lng": 96.82005,
+    "city": "玉树市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q146902"
+  },
+  {
+    "name": "中苏友谊纪念塔",
+    "lat": 38.808325,
+    "lng": 121.22941667,
+    "city": "大连市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q174672"
+  },
+  {
+    "name": "东四清真寺",
+    "lat": 39.921944444,
+    "lng": 116.410833333,
+    "city": "东华门街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q176719"
+  },
+  {
+    "name": "小河墓地",
+    "lat": 40.3364,
+    "lng": 88.6725,
+    "city": "若羌县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q179220"
+  },
+  {
+    "name": "类乌齐寺",
+    "lat": 31.371161,
+    "lng": 96.503114,
+    "city": "类乌齐县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q180947"
+  },
+  {
+    "name": "小青岛灯塔",
+    "lat": 36.05323,
+    "lng": 120.31871,
+    "city": "市南区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q183107"
+  },
+  {
+    "name": "泥河湾遗址",
+    "lat": 40.216002,
+    "lng": 114.66395,
+    "city": "蔚县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q188354"
+  },
+  {
+    "name": "泥河湾遗址",
+    "lat": 40.216002,
+    "lng": 114.66395,
+    "city": "阳原县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q188354"
+  },
+  {
+    "name": "普宁寺",
+    "lat": 41.01444444,
+    "lng": 117.94611111,
+    "city": "承德市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q188404"
+  },
+  {
+    "name": "甑皮岩遗址",
+    "lat": 25.215556111,
+    "lng": 110.277778055,
+    "city": "桂林市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q189538"
+  },
+  {
+    "name": "钓鱼城遗址",
+    "lat": 30.005610387,
+    "lng": 106.310431059,
+    "city": "合川区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q195821"
+  },
+  {
+    "name": "隆务寺",
+    "lat": 35.508526,
+    "lng": 102.009958,
+    "city": "同仁市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q196175"
+  },
+  {
+    "name": "寨里窑址",
+    "lat": 36.6382,
+    "lng": 118.0318,
+    "city": "淄川区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q197129"
+  },
+  {
+    "name": "扎龙国家级自然保护区",
+    "lat": 47.2,
+    "lng": 124.25,
+    "city": "扎龙镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q197132"
+  },
+  {
+    "name": "张桓侯祠",
+    "lat": 31.57964,
+    "lng": 105.96252,
+    "city": "阆中市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q197142"
+  },
+  {
+    "name": "张桓侯庙",
+    "lat": 30.912496413,
+    "lng": 108.699044018,
+    "city": "云阳县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q197144"
+  },
+  {
+    "name": "张公巷窑址",
+    "lat": 34.161,
+    "lng": 112.84446,
+    "city": "汝州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q197371"
+  },
+  {
+    "name": "爪村遗址",
+    "lat": 39.94224,
+    "lng": 118.71399,
+    "city": "迁安市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q197490"
+  },
+  {
+    "name": "昭觉寺",
+    "lat": 30.70811,
+    "lng": 104.10347,
+    "city": "成华区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q197497"
+  },
+  {
+    "name": "唐昭陵",
+    "lat": 34.63168,
+    "lng": 108.48335,
+    "city": "礼泉县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q197502"
+  },
+  {
+    "name": "正阳门",
+    "lat": 39.89925,
+    "lng": 116.39166667,
+    "city": "东城区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q197703"
+  },
+  {
+    "name": "真寂之寺石窟",
+    "lat": 43.84763,
+    "lng": 119.36413,
+    "city": "巴林左旗",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q197717"
+  },
+  {
+    "name": "经略台真武阁",
+    "lat": 22.858341,
+    "lng": 110.556251,
+    "city": "容县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q197750"
+  },
+  {
+    "name": "齐长城",
+    "lat": 35.970072,
+    "lng": 120.076103,
+    "city": "山东省",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q522867"
+  },
+  {
+    "name": "澳門國際機場",
+    "lat": 22.149445,
+    "lng": 113.591388,
+    "city": "澳门",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q525486"
+  },
+  {
+    "name": "昂昂溪遗址",
+    "lat": 47.142687,
+    "lng": 123.82584,
+    "city": "昂昂溪区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q530104"
+  },
+  {
+    "name": "人民英雄纪念碑",
+    "lat": 39.903055555,
+    "lng": 116.391666666,
+    "city": "东城区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q536955"
+  },
+  {
+    "name": "大沽口炮台",
+    "lat": 38.977129085,
+    "lng": 117.705296609,
+    "city": "滨海新区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q548289"
+  },
+  {
+    "name": "善化寺",
+    "lat": 40.08583333,
+    "lng": 113.29361111,
+    "city": "平城区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q548433"
+  },
+  {
+    "name": "赵州桥",
+    "lat": 37.72016667,
+    "lng": 114.76325,
+    "city": "赵县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q551446"
+  },
+  {
+    "name": "赵州桥",
+    "lat": 37.72016667,
+    "lng": 114.76325,
+    "city": "赵县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q551446"
+  },
+  {
+    "name": "安平桥",
+    "lat": 24.71013889,
+    "lng": 118.44366667,
+    "city": "安海镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q568461"
+  },
+  {
+    "name": "安平桥",
+    "lat": 24.71013889,
+    "lng": 118.44366667,
+    "city": "安海镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q568461"
+  },
+  {
+    "name": "岱庙",
+    "lat": 36.195,
+    "lng": 117.125,
+    "city": "泰安市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q569025"
+  },
+  {
+    "name": "呼伦贝尔市",
+    "lat": 49.21534,
+    "lng": 119.75097,
+    "city": "内蒙古自治区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q571033"
+  },
+  {
+    "name": "云南三江并流保护区",
+    "lat": 27.895,
+    "lng": 98.406388888,
+    "city": null,
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q575035"
+  },
+  {
+    "name": "铜绿山古铜矿遗址",
+    "lat": 30.083998,
+    "lng": 114.938396,
+    "city": "大冶市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q576097"
+  },
+  {
+    "name": "照壁山铜矿遗址",
+    "lat": 37.69872,
+    "lng": 105.36535,
+    "city": "沙坡头区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q576100"
+  },
+  {
+    "name": "岳王庙",
+    "lat": 30.25414,
+    "lng": 120.13016,
+    "city": "杭州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q579874"
+  },
+  {
+    "name": "大秦寺塔",
+    "lat": 34.058909,
+    "lng": 108.307771,
+    "city": "周至县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q596605"
+  },
+  {
+    "name": "昌珠寺",
+    "lat": 29.19373,
+    "lng": 91.771807,
+    "city": "乃东区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q601022"
+  },
+  {
+    "name": "昌珠寺",
+    "lat": 29.19373,
+    "lng": 91.771807,
+    "city": "昌珠镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q601022"
+  },
+  {
+    "name": "牛街礼拜寺",
+    "lat": 39.884444444,
+    "lng": 116.358055555,
+    "city": "牛街街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q603256"
+  },
+  {
+    "name": "安远庙",
+    "lat": 41.002889,
+    "lng": 117.952577,
+    "city": "承德市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q614040"
+  },
+  {
+    "name": "法门寺",
+    "lat": 34.4399,
+    "lng": 107.905,
+    "city": "扶风县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q614916"
+  },
+  {
+    "name": "法门寺",
+    "lat": 34.4399,
+    "lng": 107.905,
+    "city": "扶风县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q614916"
+  },
+  {
+    "name": "地坛",
+    "lat": 39.95138889,
+    "lng": 116.40972222,
+    "city": "和平里街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q615178"
+  },
+  {
+    "name": "阿巴和加麻札",
+    "lat": 39.490765,
+    "lng": 76.02295,
+    "city": "喀什市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q617328"
+  },
+  {
+    "name": "丽江古城",
+    "lat": 26.86666667,
+    "lng": 100.23333333,
+    "city": "古城区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q618394"
+  },
+  {
+    "name": "孔林",
+    "lat": 35.61861111,
+    "lng": 116.98638889,
+    "city": "曲阜市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q619258"
+  },
+  {
+    "name": "孔林",
+    "lat": 35.61861111,
+    "lng": 116.98638889,
+    "city": "曲阜市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q619258"
+  },
+  {
+    "name": "四川大熊猫栖息地",
+    "lat": 30.833333333,
+    "lng": 103.0,
+    "city": "四川省",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q629902"
+  },
+  {
+    "name": "小桃园清真寺",
+    "lat": 31.2207,
+    "lng": 121.48965,
+    "city": "黄浦区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q631946"
+  },
+  {
+    "name": "小桃园清真寺",
+    "lat": 31.2207,
+    "lng": 121.48965,
+    "city": "黄浦区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q631946"
+  },
+  {
+    "name": "西安碑林",
+    "lat": 34.255729214,
+    "lng": 108.948201394,
+    "city": "碑林区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q641427"
+  },
+  {
+    "name": "叶尔羌汗国王陵",
+    "lat": 38.41555556,
+    "lng": 77.255,
+    "city": "莎车县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q650586"
+  },
+  {
+    "name": "大足石刻",
+    "lat": 29.713333333,
+    "lng": 105.706944444,
+    "city": null,
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q651278"
+  },
+  {
+    "name": "恭陵",
+    "lat": 34.63319444,
+    "lng": 112.81111111,
+    "city": "偃师区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q653142"
+  },
+  {
+    "name": "保圣寺罗汉塑像",
+    "lat": 31.27214,
+    "lng": 120.86691,
+    "city": "保圣寺",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q653196"
+  },
+  {
+    "name": "罗汉寺 (重庆)",
+    "lat": 29.5625,
+    "lng": 106.57777778,
+    "city": "重庆市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q653217"
+  },
+  {
+    "name": "罗汉寺 (重庆)",
+    "lat": 29.566135,
+    "lng": 106.5879,
+    "city": "重庆市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q653217"
+  },
+  {
+    "name": "凤凰县",
+    "lat": 27.95204,
+    "lng": 109.59158,
+    "city": "湘西土家族苗族自治州",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q664864"
+  },
+  {
+    "name": "凤凰县",
+    "lat": 27.95204,
+    "lng": 109.59158,
+    "city": "湘西土家族苗族自治州",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q664864"
+  },
+  {
+    "name": "阿尔寨石窟",
+    "lat": 39.839443,
+    "lng": 107.292434,
+    "city": "鄂托克旗",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q671123"
+  },
+  {
+    "name": "长江三峡",
+    "lat": 31.042777777,
+    "lng": 109.561388888,
+    "city": null,
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q673287"
+  },
+  {
+    "name": "苏公塔",
+    "lat": 42.93453889,
+    "lng": 89.20345556,
+    "city": "葡萄镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q674778"
+  },
+  {
+    "name": "登封观星台",
+    "lat": 34.40240556,
+    "lng": 113.14071111,
+    "city": "登封市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q675482"
+  },
+  {
+    "name": "登封观星台",
+    "lat": 34.40240556,
+    "lng": 113.14071111,
+    "city": "登封市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q675482"
+  },
+  {
+    "name": "月坛",
+    "lat": 39.915867,
+    "lng": 116.346005,
+    "city": "月坛街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q680679"
+  },
+  {
+    "name": "六榕寺",
+    "lat": 23.130880555,
+    "lng": 113.254788888,
+    "city": "广州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q683127"
+  },
+  {
+    "name": "六榕寺",
+    "lat": 23.130880555,
+    "lng": 113.254788888,
+    "city": "广州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q683127"
+  },
+  {
+    "name": "尖沙咀鐘樓",
+    "lat": 22.293580555,
+    "lng": 114.16955,
+    "city": "香港",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q692288"
+  },
+  {
+    "name": "雍和宫",
+    "lat": 39.947086111,
+    "lng": 116.410916666,
+    "city": "东城区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q692723"
+  },
+  {
+    "name": "雍和宫",
+    "lat": 39.947086111,
+    "lng": 116.410916666,
+    "city": "东城区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q692723"
+  },
+  {
+    "name": "中国人民抗日战争纪念馆",
+    "lat": 39.850815109,
+    "lng": 116.219896229,
+    "city": "宛平城社区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q700376"
+  },
+  {
+    "name": "好太王碑",
+    "lat": 41.144877,
+    "lng": 126.214212,
+    "city": "太王镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q701096"
+  },
+  {
+    "name": "大三巴哪吒庙",
+    "lat": 22.1977,
+    "lng": 113.540666,
+    "city": "澳门",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q709079"
+  },
+  {
+    "name": "大三巴哪吒庙",
+    "lat": 22.1977,
+    "lng": 113.540666,
+    "city": "澳门",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q709079"
+  },
+  {
+    "name": "渤海国上京龙泉府遗址",
+    "lat": 44.13055556,
+    "lng": 129.14166667,
+    "city": "宁安市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q709753"
+  },
+  {
+    "name": "国内城",
+    "lat": 41.12083333,
+    "lng": 126.17861111,
+    "city": "集安市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q711386"
+  },
+  {
+    "name": "国内城",
+    "lat": 41.12083333,
+    "lng": 126.17861111,
+    "city": "集安市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q711386"
+  },
+  {
+    "name": "紫金山天文台",
+    "lat": 32.066916666,
+    "lng": 118.824972222,
+    "city": "玄武区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q714352"
+  },
+  {
+    "name": "贝尔湖",
+    "lat": 47.806944444,
+    "lng": 117.692222222,
+    "city": "内蒙古自治区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q715788"
+  },
+  {
+    "name": "东华三院文武庙",
+    "lat": 22.284,
+    "lng": 114.15,
+    "city": "香港",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q717524"
+  },
+  {
+    "name": "东华三院文武庙",
+    "lat": 22.284,
+    "lng": 114.15,
+    "city": "中西区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q717524"
+  },
+  {
+    "name": "智化寺",
+    "lat": 39.916111111,
+    "lng": 116.425833333,
+    "city": "朝阳门街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q197781"
+  },
+  {
+    "name": "织机洞遗址",
+    "lat": 34.645322,
+    "lng": 113.323985,
+    "city": "荥阳市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q197784"
+  },
+  {
+    "name": "支提华严寺",
+    "lat": 26.821554,
+    "lng": 119.393295,
+    "city": "蕉城区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q197794"
+  },
+  {
+    "name": "中陈郝窑址",
+    "lat": 34.88367,
+    "lng": 117.45963,
+    "city": "薛城区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q197823"
+  },
+  {
+    "name": "中南海",
+    "lat": 39.911388888,
+    "lng": 116.380555555,
+    "city": "西长安街街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q197889"
+  },
+  {
+    "name": "中山桥",
+    "lat": 36.06472222,
+    "lng": 103.81452778,
+    "city": "兰州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q197892"
+  },
+  {
+    "name": "钟山石窟",
+    "lat": 37.173363,
+    "lng": 109.527919,
+    "city": "子长市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q197895"
+  },
+  {
+    "name": "周原遗址",
+    "lat": 34.49002,
+    "lng": 107.84141,
+    "city": "岐山县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q198067"
+  },
+  {
+    "name": "周原遗址",
+    "lat": 34.49002,
+    "lng": 107.84141,
+    "city": "扶风县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q198067"
+  },
+  {
+    "name": "青海湖",
+    "lat": 37.0,
+    "lng": 100.0,
+    "city": "青海省",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q201294"
+  },
+  {
+    "name": "兴凯湖",
+    "lat": 45.016666666,
+    "lng": 132.416666666,
+    "city": "滨海边疆区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q201843"
+  },
+  {
+    "name": "兴凯湖",
+    "lat": 45.016666666,
+    "lng": 132.416666666,
+    "city": "黑龙江省",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q201843"
+  },
+  {
+    "name": "紫荆关",
+    "lat": 39.423803,
+    "lng": 115.17135,
+    "city": "易县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q202848"
+  },
+  {
+    "name": "郑州商城遗址",
+    "lat": 34.74527778,
+    "lng": 113.68305556,
+    "city": "郑州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q203132"
+  },
+  {
+    "name": "乐山大佛",
+    "lat": 29.546944444,
+    "lng": 103.76925,
+    "city": "市中区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q205131"
+  },
+  {
+    "name": "乐山大佛",
+    "lat": 29.546944444,
+    "lng": 103.76925,
+    "city": "市中区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q205131"
+  },
+  {
+    "name": "鄱阳湖",
+    "lat": 29.066666666,
+    "lng": 116.383333333,
+    "city": "江西省",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q207690"
+  },
+  {
+    "name": "武夷山",
+    "lat": 27.716667,
+    "lng": 117.683333,
+    "city": "福建省",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q207692"
+  },
+  {
+    "name": "汇丰银行大楼",
+    "lat": 31.238055555,
+    "lng": 121.485555555,
+    "city": "黄浦区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q213087"
+  },
+  {
+    "name": "泰山",
+    "lat": 36.266666666,
+    "lng": 117.1,
+    "city": "山东省",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q216059"
+  },
+  {
+    "name": "“二十四道拐”抗战公路",
+    "lat": 25.821944444,
+    "lng": 105.201944444,
+    "city": "晴隆县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q216597"
+  },
+  {
+    "name": "金沙遗址",
+    "lat": 30.683436,
+    "lng": 104.010911,
+    "city": "青羊区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q217618"
+  },
+  {
+    "name": "盘龙城遗址",
+    "lat": 30.694444444,
+    "lng": 114.265555555,
+    "city": "武汉市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q217684"
+  },
+  {
+    "name": "陶寺遗址",
+    "lat": 35.892861111,
+    "lng": 111.490055555,
+    "city": "襄汾县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q217859"
+  },
+  {
+    "name": "北京动物园",
+    "lat": 39.938611111,
+    "lng": 116.333333333,
+    "city": "展览路街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q220083"
+  },
+  {
+    "name": "上海音乐厅",
+    "lat": 31.228888888,
+    "lng": 121.473333333,
+    "city": "上海市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q220805"
+  },
+  {
+    "name": "上海音乐厅",
+    "lat": 31.228888888,
+    "lng": 121.473333333,
+    "city": "黄浦区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q220805"
+  },
+  {
+    "name": "关岳庙",
+    "lat": 39.945186,
+    "lng": 116.379535,
+    "city": "西城区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q226089"
+  },
+  {
+    "name": "祆神楼",
+    "lat": 37.03416667,
+    "lng": 111.92444444,
+    "city": "介休市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q226792"
+  },
+  {
+    "name": "南汉二陵",
+    "lat": 23.05073,
+    "lng": 113.37789,
+    "city": "小谷围街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q232014"
+  },
+  {
+    "name": "南唐二陵",
+    "lat": 31.89055556,
+    "lng": 118.73361111,
+    "city": "南京市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q232074"
+  },
+  {
+    "name": "少林寺",
+    "lat": 34.50709,
+    "lng": 112.93569,
+    "city": "登封市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q232771"
+  },
+  {
+    "name": "少林寺",
+    "lat": 34.50709,
+    "lng": 112.93569,
+    "city": "登封市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q232771"
+  },
+  {
+    "name": "少林寺",
+    "lat": 34.50709,
+    "lng": 112.93569,
+    "city": "登封市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q232771"
+  },
+  {
+    "name": "哲蚌寺",
+    "lat": 29.676708888,
+    "lng": 91.046991111,
+    "city": "城关区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q241937"
+  },
+  {
+    "name": "大觉寺",
+    "lat": 40.051111111,
+    "lng": 116.099166666,
+    "city": "苏家坨镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q250002"
+  },
+  {
+    "name": "保国寺",
+    "lat": 29.982659,
+    "lng": 121.516056,
+    "city": "江北区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q252819"
+  },
+  {
+    "name": "关陵",
+    "lat": 30.84333333,
+    "lng": 111.76583333,
+    "city": "当阳市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q254842"
+  },
+  {
+    "name": "炳灵寺石窟",
+    "lat": 35.80551,
+    "lng": 103.044378,
+    "city": "永靖县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q259336"
+  },
+  {
+    "name": "炳灵寺石窟",
+    "lat": 35.80551,
+    "lng": 103.044378,
+    "city": "永靖县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q259336"
+  },
+  {
+    "name": "西侯度遗址",
+    "lat": 34.696342,
+    "lng": 110.300066,
+    "city": "芮城县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q268327"
+  },
+  {
+    "name": "龙门石窟",
+    "lat": 34.555555555,
+    "lng": 112.469722222,
+    "city": "洛龙区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q273834"
+  },
+  {
+    "name": "龙门石窟",
+    "lat": 34.555555555,
+    "lng": 112.469722222,
+    "city": "洛龙区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q273834"
+  },
+  {
+    "name": "太行山",
+    "lat": 36.994166666,
+    "lng": 113.927777777,
+    "city": "河北省",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q284226"
+  },
+  {
+    "name": "太行山",
+    "lat": 36.994166666,
+    "lng": 113.927777777,
+    "city": "河南省",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q284226"
+  },
+  {
+    "name": "太行山",
+    "lat": 36.994166666,
+    "lng": 113.927777777,
+    "city": "山西省",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q284226"
+  },
+  {
+    "name": "北京站",
+    "lat": 39.902222222,
+    "lng": 116.421111111,
+    "city": "东城区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q285141"
+  },
+  {
+    "name": "上海城隍廟",
+    "lat": 31.22777778,
+    "lng": 121.48805556,
+    "city": "上海市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q289901"
+  },
+  {
+    "name": "上海城隍廟",
+    "lat": 31.22777778,
+    "lng": 121.48805556,
+    "city": "黄浦区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q289901"
+  },
+  {
+    "name": "药王山石刻",
+    "lat": 34.907596,
+    "lng": 109.002723,
+    "city": "铜川市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q301229"
+  },
+  {
+    "name": "清东陵",
+    "lat": 40.193333333,
+    "lng": 117.651111111,
+    "city": "遵化市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q306978"
+  },
+  {
+    "name": "清东陵",
+    "lat": 40.193333333,
+    "lng": 117.651111111,
+    "city": "遵化市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q306978"
+  },
+  {
+    "name": "云冈石窟",
+    "lat": 40.109722222,
+    "lng": 113.122222222,
+    "city": "平城区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q308805"
+  },
+  {
+    "name": "云冈石窟",
+    "lat": 40.109722222,
+    "lng": 113.122222222,
+    "city": "平城区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q308805"
+  },
+  {
+    "name": "孔庙",
+    "lat": 35.5967,
+    "lng": 116.984,
+    "city": "曲阜市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q339822"
+  },
+  {
+    "name": "孔庙",
+    "lat": 35.5967,
+    "lng": 116.984,
+    "city": "曲阜市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q339822"
+  },
+  {
+    "name": "景真八角亭",
+    "lat": 21.957499947,
+    "lng": 100.303768017,
+    "city": "勐遮镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q340875"
+  },
+  {
+    "name": "先农坛",
+    "lat": 39.876847036,
+    "lng": 116.386227868,
+    "city": "天桥街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q341718"
+  },
+  {
+    "name": "周口关帝庙",
+    "lat": 33.633259782,
+    "lng": 114.640106636,
+    "city": "周口市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q377054"
+  },
+  {
+    "name": "广化寺",
+    "lat": 39.94022,
+    "lng": 116.38438,
+    "city": "北京市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q379381"
+  },
+  {
+    "name": "五祖寺",
+    "lat": 30.18722222,
+    "lng": 115.93666667,
+    "city": "黄梅县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q390335"
+  },
+  {
+    "name": "五祖寺",
+    "lat": 30.18722222,
+    "lng": 115.93666667,
+    "city": "黄梅县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q390335"
+  },
+  {
+    "name": "静安寺",
+    "lat": 31.225,
+    "lng": 121.440833333,
+    "city": "上海市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q403189"
+  },
+  {
+    "name": "白鹿洞书院",
+    "lat": 29.51961,
+    "lng": 116.03719,
+    "city": "九江市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q414476"
+  },
+  {
+    "name": "聚馆古贡枣园",
+    "lat": 38.62412,
+    "lng": 117.21384,
+    "city": "黄骅市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q438205"
+  },
+  {
+    "name": "北京古观象台",
+    "lat": 39.906111111,
+    "lng": 116.428055555,
+    "city": "建国门街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q439299"
+  },
+  {
+    "name": "殷墟",
+    "lat": 36.1225,
+    "lng": 114.318611111,
+    "city": "安阳市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q464904"
+  },
+  {
+    "name": "殷墟",
+    "lat": 36.1225,
+    "lng": 114.318611111,
+    "city": "安阳市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q464904"
+  },
+  {
+    "name": "元上都",
+    "lat": 42.358021111,
+    "lng": 116.185158888,
+    "city": "多伦县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q471765"
+  },
+  {
+    "name": "元上都",
+    "lat": 42.358021111,
+    "lng": 116.185158888,
+    "city": "多伦县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q471765"
+  },
+  {
+    "name": "鼓浪屿",
+    "lat": 24.4475,
+    "lng": 118.061944444,
+    "city": "鼓浪屿街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1025339"
+  },
+  {
+    "name": "菜园遗址",
+    "lat": 36.533254,
+    "lng": 105.53931,
+    "city": "海原县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1026048"
+  },
+  {
+    "name": "聂塘卓玛拉康",
+    "lat": 29.532291,
+    "lng": 90.94782,
+    "city": "曲水县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1030837"
+  },
+  {
+    "name": "曲阜的孔庙、孔林、孔府",
+    "lat": 35.596512,
+    "lng": 116.984449,
+    "city": "曲阜市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1038473"
+  },
+  {
+    "name": "曲阜的孔庙、孔林、孔府",
+    "lat": 35.596512,
+    "lng": 116.984449,
+    "city": "曲阜市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1038473"
+  },
+  {
+    "name": "承德避暑山庄和外八庙",
+    "lat": 40.9875,
+    "lng": 117.9375,
+    "city": "承德市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1046818"
+  },
+  {
+    "name": "承德避暑山庄和外八庙",
+    "lat": 40.9875,
+    "lng": 117.9375,
+    "city": "承德市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1046818"
+  },
+  {
+    "name": "大雁塔",
+    "lat": 34.219769,
+    "lng": 108.959335,
+    "city": "雁塔区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1047061"
+  },
+  {
+    "name": "大雁塔",
+    "lat": 34.219769,
+    "lng": 108.959335,
+    "city": "雁塔区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1047061"
+  },
+  {
+    "name": "澳門葡京酒店",
+    "lat": 22.189847,
+    "lng": 113.544024,
+    "city": "澳门",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1047611"
+  },
+  {
+    "name": "澳門葡京酒店",
+    "lat": 22.189776833,
+    "lng": 113.544970426,
+    "city": "澳门",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1047611"
+  },
+  {
+    "name": "山海关",
+    "lat": 40.00916,
+    "lng": 119.75357,
+    "city": "山海关区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1048381"
+  },
+  {
+    "name": "山海关",
+    "lat": 40.00916,
+    "lng": 119.75357,
+    "city": "山海关区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1048381"
+  },
+  {
+    "name": "振风塔",
+    "lat": 30.50363,
+    "lng": 117.0493,
+    "city": "安庆市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1049614"
+  },
+  {
+    "name": "中山纪念堂",
+    "lat": 23.136080555,
+    "lng": 113.259358333,
+    "city": "越秀区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1051254"
+  },
+  {
+    "name": "凌霄塔",
+    "lat": 38.142299,
+    "lng": 114.56957,
+    "city": "正定县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1053649"
+  },
+  {
+    "name": "圣母大堂",
+    "lat": 31.21938,
+    "lng": 121.450954,
+    "city": "徐汇区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1055130"
+  },
+  {
+    "name": "圣母大堂",
+    "lat": 31.21938,
+    "lng": 121.450954,
+    "city": "徐汇区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1055130"
+  },
+  {
+    "name": "查海遗址",
+    "lat": 42.18319,
+    "lng": 121.80148,
+    "city": "阜新蒙古族自治县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1058851"
+  },
+  {
+    "name": "卢沟桥",
+    "lat": 39.84903889,
+    "lng": 116.21288611,
+    "city": "宛平街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1060121"
+  },
+  {
+    "name": "卢沟桥",
+    "lat": 39.84903889,
+    "lng": 116.21288611,
+    "city": "宛平街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1060121"
+  },
+  {
+    "name": "强巴林寺",
+    "lat": 31.143473,
+    "lng": 97.177948,
+    "city": "卡若区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1060763"
+  },
+  {
+    "name": "强巴林寺",
+    "lat": 31.143473,
+    "lng": 97.177948,
+    "city": "城关镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1060763"
+  },
+  {
+    "name": "查木钦墓群",
+    "lat": 29.358937,
+    "lng": 87.812831,
+    "city": "拉孜县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1061535"
+  },
+  {
+    "name": "漢長陵",
+    "lat": 34.43416667,
+    "lng": 108.87907222,
+    "city": "渭城区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1062077"
+  },
+  {
+    "name": "长沙铜官窑遗址",
+    "lat": 28.420771,
+    "lng": 112.821716,
+    "city": "望城区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1062099"
+  },
+  {
+    "name": "潮州窑",
+    "lat": 23.66061,
+    "lng": 116.65613,
+    "city": "湘桥区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1062606"
+  },
+  {
+    "name": "王府井天主堂",
+    "lat": 39.915833333,
+    "lng": 116.405833333,
+    "city": "东城区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1064185"
+  },
+  {
+    "name": "北京孔庙",
+    "lat": 39.945183,
+    "lng": 116.408299,
+    "city": "安定门街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1064580"
+  },
+  {
+    "name": "南京中国近代史遗址博物馆",
+    "lat": 32.04527778,
+    "lng": 118.79222222,
+    "city": "玄武区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1065016"
+  },
+  {
+    "name": "西夏王陵",
+    "lat": 38.435035,
+    "lng": 105.987167,
+    "city": "银川市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1069411"
+  },
+  {
+    "name": "西夏王陵",
+    "lat": 38.435035,
+    "lng": 105.987167,
+    "city": "银川市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1069411"
+  },
+  {
+    "name": "西夏王陵",
+    "lat": 38.435035,
+    "lng": 105.987167,
+    "city": "银川市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1069411"
+  },
+  {
+    "name": "承恩寺",
+    "lat": 39.934205,
+    "lng": 116.158599,
+    "city": "石景山区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1069870"
+  },
+  {
+    "name": "成都武侯祠",
+    "lat": 30.64830556,
+    "lng": 104.04702778,
+    "city": "武侯区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1069942"
+  },
+  {
+    "name": "城子崖遗址",
+    "lat": 36.7358,
+    "lng": 117.35415,
+    "city": "章丘区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1070056"
+  },
+  {
+    "name": "陈家窝遗址",
+    "lat": 34.243648,
+    "lng": 109.346139,
+    "city": null,
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1070074"
+  },
+  {
+    "name": "灵隐寺",
+    "lat": 30.24277778,
+    "lng": 120.09666667,
+    "city": "西湖区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1070228"
+  },
+  {
+    "name": "灵隐寺",
+    "lat": 30.24277778,
+    "lng": 120.09666667,
+    "city": "西湖区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1070228"
+  },
+  {
+    "name": "阿房宫",
+    "lat": 34.26327,
+    "lng": 108.8089,
+    "city": "未央区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1073538"
+  },
+  {
+    "name": "极乐寺",
+    "lat": 45.7764,
+    "lng": 126.665,
+    "city": "哈尔滨市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1074187"
+  },
+  {
+    "name": "冲虚古观",
+    "lat": 23.26666667,
+    "lng": 114.05861111,
+    "city": "博罗县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1076165"
+  },
+  {
+    "name": "冲虚古观",
+    "lat": 23.26681,
+    "lng": 114.05867,
+    "city": "博罗县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1076165"
+  },
+  {
+    "name": "拙政园",
+    "lat": 31.325833333,
+    "lng": 120.624444444,
+    "city": "苏州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1076650"
+  },
+  {
+    "name": "拙政园",
+    "lat": 31.325833333,
+    "lng": 120.624444444,
+    "city": "苏州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1076650"
+  },
+  {
+    "name": "少林寺塔林",
+    "lat": 34.505277777,
+    "lng": 112.938611111,
+    "city": "登封市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1081096"
+  },
+  {
+    "name": "纯阳观",
+    "lat": 23.08777778,
+    "lng": 113.28944444,
+    "city": "海珠区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1089618"
+  },
+  {
+    "name": "措尔机寺",
+    "lat": 32.34968,
+    "lng": 101.17732,
+    "city": "壤塘县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1091000"
+  },
+  {
+    "name": "格萨尔三十大将军灵塔和达那寺",
+    "lat": 31.954254,
+    "lng": 95.757992,
+    "city": "囊谦县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1091030"
+  },
+  {
+    "name": "慈善寺石窟",
+    "lat": 34.677788,
+    "lng": 107.834734,
+    "city": "麟游县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1093199"
+  },
+  {
+    "name": "磁灶窑址",
+    "lat": 24.85351,
+    "lng": 118.46746,
+    "city": "晋江市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1094563"
+  },
+  {
+    "name": "圣母圣诞主教座堂",
+    "lat": 22.19361111,
+    "lng": 113.54166667,
+    "city": "澳门",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1106554"
+  },
+  {
+    "name": "圣母圣诞主教座堂",
+    "lat": 22.19361111,
+    "lng": 113.54166667,
+    "city": "澳门",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1106554"
+  },
+  {
+    "name": "碧云寺",
+    "lat": 39.99600589,
+    "lng": 116.185851149,
+    "city": "香山街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1120716"
+  },
+  {
+    "name": "爨宝子碑",
+    "lat": 25.49229195,
+    "lng": 103.798680167,
+    "city": "曲靖市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1142813"
+  },
+  {
+    "name": "苏州园林",
+    "lat": 31.32666667,
+    "lng": 120.62555556,
+    "city": "苏州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1144337"
+  },
+  {
+    "name": "寒山寺",
+    "lat": 31.312389,
+    "lng": 120.564806,
+    "city": "江苏省",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1146619"
+  },
+  {
+    "name": "牛门洞遗址",
+    "lat": 35.9349,
+    "lng": 104.75,
+    "city": "甘肃省",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1149453"
+  },
+  {
+    "name": "牛门洞遗址",
+    "lat": 35.9349,
+    "lng": 104.75,
+    "city": "会宁县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1149453"
+  },
+  {
+    "name": "牛门洞遗址",
+    "lat": 35.9349,
+    "lng": 104.75,
+    "city": "头寨子镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1149453"
+  },
+  {
+    "name": "西安钟楼",
+    "lat": 34.261014529,
+    "lng": 108.942377141,
+    "city": "西安市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1151087"
+  },
+  {
+    "name": "大宝积宫与琉璃殿",
+    "lat": 26.95838,
+    "lng": 100.2155,
+    "city": "玉龙纳西族自治县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1156507"
+  },
+  {
+    "name": "大堡子山遗址及墓群",
+    "lat": 34.2149784,
+    "lng": 105.27282,
+    "city": "礼县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1156509"
+  },
+  {
+    "name": "大甸子遗址",
+    "lat": 42.299967,
+    "lng": 120.60692,
+    "city": "敖汉旗",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1156993"
+  },
+  {
+    "name": "大墩子遗址",
+    "lat": 34.66036,
+    "lng": 117.96211,
+    "city": "邳州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1157029"
+  },
+  {
+    "name": "大佛寺石窟",
+    "lat": 35.07346,
+    "lng": 107.99231,
+    "city": "彬州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1157141"
+  },
+  {
+    "name": "大佛寺石窟",
+    "lat": 35.07346,
+    "lng": 107.99231,
+    "city": "彬州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1157141"
+  },
+  {
+    "name": "大高玄殿",
+    "lat": 39.922886,
+    "lng": 116.386714,
+    "city": "西城区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1157184"
+  },
+  {
+    "name": "三清山",
+    "lat": 28.951944444,
+    "lng": 118.051944444,
+    "city": "江西省",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q873358"
+  },
+  {
+    "name": "扎什伦布寺",
+    "lat": 29.26706,
+    "lng": 88.870511,
+    "city": "桑珠孜区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q877445"
+  },
+  {
+    "name": "登封市",
+    "lat": 34.41609,
+    "lng": 113.04242,
+    "city": "郑州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q877609"
+  },
+  {
+    "name": "登封市",
+    "lat": 34.46031,
+    "lng": 113.02803,
+    "city": "郑州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q877609"
+  },
+  {
+    "name": "百谷和高岭坡遗址",
+    "lat": 23.568184,
+    "lng": 107.198383,
+    "city": "田东县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q890674"
+  },
+  {
+    "name": "百谷和高岭坡遗址",
+    "lat": 23.568184,
+    "lng": 107.198383,
+    "city": "右江区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q890674"
+  },
+  {
+    "name": "统万城",
+    "lat": 37.998758,
+    "lng": 108.84722,
+    "city": "榆林市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q897898"
+  },
+  {
+    "name": "茶具文物馆",
+    "lat": 22.2785,
+    "lng": 114.1625,
+    "city": "香港",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q908224"
+  },
+  {
+    "name": "秦始皇陵",
+    "lat": 34.38166667,
+    "lng": 109.25388889,
+    "city": "临潼区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q910180"
+  },
+  {
+    "name": "秦始皇陵",
+    "lat": 34.38166667,
+    "lng": 109.25388889,
+    "city": "临潼区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q910180"
+  },
+  {
+    "name": "玉蟾岩遗址",
+    "lat": 25.581606,
+    "lng": 111.47607,
+    "city": "道县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q915738"
+  },
+  {
+    "name": "丁公遗址",
+    "lat": 36.94412,
+    "lng": 117.84554,
+    "city": "邹平市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q924670"
+  },
+  {
+    "name": "南京城墙",
+    "lat": 32.01504,
+    "lng": 118.77669,
+    "city": "南京市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q927701"
+  },
+  {
+    "name": "太和宫金殿",
+    "lat": 25.09031,
+    "lng": 102.76931,
+    "city": "昆明市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q928422"
+  },
+  {
+    "name": "三星堆遗址",
+    "lat": 30.993719,
+    "lng": 104.199826,
+    "city": "广汉市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q929072"
+  },
+  {
+    "name": "甘丹寺",
+    "lat": 29.758516,
+    "lng": 91.476319,
+    "city": "达孜区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q932446"
+  },
+  {
+    "name": "腊玛古猿化石地点",
+    "lat": 25.21969,
+    "lng": 102.05671,
+    "city": "禄丰市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q938298"
+  },
+  {
+    "name": "巴丹吉林沙漠",
+    "lat": 40.399722222,
+    "lng": 102.000277777,
+    "city": "中华人民共和国",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q939033"
+  },
+  {
+    "name": "巴丹吉林沙漠",
+    "lat": 40.399722222,
+    "lng": 102.000277777,
+    "city": "中华人民共和国",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q939033"
+  },
+  {
+    "name": "巴丹吉林沙漠",
+    "lat": 40.0725,
+    "lng": 102.21,
+    "city": "中华人民共和国",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q939033"
+  },
+  {
+    "name": "巴丹吉林沙漠",
+    "lat": 40.0725,
+    "lng": 102.21,
+    "city": "中华人民共和国",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q939033"
+  },
+  {
+    "name": "巴丹吉林沙漠",
+    "lat": 40.399722222,
+    "lng": 102.000277777,
+    "city": "甘肃省",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q939033"
+  },
+  {
+    "name": "巴丹吉林沙漠",
+    "lat": 40.399722222,
+    "lng": 102.000277777,
+    "city": "甘肃省",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q939033"
+  },
+  {
+    "name": "巴丹吉林沙漠",
+    "lat": 40.0725,
+    "lng": 102.21,
+    "city": "甘肃省",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q939033"
+  },
+  {
+    "name": "巴丹吉林沙漠",
+    "lat": 40.0725,
+    "lng": 102.21,
+    "city": "甘肃省",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q939033"
+  },
+  {
+    "name": "定县开元寺塔",
+    "lat": 38.510243,
+    "lng": 114.996646,
+    "city": "定州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q941575"
+  },
+  {
+    "name": "香山公园",
+    "lat": 39.990997222,
+    "lng": 116.179691666,
+    "city": "香山街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q943688"
+  },
+  {
+    "name": "唐乾陵",
+    "lat": 34.569176111,
+    "lng": 108.214733055,
+    "city": "乾县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q950653"
+  },
+  {
+    "name": "人字洞遗址",
+    "lat": 31.0637,
+    "lng": 118.0944,
+    "city": "繁昌区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q962083"
+  },
+  {
+    "name": "人字洞遗址",
+    "lat": 31.0637,
+    "lng": 118.0944,
+    "city": "孙村镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q962083"
+  },
+  {
+    "name": "日坛",
+    "lat": 39.914416666,
+    "lng": 116.438111111,
+    "city": "朝外街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q964720"
+  },
+  {
+    "name": "灵渠",
+    "lat": 25.6215045,
+    "lng": 110.662479,
+    "city": "兴安县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q966140"
+  },
+  {
+    "name": "灵渠",
+    "lat": 25.6215045,
+    "lng": 110.662479,
+    "city": "兴安县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q966140"
+  },
+  {
+    "name": "玉佛寺",
+    "lat": 31.243333333,
+    "lng": 121.440277777,
+    "city": "上海市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q967601"
+  },
+  {
+    "name": "玉佛寺",
+    "lat": 31.243333333,
+    "lng": 121.440277777,
+    "city": "上海市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q967601"
+  },
+  {
+    "name": "却藏寺",
+    "lat": 37.004457,
+    "lng": 101.903034,
+    "city": "互助土族自治县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q970920"
+  },
+  {
+    "name": "南胜窑址",
+    "lat": 24.21013,
+    "lng": 117.34603,
+    "city": "平和县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q971221"
+  },
+  {
+    "name": "保俶塔",
+    "lat": 30.26333333,
+    "lng": 120.14361111,
+    "city": "杭州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q977249"
+  },
+  {
+    "name": "嘉樂庇總督大橋",
+    "lat": 22.17638889,
+    "lng": 113.54611111,
+    "city": "澳门",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q977841"
+  },
+  {
+    "name": "柏孜克里克千佛洞",
+    "lat": 42.955427,
+    "lng": 89.539726,
+    "city": "吐鲁番市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q980774"
+  },
+  {
+    "name": "光孝寺",
+    "lat": 23.1321,
+    "lng": 113.251,
+    "city": "广州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q985779"
+  },
+  {
+    "name": "和平纪念碑",
+    "lat": 22.28163185,
+    "lng": 114.1605753,
+    "city": "中西区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q986377"
+  },
+  {
+    "name": "白天鹅宾馆",
+    "lat": 23.10852,
+    "lng": 113.23739,
+    "city": "荔湾区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q986382"
+  },
+  {
+    "name": "阳山碑材",
+    "lat": 32.06851,
+    "lng": 119.00074,
+    "city": "南京市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q986628"
+  },
+  {
+    "name": "周公庙遗址",
+    "lat": 34.488157,
+    "lng": 107.600261,
+    "city": "岐山县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q991847"
+  },
+  {
+    "name": "东莲觉苑",
+    "lat": 22.2671,
+    "lng": 114.186,
+    "city": "香港",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q996513"
+  },
+  {
+    "name": "金上京会宁府遗址",
+    "lat": 45.479515,
+    "lng": 126.965389,
+    "city": "阿城区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q999015"
+  },
+  {
+    "name": "白杨沟佛寺遗址",
+    "lat": 43.01544,
+    "lng": 92.98166,
+    "city": "伊州区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1000944"
+  },
+  {
+    "name": "卜奎清真寺",
+    "lat": 47.34861111,
+    "lng": 123.945,
+    "city": "齐齐哈尔市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1003421"
+  },
+  {
+    "name": "卜奎清真寺",
+    "lat": 47.34861111,
+    "lng": 123.945,
+    "city": "建华区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1003421"
+  },
+  {
+    "name": "法王寺",
+    "lat": 34.5035,
+    "lng": 113.0206,
+    "city": "登封市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1013774"
+  },
+  {
+    "name": "大鹏所城",
+    "lat": 22.596967,
+    "lng": 114.50886,
+    "city": "龙岗区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1022212"
+  },
+  {
+    "name": "阿斯塔那古墓群",
+    "lat": 42.88155,
+    "lng": 89.52711389,
+    "city": "吐鲁番市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q746537"
+  },
+  {
+    "name": "柏林寺",
+    "lat": 39.945013888,
+    "lng": 116.413733333,
+    "city": "北新桥街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q746736"
+  },
+  {
+    "name": "广胜寺",
+    "lat": 36.30293,
+    "lng": 111.808788,
+    "city": "洪洞县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q749896"
+  },
+  {
+    "name": "库木吐喇千佛洞",
+    "lat": 41.7117,
+    "lng": 82.6784,
+    "city": "库车市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q750102"
+  },
+  {
+    "name": "藏王墓",
+    "lat": 29.017821,
+    "lng": 91.679769,
+    "city": "琼结县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q750107"
+  },
+  {
+    "name": "榆林窟",
+    "lat": 40.059154,
+    "lng": 95.936136,
+    "city": "瓜州县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q751622"
+  },
+  {
+    "name": "亚斯立堂",
+    "lat": 39.90138889,
+    "lng": 116.41416667,
+    "city": "建国门街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q751648"
+  },
+  {
+    "name": "托林寺",
+    "lat": 31.482826,
+    "lng": 79.797557,
+    "city": "托林镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q770276"
+  },
+  {
+    "name": "颜庙",
+    "lat": 35.6008,
+    "lng": 116.989,
+    "city": "曲阜市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q770590"
+  },
+  {
+    "name": "仙鹤寺",
+    "lat": 32.391887,
+    "lng": 119.428098,
+    "city": "广陵区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q776883"
+  },
+  {
+    "name": "代县阿育王塔",
+    "lat": 39.067959,
+    "lng": 112.952703,
+    "city": "上馆镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q793368"
+  },
+  {
+    "name": "东下冯遗址",
+    "lat": 35.255041,
+    "lng": 111.309827,
+    "city": "夏县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q793516"
+  },
+  {
+    "name": "扒村窑址",
+    "lat": 34.27477,
+    "lng": 113.45128,
+    "city": "禹州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q798609"
+  },
+  {
+    "name": "八达岭",
+    "lat": 40.35428,
+    "lng": 116.00649,
+    "city": "八达岭镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q798826"
+  },
+  {
+    "name": "八达岭",
+    "lat": 40.35428,
+    "lng": 116.00649,
+    "city": "八达岭镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q798826"
+  },
+  {
+    "name": "嘉陽小火車及芭石窄軌鐵路",
+    "lat": 29.26734,
+    "lng": 103.81761,
+    "city": "犍为县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q803209"
+  },
+  {
+    "name": "白帝城",
+    "lat": 31.043489997,
+    "lng": 109.570541373,
+    "city": "奉节县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q803709"
+  },
+  {
+    "name": "白鹤梁",
+    "lat": 29.715,
+    "lng": 107.3875,
+    "city": "涪陵区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q803748"
+  },
+  {
+    "name": "白鹤梁",
+    "lat": 29.715,
+    "lng": 107.3875,
+    "city": "涪陵区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q803748"
+  },
+  {
+    "name": "白莲洞遗址",
+    "lat": 24.21361111,
+    "lng": 109.42777778,
+    "city": "柳州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q803830"
+  },
+  {
+    "name": "白羊村遗址",
+    "lat": 25.84782,
+    "lng": 100.58514,
+    "city": "宾川县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q804034"
+  },
+  {
+    "name": "白云观",
+    "lat": 39.8989,
+    "lng": 116.338,
+    "city": "月坛街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q804054"
+  },
+  {
+    "name": "八连城遗址",
+    "lat": 42.858046,
+    "lng": 130.283044,
+    "city": "珲春市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q804954"
+  },
+  {
+    "name": "灞陵桥",
+    "lat": 35.1348,
+    "lng": 104.2146,
+    "city": "渭源县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q804974"
+  },
+  {
+    "name": "曼飞龙塔",
+    "lat": 21.6008,
+    "lng": 100.68647,
+    "city": "景洪市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q805988"
+  },
+  {
+    "name": "邦纳寺",
+    "lat": 31.439334,
+    "lng": 94.599409,
+    "city": "索县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q806014"
+  },
+  {
+    "name": "棒托寺",
+    "lat": 32.5204996,
+    "lng": 101.0581056,
+    "city": "壤塘县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q806548"
+  },
+  {
+    "name": "半坡遗址",
+    "lat": 34.27444444,
+    "lng": 109.0475,
+    "city": "西安市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q806929"
+  },
+  {
+    "name": "半山遗址",
+    "lat": 35.48558,
+    "lng": 103.79289,
+    "city": "广河县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q806953"
+  },
+  {
+    "name": "平武报恩寺",
+    "lat": 32.41111112,
+    "lng": 104.53000001,
+    "city": "平武县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q807043"
+  },
+  {
+    "name": "宝带桥",
+    "lat": 31.25888889,
+    "lng": 120.64952778,
+    "city": "苏州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q807059"
+  },
+  {
+    "name": "大报国慈仁寺",
+    "lat": 39.889488,
+    "lng": 116.353369,
+    "city": "广安门内街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q807062"
+  },
+  {
+    "name": "宝善寺",
+    "lat": 43.6044,
+    "lng": 120.05448,
+    "city": "阿鲁科尔沁旗",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q807074"
+  },
+  {
+    "name": "八十垱遗址",
+    "lat": 29.75742,
+    "lng": 111.84689,
+    "city": "澧县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q809967"
+  },
+  {
+    "name": "岜团桥",
+    "lat": 25.93805556,
+    "lng": 109.475,
+    "city": "三江侗族自治县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q811043"
+  },
+  {
+    "name": "贝大日如来佛石窟寺和勒巴沟摩崖",
+    "lat": 32.89694444,
+    "lng": 97.07583333,
+    "city": "玉树市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q814615"
+  },
+  {
+    "name": "沁阳北大寺",
+    "lat": 35.095038888,
+    "lng": 112.936488888,
+    "city": "沁阳市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q814645"
+  },
+  {
+    "name": "北京东岳庙",
+    "lat": 39.923611111,
+    "lng": 116.437777777,
+    "city": "朝阳区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q814721"
+  },
+  {
+    "name": "北石窟寺",
+    "lat": 35.611,
+    "lng": 107.5322,
+    "city": "庆阳市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q814874"
+  },
+  {
+    "name": "北首岭遗址",
+    "lat": 34.3857,
+    "lng": 107.1541,
+    "city": "金台区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q814875"
+  },
+  {
+    "name": "北寨墓群",
+    "lat": 35.545,
+    "lng": 118.41805556,
+    "city": "沂南县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q814953"
+  },
+  {
+    "name": "明清皇家陵寝",
+    "lat": 31.01666667,
+    "lng": 112.65,
+    "city": null,
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q817164"
+  },
+  {
+    "name": "白利寺",
+    "lat": 31.63745,
+    "lng": 99.87255,
+    "city": "甘孜县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q820557"
+  },
+  {
+    "name": "西安清真大寺",
+    "lat": 34.263385616,
+    "lng": 108.936655788,
+    "city": "西安市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q820842"
+  },
+  {
+    "name": "独乐寺",
+    "lat": 40.04416667,
+    "lng": 117.39666667,
+    "city": "蓟州区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q822195"
+  },
+  {
+    "name": "团城演武厅",
+    "lat": 39.98388889,
+    "lng": 116.20305556,
+    "city": "海淀区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q822338"
+  },
+  {
+    "name": "都江堰",
+    "lat": 31.00925,
+    "lng": 103.60441667,
+    "city": "都江堰市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q824157"
+  },
+  {
+    "name": "红旗渠",
+    "lat": 36.35241,
+    "lng": 113.75953,
+    "city": "林州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q825310"
+  },
+  {
+    "name": "四门塔",
+    "lat": 36.45294,
+    "lng": 117.12982,
+    "city": "历城区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q825323"
+  },
+  {
+    "name": "抚顺战犯管理所",
+    "lat": 41.883888888,
+    "lng": 123.901388888,
+    "city": "新抚区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q826694"
+  },
+  {
+    "name": "广济桥",
+    "lat": 23.66519444,
+    "lng": 116.6515,
+    "city": "湘桥区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q826705"
+  },
+  {
+    "name": "五公祠",
+    "lat": 20.01,
+    "lng": 110.35527778,
+    "city": "琼山区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q826816"
+  },
+  {
+    "name": "奉国寺",
+    "lat": 41.54277778,
+    "lng": 121.2425,
+    "city": "义县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q830297"
+  },
+  {
+    "name": "石宝寨",
+    "lat": 30.42169992,
+    "lng": 108.183649904,
+    "city": "忠县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q830926"
+  },
+  {
+    "name": "城头山遗址",
+    "lat": 29.69166667,
+    "lng": 111.65555556,
+    "city": "澧县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q834417"
+  },
+  {
+    "name": "报恩寺塔",
+    "lat": 31.3245,
+    "lng": 120.615,
+    "city": "苏州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q836041"
+  },
+  {
+    "name": "香港铁路博物馆",
+    "lat": 22.4483,
+    "lng": 114.16373,
+    "city": "大埔区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q837151"
+  },
+  {
+    "name": "议事亭前地",
+    "lat": 22.19358333,
+    "lng": 113.53966667,
+    "city": "澳门",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q837935"
+  },
+  {
+    "name": "议事亭前地",
+    "lat": 22.19358333,
+    "lng": 113.53966667,
+    "city": "澳门",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q837935"
+  },
+  {
+    "name": "天柱山",
+    "lat": 30.116666666,
+    "lng": 116.083333333,
+    "city": "潜山市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q837965"
+  },
+  {
+    "name": "平遥双林寺",
+    "lat": 37.17083333,
+    "lng": 112.125,
+    "city": "平遥县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q837991"
+  },
+  {
+    "name": "平遥双林寺",
+    "lat": 37.17083333,
+    "lng": 112.125,
+    "city": "平遥县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q837991"
+  },
+  {
+    "name": "明故宫",
+    "lat": 32.03957,
+    "lng": 118.812385,
+    "city": "玄武区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q838028"
+  },
+  {
+    "name": "明故宫",
+    "lat": 32.03957,
+    "lng": 118.812385,
+    "city": "秦淮区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q838028"
+  },
+  {
+    "name": "大炮台",
+    "lat": 22.196944444,
+    "lng": 113.542222222,
+    "city": "澳门",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q838085"
+  },
+  {
+    "name": "大炮台",
+    "lat": 22.196944444,
+    "lng": 113.542222222,
+    "city": "澳门",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q838085"
+  },
+  {
+    "name": "八宝山革命公墓",
+    "lat": 39.907736111,
+    "lng": 116.235963888,
+    "city": "老山街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q838166"
+  },
+  {
+    "name": "礼宾府",
+    "lat": 22.278663888,
+    "lng": 114.157416666,
+    "city": "香港",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q838415"
+  },
+  {
+    "name": "英皇书院",
+    "lat": 22.2844,
+    "lng": 114.14,
+    "city": "中西区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q838926"
+  },
+  {
+    "name": "镇国寺",
+    "lat": 37.2856,
+    "lng": 112.271,
+    "city": "襄垣乡",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q839048"
+  },
+  {
+    "name": "镇国寺",
+    "lat": 37.2856,
+    "lng": 112.271,
+    "city": "襄垣乡",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q839048"
+  },
+  {
+    "name": "南四湖",
+    "lat": 34.6,
+    "lng": 117.2,
+    "city": "山东省",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q839287"
+  },
+  {
+    "name": "南四湖",
+    "lat": 34.6,
+    "lng": 117.2,
+    "city": "济宁市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q839287"
+  },
+  {
+    "name": "南岳大庙",
+    "lat": 27.24852,
+    "lng": 112.72886,
+    "city": "南岳区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q841750"
+  },
+  {
+    "name": "东涌炮台",
+    "lat": 22.2779,
+    "lng": 113.936,
+    "city": "香港",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q843002"
+  },
+  {
+    "name": "东涌炮台",
+    "lat": 22.2779,
+    "lng": 113.936,
+    "city": "离岛区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q843002"
+  },
+  {
+    "name": "李郑屋汉墓博物馆",
+    "lat": 22.338094444,
+    "lng": 114.160022222,
+    "city": "香港",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q843955"
+  },
+  {
+    "name": "李郑屋汉墓博物馆",
+    "lat": 22.338094444,
+    "lng": 114.160022222,
+    "city": "深水埗区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q843955"
+  },
+  {
+    "name": "北庭大都护府",
+    "lat": 44.06385,
+    "lng": 89.20901,
+    "city": null,
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q846635"
+  },
+  {
+    "name": "东坡书院",
+    "lat": 19.74274556,
+    "lng": 109.353397132,
+    "city": "中和镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q847432"
+  },
+  {
+    "name": "鄂陵湖",
+    "lat": 34.9,
+    "lng": 97.7,
+    "city": "玛多县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q847864"
+  },
+  {
+    "name": "函谷关",
+    "lat": 34.63,
+    "lng": 110.92,
+    "city": null,
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q848793"
+  },
+  {
+    "name": "函谷关",
+    "lat": 34.7206,
+    "lng": 112.1658,
+    "city": null,
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q848793"
+  },
+  {
+    "name": "北福地遗址",
+    "lat": 39.28871,
+    "lng": 115.37882,
+    "city": "易县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q852038"
+  },
+  {
+    "name": "沈阳故宫",
+    "lat": 41.795833333,
+    "lng": 123.45,
+    "city": "沈阳市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q852429"
+  },
+  {
+    "name": "沈阳故宫",
+    "lat": 41.795833333,
+    "lng": 123.45,
+    "city": "沈阳市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q852429"
+  },
+  {
+    "name": "坎兒井",
+    "lat": 42.87266667,
+    "lng": 89.39765833,
+    "city": "新疆维吾尔自治区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q852896"
+  },
+  {
+    "name": "中国南方喀斯特",
+    "lat": 24.9233,
+    "lng": 110.3544,
+    "city": null,
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q853364"
+  },
+  {
+    "name": "盘门",
+    "lat": 31.28916667,
+    "lng": 120.61194444,
+    "city": "苏州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q855173"
+  },
+  {
+    "name": "领报修院",
+    "lat": 31.230384,
+    "lng": 103.913316,
+    "city": "白鹿镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q855182"
+  },
+  {
+    "name": "一江山岛",
+    "lat": 28.61,
+    "lng": 121.82,
+    "city": "台州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q856381"
+  },
+  {
+    "name": "孙中山纪念馆",
+    "lat": 22.282,
+    "lng": 114.151,
+    "city": "中西区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q856430"
+  },
+  {
+    "name": "和顺图书馆",
+    "lat": 25.01378,
+    "lng": 98.45747,
+    "city": "和顺镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q856507"
+  },
+  {
+    "name": "钓鱼台遗址",
+    "lat": 38.557,
+    "lng": 114.61458,
+    "city": "曲阳县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1209075"
+  },
+  {
+    "name": "顶蛳山遗址",
+    "lat": 22.72588,
+    "lng": 108.46863,
+    "city": "邕宁区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1226465"
+  },
+  {
+    "name": "拔萃男书院",
+    "lat": 22.323333333,
+    "lng": 114.174166666,
+    "city": "香港",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1226763"
+  },
+  {
+    "name": "拔萃男书院",
+    "lat": 22.323333333,
+    "lng": 114.174166666,
+    "city": "油尖旺区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1226763"
+  },
+  {
+    "name": "扎赉诺尔墓群",
+    "lat": 49.41315,
+    "lng": 117.7357,
+    "city": "满洲里市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1231981"
+  },
+  {
+    "name": "克孜尔千佛洞",
+    "lat": 41.784444444,
+    "lng": 82.504722222,
+    "city": "拜城县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1234019"
+  },
+  {
+    "name": "克孜尔千佛洞",
+    "lat": 41.784444444,
+    "lng": 82.504722222,
+    "city": "拜城县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1234019"
+  },
+  {
+    "name": "南禅寺",
+    "lat": 38.701256257,
+    "lng": 113.113825142,
+    "city": "五台县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1239887"
+  },
+  {
+    "name": "皮央和东嘎遗址",
+    "lat": 31.67227,
+    "lng": 79.831167,
+    "city": "札达县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1241354"
+  },
+  {
+    "name": "皮央和东嘎遗址",
+    "lat": 31.67227,
+    "lng": 79.831167,
+    "city": "托林镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1241354"
+  },
+  {
+    "name": "东岳石遗址",
+    "lat": 36.989341,
+    "lng": 119.89869,
+    "city": "平度市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1241489"
+  },
+  {
+    "name": "大钟寺",
+    "lat": 39.96783,
+    "lng": 116.33196,
+    "city": "中关村街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1242684"
+  },
+  {
+    "name": "贡嘎曲德寺",
+    "lat": 29.267824,
+    "lng": 90.812828,
+    "city": "贡嘎县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1253613"
+  },
+  {
+    "name": "贡嘎曲德寺",
+    "lat": 29.267824,
+    "lng": 90.812828,
+    "city": "岗堆村",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1253613"
+  },
+  {
+    "name": "扎塘寺",
+    "lat": 29.24254,
+    "lng": 91.33171,
+    "city": "扎塘镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1255876"
+  },
+  {
+    "name": "崇圣寺三塔",
+    "lat": 25.70849,
+    "lng": 100.14594,
+    "city": "大理镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1257126"
+  },
+  {
+    "name": "直贡梯寺",
+    "lat": 30.106685669,
+    "lng": 92.204272092,
+    "city": "门巴乡",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1259005"
+  },
+  {
+    "name": "卓玛拉康",
+    "lat": 28.851525,
+    "lng": 85.29636,
+    "city": "吉隆县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1261705"
+  },
+  {
+    "name": "白马寺",
+    "lat": 34.723888888,
+    "lng": 112.599722222,
+    "city": "白马寺镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1264618"
+  },
+  {
+    "name": "白马寺",
+    "lat": 34.723888888,
+    "lng": 112.599722222,
+    "city": "白马寺镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1264618"
+  },
+  {
+    "name": "驼山石窟",
+    "lat": 36.648956,
+    "lng": 118.430852,
+    "city": "青州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1266095"
+  },
+  {
+    "name": "佐钦寺",
+    "lat": 32.12246,
+    "lng": 98.85943,
+    "city": "德格县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1269528"
+  },
+  {
+    "name": "塔子城址",
+    "lat": 46.608845,
+    "lng": 123.064564,
+    "city": "泰来县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1269529"
+  },
+  {
+    "name": "邺",
+    "lat": 36.2748,
+    "lng": 114.4002,
+    "city": "临漳县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1274372"
+  },
+  {
+    "name": "炭河里遗址",
+    "lat": 28.156,
+    "lng": 112.1063,
+    "city": "宁乡市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1275633"
+  },
+  {
+    "name": "雁门关",
+    "lat": 39.19350278,
+    "lng": 112.87030556,
+    "city": "代县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1275915"
+  },
+  {
+    "name": "悬空寺",
+    "lat": 39.6595566,
+    "lng": 113.7083634,
+    "city": "浑源县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1276887"
+  },
+  {
+    "name": "中国丹霞",
+    "lat": 28.4219,
+    "lng": 106.043,
+    "city": null,
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1286650"
+  },
+  {
+    "name": "高颐墓阙及石刻",
+    "lat": 30.02333333,
+    "lng": 103.05277778,
+    "city": "雨城区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1289909"
+  },
+  {
+    "name": "固阳秦长城遗址",
+    "lat": 41.11949,
+    "lng": 110.21261,
+    "city": "固阳县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1292461"
+  },
+  {
+    "name": "江孜宗山抗英遗址",
+    "lat": 28.917819,
+    "lng": 89.599212,
+    "city": "江孜县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1297848"
+  },
+  {
+    "name": "国民政府财政部印刷局旧址",
+    "lat": 39.87444444,
+    "lng": 116.35111111,
+    "city": "白纸坊街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1299365"
+  },
+  {
+    "name": "普乐寺",
+    "lat": 40.99583333,
+    "lng": 117.95472222,
+    "city": "承德市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1301033"
+  },
+  {
+    "name": "石龙坝水电站",
+    "lat": 24.85779,
+    "lng": 102.5233,
+    "city": "西山区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1302478"
+  },
+  {
+    "name": "喇家遗址",
+    "lat": 35.86491,
+    "lng": 102.80441,
+    "city": "喇家村",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1317169"
+  },
+  {
+    "name": "石钟山石窟",
+    "lat": 26.360086111,
+    "lng": 99.836423055,
+    "city": "剑川县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1319390"
+  },
+  {
+    "name": "玉门关",
+    "lat": 40.352172,
+    "lng": 93.863826,
+    "city": "敦煌市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1324562"
+  },
+  {
+    "name": "玉门关",
+    "lat": 40.352172,
+    "lng": 93.863826,
+    "city": "敦煌市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1324562"
+  },
+  {
+    "name": "艾提尕尔清真寺",
+    "lat": 39.47227,
+    "lng": 75.984106,
+    "city": "喀什市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1325825"
+  },
+  {
+    "name": "井冈山",
+    "lat": 26.603611111,
+    "lng": 114.195833333,
+    "city": "井冈山市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1326780"
+  },
+  {
+    "name": "豫园",
+    "lat": 31.22916667,
+    "lng": 121.4875,
+    "city": "黄浦区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1328025"
+  },
+  {
+    "name": "尼雅遗址",
+    "lat": 37.822685,
+    "lng": 82.771896,
+    "city": "民丰县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1329268"
+  },
+  {
+    "name": "中岳庙",
+    "lat": 34.45916667,
+    "lng": 113.06777778,
+    "city": "登封市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1329558"
+  },
+  {
+    "name": "交河故城",
+    "lat": 42.95051742,
+    "lng": 89.06393051,
+    "city": "高昌区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1330939"
+  },
+  {
+    "name": "交河故城",
+    "lat": 42.95051742,
+    "lng": 89.06393051,
+    "city": "高昌区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1330939"
+  },
+  {
+    "name": "西安城墙",
+    "lat": 34.253338888,
+    "lng": 108.942226111,
+    "city": "西安市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1334336"
+  },
+  {
+    "name": "邵阳北塔",
+    "lat": 27.25041667,
+    "lng": 111.46680556,
+    "city": "北塔区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1337711"
+  },
+  {
+    "name": "中山陵",
+    "lat": 32.064416666,
+    "lng": 118.848269444,
+    "city": "玄武区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1338405"
+  },
+  {
+    "name": "甘孜寺",
+    "lat": 31.63414,
+    "lng": 99.98297,
+    "city": "甘孜镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1339059"
+  },
+  {
+    "name": "黔西观音洞遗址",
+    "lat": 26.85694,
+    "lng": 105.96778,
+    "city": "黔西市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1342644"
+  },
+  {
+    "name": "昭苏圣佑庙",
+    "lat": 43.16230556,
+    "lng": 81.11069444,
+    "city": "昭苏县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1343962"
+  },
+  {
+    "name": "太庙",
+    "lat": 39.91,
+    "lng": 116.39361111,
+    "city": "东华门街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1347866"
+  },
+  {
+    "name": "北京社稷坛",
+    "lat": 39.91041667,
+    "lng": 116.38861111,
+    "city": "东华门街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1361047"
+  },
+  {
+    "name": "延一井旧址",
+    "lat": 36.57934,
+    "lng": 110.00024,
+    "city": "延长县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1362131"
+  },
+  {
+    "name": "朱仙镇清真寺",
+    "lat": 34.607011111,
+    "lng": 114.258416666,
+    "city": "朱仙镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1377096"
+  },
+  {
+    "name": "苏巴什佛寺遗址",
+    "lat": 41.85580556,
+    "lng": 83.04702778,
+    "city": "库车市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1377456"
+  },
+  {
+    "name": "苏巴什佛寺遗址",
+    "lat": 41.85580556,
+    "lng": 83.04702778,
+    "city": "库车市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1377456"
+  },
+  {
+    "name": "万发拨子遗址",
+    "lat": 41.692676,
+    "lng": 125.92487,
+    "city": "东昌区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1377754"
+  },
+  {
+    "name": "西黃寺",
+    "lat": 39.96305556,
+    "lng": 116.38416667,
+    "city": "安贞街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1378964"
+  },
+  {
+    "name": "寿州窑",
+    "lat": 32.71637,
+    "lng": 117.15601,
+    "city": "大通区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1385902"
+  },
+  {
+    "name": "巩县石窟",
+    "lat": 34.81333333,
+    "lng": 113.02388889,
+    "city": "巩义市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1387840"
+  },
+  {
+    "name": "法海寺",
+    "lat": 39.9401,
+    "lng": 116.1533,
+    "city": "金顶街街道",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1392042"
+  },
+  {
+    "name": "九门口",
+    "lat": 40.1176,
+    "lng": 119.7439,
+    "city": "抚宁区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1398264"
+  },
+  {
+    "name": "九门口",
+    "lat": 40.1176,
+    "lng": 119.7439,
+    "city": "绥中县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1398264"
+  },
+  {
+    "name": "法源寺",
+    "lat": 39.883333333,
+    "lng": 116.363611111,
+    "city": "西城区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1399104"
+  },
+  {
+    "name": "法源寺",
+    "lat": 39.883333333,
+    "lng": 116.363611111,
+    "city": "西城区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1399104"
+  },
+  {
+    "name": "地藏寺经幢",
+    "lat": 25.0354133,
+    "lng": 102.7268457,
+    "city": "官渡区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1400538"
+  },
+  {
+    "name": "飞来峰造像",
+    "lat": 30.24194444,
+    "lng": 120.09777778,
+    "city": "杭州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1401634"
+  },
+  {
+    "name": "飞英塔",
+    "lat": 30.875,
+    "lng": 120.10161111,
+    "city": "湖州市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1402148"
+  },
+  {
+    "name": "阴山岩画",
+    "lat": 40.95992,
+    "lng": 106.80242,
+    "city": "磴口县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1404141"
+  },
+  {
+    "name": "天柱山摩崖石刻",
+    "lat": 36.9617,
+    "lng": 119.93581,
+    "city": "平度市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1404357"
+  },
+  {
+    "name": "皇泽寺摩崖造像",
+    "lat": 32.44138889,
+    "lng": 105.81083333,
+    "city": "利州区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1404412"
+  },
+  {
+    "name": "汾阳五岳庙",
+    "lat": 37.18055556,
+    "lng": 111.63694444,
+    "city": "三泉镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1404931"
+  },
+  {
+    "name": "龙骨坡遗址",
+    "lat": 30.863076943,
+    "lng": 109.665769612,
+    "city": "巫山县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1407451"
+  },
+  {
+    "name": "晋祠",
+    "lat": 37.708318,
+    "lng": 112.43579,
+    "city": "晋祠镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1413164"
+  },
+  {
+    "name": "开鲁县佛塔",
+    "lat": 43.59361111,
+    "lng": 121.31138889,
+    "city": "开鲁县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1414296"
+  },
+  {
+    "name": "东山关帝庙",
+    "lat": 23.73666667,
+    "lng": 117.53194444,
+    "city": "东山县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1424878"
+  },
+  {
+    "name": "东山关帝庙",
+    "lat": 23.73666667,
+    "lng": 117.53194444,
+    "city": "铜陵镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1424878"
+  },
+  {
+    "name": "嘎拖寺",
+    "lat": 31.31253,
+    "lng": 98.94163,
+    "city": "白玉县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1430204"
+  },
+  {
+    "name": "桑耶寺",
+    "lat": 29.326436,
+    "lng": 91.504218,
+    "city": "扎囊县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1430211"
+  },
+  {
+    "name": "桑耶寺",
+    "lat": 29.326436,
+    "lng": 91.504218,
+    "city": "桑耶镇",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1430211"
+  },
+  {
+    "name": "曲村—天马遗址",
+    "lat": 35.7357,
+    "lng": 111.56281,
+    "city": "曲沃县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1436244"
+  },
+  {
+    "name": "旅顺监狱旧址",
+    "lat": 38.824024,
+    "lng": 121.261173,
+    "city": "大连市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1445125"
+  },
+  {
+    "name": "广惠寺华塔",
+    "lat": 38.13180556,
+    "lng": 114.56583333,
+    "city": "正定县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1449853"
+  },
+  {
+    "name": "洪泽湖大堤",
+    "lat": 33.174399,
+    "lng": 118.771697,
+    "city": "淮安市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1453457"
+  },
+  {
+    "name": "龙兴观道德经幢",
+    "lat": 39.34241,
+    "lng": 115.49158,
+    "city": "易县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1453716"
+  },
+  {
+    "name": "吐虎鲁克·铁木尔汗麻扎",
+    "lat": 44.24019444,
+    "lng": 80.53316667,
+    "city": "伊犁哈萨克自治州",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1455687"
+  },
+  {
+    "name": "铁店窑遗址",
+    "lat": 28.997937,
+    "lng": 119.504314,
+    "city": "金华市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1469980"
+  },
+  {
+    "name": "清福陵",
+    "lat": 41.83293,
+    "lng": 123.58351,
+    "city": "沈阳市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1473630"
+  },
+  {
+    "name": "清福陵",
+    "lat": 41.83293,
+    "lng": 123.58351,
+    "city": "沈阳市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1473630"
+  },
+  {
+    "name": "富盛窑址",
+    "lat": 29.95736,
+    "lng": 120.72207,
+    "city": "柯桥区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1475314"
+  },
+  {
+    "name": "玉泉观",
+    "lat": 34.58527778,
+    "lng": 105.70805556,
+    "city": "秦州区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1478269"
+  },
+  {
+    "name": "浙南石棚墓群",
+    "lat": 27.611782,
+    "lng": 120.523071,
+    "city": "苍南县",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1479926"
+  },
+  {
+    "name": "真如寺石塔",
+    "lat": 28.01001,
+    "lng": 120.81723,
+    "city": "乐清市",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1480783"
+  },
+  {
+    "name": "三星村遗址",
+    "lat": 31.68449,
+    "lng": 119.48883,
+    "city": "金坛区",
+    "source": "unesco",
+    "category": "attraction",
+    "wikidata_id": "Q1480848"
+  }
+]

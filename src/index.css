@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+/* 排除 public/data 下的大 JSON（provinces/*.json 最大 6MB）
+   不排除的话 tailwindcss oxide scanner 会扫所有文本文件，触发 rayon 多线程死循环 */
+@source not "../public/data";
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
@@ -10,4 +14,9 @@ body {
 }
 .time-input::-webkit-date-and-time-value {
   text-align: left;
+}
+
+@keyframes toast-in {
+  from { opacity: 0; transform: translateY(-8px); }
+  to { opacity: 1; transform: translateY(0); }
 }
